@@ -1,4 +1,4 @@
-# MosqEditR Manuscript 2: Phase-2 Discovery and Ag3 External Validation
+# MosqEditR: Phase-2 Discovery and Ag3 External Validation
 
 ## Overview
 
