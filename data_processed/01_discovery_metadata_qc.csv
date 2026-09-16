@@ -1,0 +1,9 @@
+metric,value
+Phase 2 phased samples in local handoff,1003
+Primary gambiae/coluzzii phased samples,938
+Primary samples with population ID,938
+Primary populations n>=20,10
+Sensitivity populations n>=10,11
+Sensitivity populations n>=30,9
+Primary samples using country-taxon fallback population,0
+R network requests in Step 01,0

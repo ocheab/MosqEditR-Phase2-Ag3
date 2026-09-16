@@ -1,0 +1,12 @@
+id,authors,title,journal,year,doi_or_url
+1,World Health Organization,World malaria report 2025,World Health Organization,2025,https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2025
+2,"Hammond A, Galizi R, Kyrou K, et al.",A CRISPR-Cas9 gene drive system targeting female reproduction in the malaria mosquito vector Anopheles gambiae,Nature Biotechnology,2016,10.1038/nbt.3439
+3,"Kyrou K, Hammond AM, Galizi R, et al.",A CRISPR-Cas9 gene drive targeting doublesex causes complete population suppression in caged Anopheles gambiae mosquitoes,Nature Biotechnology,2018,10.1038/nbt.4245
+4,"Simoni A, Hammond AM, Beaghton AK, et al.",A male-biased sex-distorter gene drive for the human malaria vector Anopheles gambiae,Nature Biotechnology,2020,10.1038/s41587-020-0508-1
+5,"Unckless RL, Clark AG, Messer PW",Evolution of resistance against CRISPR/Cas9 gene drive,Genetics,2017,10.1534/genetics.116.197285
+6,The Anopheles gambiae 1000 Genomes Consortium,Genome variation and population structure among 1142 mosquitoes of the African malaria vector species Anopheles gambiae and Anopheles coluzzii,Genome Research,2020,10.1101/gr.262790.120
+7,"Kranjc N, Crisanti A, Nolan T, Bernardini F",Anopheles gambiae Genome Conservation as a Resource for Rational Gene Drive Target Site Selection,Insects,2021,10.3390/insects12020097
+8,The Anopheles gambiae 1000 Genomes Consortium,Ag3: The Anopheles gambiae 1000 Genomes Project phase 3 data resource,MalariaGEN,2021,https://www.malariagen.net/resource/33/
+9,"Morianou I, Phillimore L, Khatri BS, et al.","Engineering resilient gene drives for sustainable malaria control by predicting, testing and overcoming target site resistance in Anopheles gambiae",PLOS Biology,2026,10.1371/journal.pbio.3003879
+10,"Collier TC, Lee Y, Mathias DK, et al.",CRISPR-Cas9 and Cas12a target site richness reflects genomic diversity in natural populations of Anopheles gambiae and Aedes aegypti mosquitoes,BMC Genomics,2024,10.1186/s12864-024-10597-4
+11,"Carballar-Lejarazu R, Ogaugwu C, Tushar T, et al.","Next-generation gene drive for population modification of the malaria vector mosquito, Anopheles gambiae",Proceedings of the National Academy of Sciences USA,2020,10.1073/pnas.2010214117

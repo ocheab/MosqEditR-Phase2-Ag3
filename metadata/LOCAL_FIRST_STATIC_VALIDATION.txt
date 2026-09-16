@@ -1,0 +1,51 @@
+MosqEditR Manuscript 2 — LOCAL-FIRST TARGETED ACQUISITION STATIC VALIDATION
+Generated: 2026-09-12
+Runtime note: R and malariagen_data are not installed in this artifact-build container; therefore R/API execution could not be performed here.
+Python source compilation, Bash parsing, static R/PowerShell structure, frozen-input integrity, request budgets, and local-only architecture were validated.
+
+OVERALL	PASS
+
+CHECK	STATUS	DETAIL
+Frozen genes == 106	PASS	106
+Frozen sites == 530	PASS	530
+Canonical-arm sites == 515	PASS	515
+Unplaced sites == 15	PASS	15
+Exactly 5 sites per gene	PASS	min=5; max=5
+All target spans exactly 23 bp	PASS	
+All protospacers exactly 20 nt	PASS	
+All PAMs exactly 3 nt	PASS	
+Haplotype window plan	PASS	356 windows; 9,344 logical bp
+Accessibility window plan	PASS	116 windows; 32,912 logical bp
+Haplotype safety budget <=250,000 bp	PASS	9,344
+Accessibility safety budget <=2,500,000 bp	PASS	32,912
+Python syntax: scripts/acquire_ag3_targeted.py	PASS	
+Bash syntax: scripts/acquire_ag3_targeted.sh	PASS	
+Bash syntax: scripts/run_pipeline_local_first.sh	PASS	
+Bash syntax: scripts/setup_ag3_python.sh	PASS	
+R static delimiters: R/00_preflight_and_freeze.R	PASS	
+R static delimiters: R/01_acquire_ag3_metadata.R	PASS	
+R static delimiters: R/01a_diagnose_ag3_access.R	PASS	
+R static delimiters: R/02_extract_ag3_target_variation.R	PASS	
+R static delimiters: R/03_compute_population_site_metrics.R	PASS	
+R static delimiters: R/04_optimize_multiplex_portfolios.R	PASS	
+R static delimiters: R/05_gene_robustness_and_reranking.R	PASS	
+R static delimiters: R/06_sensitivity_and_validation.R	PASS	
+R static delimiters: R/07_publication_figures_and_tables.R	PASS	
+R static delimiters: R/07b_generate_manuscript_results_snapshot.R	PASS	
+R static delimiters: R/08_freeze_reproducible_release.R	PASS	
+R static delimiters: R/helpers.R	PASS	
+R static delimiters: R/install_dependencies.R	PASS	
+R static delimiters: run_all.R	PASS	
+PowerShell static delimiters: scripts/acquire_ag3_targeted.ps1	PASS	
+PowerShell static delimiters: scripts/run_pipeline_local_first.ps1	PASS	
+PowerShell static delimiters: scripts/setup_ag3_python.ps1	PASS	
+R local-only guard: R/01_acquire_ag3_metadata.R	PASS	
+R local-only guard: R/02_extract_ag3_target_variation.R	PASS	
+Sites-only haplotype prefilter present	PASS	
+Regional haplotype API present	PASS	
+Regional accessibility API present	PASS	
+Primary-taxa sample query present	PASS	
+Out-of-window response abort guard present	PASS	
+No whole-VCF downloader implemented	PASS	
+2 GiB local-output safety cap configured	PASS	
+malariagen_data pinned to 15.8.0	PASS	

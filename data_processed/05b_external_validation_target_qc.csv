@@ -1,0 +1,9 @@
+metric,value
+External-validation frozen sites,354
+Genes represented,102
+Benchmark genes represented,6
+Sites selected as best single,102
+Sites selected as pair member,202
+Sites selected as triple member,294
+Sites selected because benchmark gene,30
+Ag3 rows read during target freezing,0

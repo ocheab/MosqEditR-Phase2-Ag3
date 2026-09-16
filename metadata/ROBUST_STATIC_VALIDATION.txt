@@ -1,0 +1,47 @@
+MOSQEDIT-R MANUSCRIPT 2 — ROBUST STATIC VALIDATION
+Build-time validation report for the rewritten R pipeline.
+
+IMPORTANT: The build environment did not contain an R/Rscript interpreter, so this is a static validation, not a full R runtime execution.
+The scripts perform additional runtime assertions and stop early with specific error messages when executed in R.
+
+R lexical checks:
+- R/00_preflight_and_freeze.R: PASS (166 lines; hard-coded Windows path=NO; absolute setwd literal=NO)
+- R/01_acquire_ag3_metadata.R: PASS (185 lines; hard-coded Windows path=NO; absolute setwd literal=NO)
+- R/02_extract_ag3_target_variation.R: PASS (417 lines; hard-coded Windows path=YES; absolute setwd literal=NO)
+- R/03_compute_population_site_metrics.R: PASS (363 lines; hard-coded Windows path=NO; absolute setwd literal=NO)
+- R/04_optimize_multiplex_portfolios.R: PASS (221 lines; hard-coded Windows path=NO; absolute setwd literal=NO)
+- R/05_gene_robustness_and_reranking.R: PASS (214 lines; hard-coded Windows path=NO; absolute setwd literal=NO)
+- R/06_sensitivity_and_validation.R: PASS (434 lines; hard-coded Windows path=NO; absolute setwd literal=NO)
+- R/07_publication_figures_and_tables.R: PASS (289 lines; hard-coded Windows path=NO; absolute setwd literal=NO)
+- R/07b_generate_manuscript_results_snapshot.R: PASS (131 lines; hard-coded Windows path=NO; absolute setwd literal=NO)
+- R/08_freeze_reproducible_release.R: PASS (131 lines; hard-coded Windows path=NO; absolute setwd literal=NO)
+- R/helpers.R: PASS (462 lines; hard-coded Windows path=YES; absolute setwd literal=NO)
+- R/install_dependencies.R: PASS (50 lines; hard-coded Windows path=YES; absolute setwd literal=NO)
+- run_all.R: PASS (89 lines; hard-coded Windows path=NO; absolute setwd literal=NO)
+
+Frozen-input checks:
+- genes: 106
+- sites: 530
+- canonical_arm_sites: 515
+- unplaced_sites: 15
+- sites_per_gene_min: 5
+- sites_per_gene_max: 5
+- intervals_23bp_all: True
+- protospacers_20nt_all: True
+- pam_3nt_all: True
+- gene_ranks_unique: True
+
+Configured weight sums:
+- site_robustness_weights: 1
+- multiplex_robustness_weights: 1
+- gene_robustness_weights: 1
+
+Regression checks for previously identified failure modes:
+- step04_loads_site_metrics: PASS
+- step05_uses_column_selected_site_merge: PASS
+- haploid_parser_keeps_h2_missing: PASS
+- run_all_uses_clean_subprocess: PASS
+- run_all_no_which_shadowing: PASS
+- step07_tiff_optional_fallback: PASS
+
+Overall static status: PASS

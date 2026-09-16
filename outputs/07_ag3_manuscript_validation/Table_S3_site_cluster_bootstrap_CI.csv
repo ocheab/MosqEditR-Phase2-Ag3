@@ -1,0 +1,6 @@
+analysis,estimate,ci_low,ci_high,bootstrap_unit,B
+Phase2 global exact vs Ag3 strict exact Spearman,0.754878547647999,0.692292125740773,0.805564950548792,locked population_site_id; both taxon rows retained,5000
+Phase2 population q10 exact vs Ag3 strict exact Spearman,0.711469240419303,0.646797697294198,0.767122051179406,locked population_site_id; both taxon rows retained,5000
+Phase2 PAM intact vs Ag3 exact 3bp PAM Spearman,0.480030098808454,0.398536844728541,0.557634773846969,locked population_site_id; both taxon rows retained,5000
+Phase2 PAM intact vs Ag3 functional NGG PAM Spearman,0.393800793567554,0.305039740912124,0.475397447460512,locked population_site_id; both taxon rows retained,5000
+Phase2 max alt AF vs Ag3 max-position AF Spearman,0.674960203294333,0.604291623515985,0.734097306667872,locked population_site_id; both taxon rows retained,5000

@@ -1,0 +1,10 @@
+# Windows-safe Phase-2 discovery helper + Ag3 external-validation support.
+PyYAML>=6.0,<7
+pandas>=2.2,<3
+numpy>=1.26,<3
+requests>=2.31,<3
+h5py>=3.11,<4
+fsspec>=2024.6
+gcsfs>=2024.6
+zarr>=2.18,<3
+numcodecs>=0.13,<0.16

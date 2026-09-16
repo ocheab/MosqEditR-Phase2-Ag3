@@ -1,0 +1,6 @@
+analysis,n,spearman_rho,pearson_r,interpretation
+Phase2 global exact vs mean Ag3 strict exact,354,0.822541478676423,0.759153741623976,Rank diagnostic only; estimands are not numerically interchangeable
+Phase2 population q10 exact vs mean Ag3 strict exact,354,0.779059638306682,0.75547454389741,Rank diagnostic only; estimands are not numerically interchangeable
+Phase2 PAM intact vs mean Ag3 exact 3bp PAM,354,0.613200951174257,0.417510725583338,Descriptive exact-PAM concordance
+Phase2 PAM intact vs mean Ag3 functional NGG PAM,354,0.508575229738035,0.288682920613306,Descriptive functional-PAM concordance
+Phase2 max alt AF vs mean Ag3 max-position nonreference AF,354,0.747698594476429,0.70641789979301,Preferred quantitative cross-release allele-frequency concordance

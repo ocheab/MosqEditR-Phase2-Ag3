@@ -1,0 +1,14 @@
+Phase-2 X sample-axis patch — static validation
+Date: 2026-09-13
+
+PASS: Python acquisition script compiles with Python py_compile.
+PASS: Hard failure requiring identical sample membership/order across contigs removed.
+PASS: Per-contig sample membership retained.
+PASS: Union sample axis generated deterministically from primary metadata order.
+PASS: Missing contig/sample combinations are represented downstream as NA, not reference.
+PASS: Existing contig caches may be reused only after file-size and SHA-256 verification.
+PASS: R Step 02 generates contig-specific sample/population manifests.
+PASS: R Step 03 uses contig-specific population eligibility.
+PASS: R Step 04 uses contig-specific population eligibility.
+PASS: Structural delimiter audit passed for patched R Steps 02, 03 and 04.
+NOTE: Full R runtime execution was not available in the packaging container; final runtime validation occurs on the user's R installation during run_all.R.

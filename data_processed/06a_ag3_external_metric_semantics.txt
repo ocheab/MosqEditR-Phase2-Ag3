@@ -1,0 +1,6 @@
+Ag3 exact_23bp_fraction is a strict UNPHASED-GENOTYPE metric: a sample is exact only when every called allele at all 23 frozen target bases matches the frozen guide/PAM sequence.
+Ag3 protospacer_exact_20bp_fraction requires exact frozen-sequence agreement across the 20-nt protospacer.
+Ag3 pam_ngg_intact_fraction tests functional SpCas9 NGG preservation; variation at the PAM N base is allowed, whereas either guide-oriented G must remain G.
+Ag3 pam_exact_3bp_fraction is a stricter exact three-base PAM sequence metric and is reported separately.
+Ag3 max_position_nonreference_allele_fraction_23bp is the maximum mismatch-allele frequency at any one of the 23 frozen target positions and is the preferred cross-release allele-frequency concordance metric.
+Phase-2 target_23bp_exact_match_fraction is phased-haplotype based and is not numerically interchangeable with the Ag3 strict-genotype exact fraction; only a rank correlation is reported as a descriptive diagnostic.

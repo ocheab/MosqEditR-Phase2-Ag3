@@ -1,0 +1,6 @@
+population_deployment_class,N,deployment_class_priority
+HIGHLY_ROBUST,82,1
+MULTIPLEX_RESCUABLE,18,2
+INTERMEDIATE,1,3
+CONCERN,1,4
+UNRESOLVED,4,5

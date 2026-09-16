@@ -1,0 +1,13 @@
+metric,value
+Taxon-level rows,708
+Unique locked sites,354
+Unique genes,102
+Taxa,"coluzzii,gambiae"
+Mean callable sample fraction,0.997249
+Phase2 global exact vs Ag3 strict exact Spearman rho,0.754879
+Phase2 q10 exact vs Ag3 strict exact Spearman rho,0.711469
+Phase2 max AF vs Ag3 max-position AF Spearman rho,0.67496
+Phase2 max AF vs Ag3 max-position AF MAE,0.105909
+Phase2 max AF vs Ag3 max-position AF RMSE,0.191395
+Discovery ranks changed by Ag3,0
+Discovery thresholds changed by Ag3,0

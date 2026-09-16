@@ -1,0 +1,16 @@
+scope,taxon,analysis,interpretation,n,spearman_rho,pearson_r
+pooled_taxon_rows,pooled,Phase2 global exact vs Ag3 strict 23bp exact,Rank diagnostic only: phased haplotype vs unphased genotype estimands,708,0.754878547647999,0.739934451346409
+taxon_specific,gambiae,Phase2 global exact vs Ag3 strict 23bp exact,Rank diagnostic only: phased haplotype vs unphased genotype estimands,354,0.786387508399099,0.737548848398747
+taxon_specific,coluzzii,Phase2 global exact vs Ag3 strict 23bp exact,Rank diagnostic only: phased haplotype vs unphased genotype estimands,354,0.724448355731926,0.743382922140994
+pooled_taxon_rows,pooled,Phase2 population q10 exact vs Ag3 strict 23bp exact,Rank diagnostic only: population-tail phased metric vs unphased genotype estimand,708,0.711469240419303,0.736348398875169
+taxon_specific,gambiae,Phase2 population q10 exact vs Ag3 strict 23bp exact,Rank diagnostic only: population-tail phased metric vs unphased genotype estimand,354,0.726640746721981,0.730946025838602
+taxon_specific,coluzzii,Phase2 population q10 exact vs Ag3 strict 23bp exact,Rank diagnostic only: population-tail phased metric vs unphased genotype estimand,354,0.697346833296971,0.742942049288695
+pooled_taxon_rows,pooled,Phase2 PAM intact vs Ag3 exact 3bp PAM,Descriptive PAM-sequence concordance,708,0.480030098808454,0.38775586387315
+taxon_specific,gambiae,Phase2 PAM intact vs Ag3 exact 3bp PAM,Descriptive PAM-sequence concordance,354,0.49349621967729,0.308151500893413
+taxon_specific,coluzzii,Phase2 PAM intact vs Ag3 exact 3bp PAM,Descriptive PAM-sequence concordance,354,0.468929533906438,0.476644379040487
+pooled_taxon_rows,pooled,Phase2 PAM intact vs Ag3 functional NGG PAM,Descriptive functional-PAM concordance; Ag3 allows variation at PAM N,708,0.393800793567554,0.271111923918729
+taxon_specific,gambiae,Phase2 PAM intact vs Ag3 functional NGG PAM,Descriptive functional-PAM concordance; Ag3 allows variation at PAM N,354,0.402431970078941,0.241237443926161
+taxon_specific,coluzzii,Phase2 PAM intact vs Ag3 functional NGG PAM,Descriptive functional-PAM concordance; Ag3 allows variation at PAM N,354,0.387705458810695,0.310098262926028
+pooled_taxon_rows,pooled,Phase2 max alt AF vs Ag3 max-position nonreference AF,Preferred quantitative cross-release allele-frequency concordance,708,0.674960203294333,0.691919039824537
+taxon_specific,gambiae,Phase2 max alt AF vs Ag3 max-position nonreference AF,Preferred quantitative cross-release allele-frequency concordance,354,0.686023869655976,0.677998129505527
+taxon_specific,coluzzii,Phase2 max alt AF vs Ag3 max-position nonreference AF,Preferred quantitative cross-release allele-frequency concordance,354,0.664938529076129,0.707921200789707

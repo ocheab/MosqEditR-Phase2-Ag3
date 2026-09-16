@@ -1,0 +1,11 @@
+scope,analysis,estimate,ci_low,ci_high,bootstrap_unit,n_genes,B
+primary_site_mean,Phase2 global exact vs mean Ag3 strict exact Spearman,0.822541478676423,0.762126399215028,0.871925527560672,gene_id; all locked sites and relevant taxon rows retained,102,5000
+primary_site_mean,Phase2 population q10 exact vs mean Ag3 strict exact Spearman,0.779059638306682,0.709726475951752,0.838659229267977,gene_id; all locked sites and relevant taxon rows retained,102,5000
+primary_site_mean,Phase2 PAM intact vs mean Ag3 exact 3bp PAM Spearman,0.613200951174257,0.526446683709699,0.688432109406478,gene_id; all locked sites and relevant taxon rows retained,102,5000
+primary_site_mean,Phase2 PAM intact vs mean Ag3 functional NGG PAM Spearman,0.508575229738035,0.38885617572122,0.6139742273275,gene_id; all locked sites and relevant taxon rows retained,102,5000
+primary_site_mean,Phase2 max alt AF vs mean Ag3 max-position AF Spearman,0.747698594476429,0.667869610765072,0.816559685475933,gene_id; all locked sites and relevant taxon rows retained,102,5000
+pooled_taxon_rows,Phase2 global exact vs Ag3 strict exact Spearman,0.754878547647999,0.689744331028517,0.809434056699402,gene_id; all locked sites and relevant taxon rows retained,102,5000
+pooled_taxon_rows,Phase2 population q10 exact vs Ag3 strict exact Spearman,0.711469240419303,0.6380741888797,0.773975073527899,gene_id; all locked sites and relevant taxon rows retained,102,5000
+pooled_taxon_rows,Phase2 PAM intact vs Ag3 exact 3bp PAM Spearman,0.480030098808454,0.39526568836754,0.55813978033501,gene_id; all locked sites and relevant taxon rows retained,102,5000
+pooled_taxon_rows,Phase2 PAM intact vs Ag3 functional NGG PAM Spearman,0.393800793567554,0.285231792170284,0.49715636250432,gene_id; all locked sites and relevant taxon rows retained,102,5000
+pooled_taxon_rows,Phase2 max alt AF vs Ag3 max-position AF Spearman,0.674960203294333,0.597153409827375,0.743842352090184,gene_id; all locked sites and relevant taxon rows retained,102,5000

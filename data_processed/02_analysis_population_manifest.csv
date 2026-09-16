@@ -1,0 +1,14 @@
+population_id,n_samples,n_locations,year_min,year_max,country,taxon,primary_population_n20,sensitivity_population_n10,sensitivity_population_n30
+AOcol,78,0,2009,2009,Angola,coluzzii,TRUE,TRUE,TRUE
+BFcol,75,0,2012,2012,Burkina Faso,coluzzii,TRUE,TRUE,TRUE
+BFgam,92,0,2012,2012,Burkina Faso,gambiae,TRUE,TRUE,TRUE
+CMgam,297,0,2009,2009,Cameroon,gambiae,TRUE,TRUE,TRUE
+CIcol,71,0,2012,2012,Cote d'Ivoire,coluzzii,TRUE,TRUE,TRUE
+GQgam,9,0,2002,2002,Equatorial Guinea,gambiae,FALSE,FALSE,FALSE
+FRgam,24,0,2011,2011,France,gambiae,TRUE,TRUE,FALSE
+GAgam,69,0,2000,2000,Gabon,gambiae,TRUE,TRUE,TRUE
+GHcol,55,0,2012,2012,Ghana,coluzzii,TRUE,TRUE,TRUE
+GHgam,12,0,2012,2012,Ghana,gambiae,FALSE,TRUE,FALSE
+GNcol,4,0,2012,2012,Guinea,coluzzii,FALSE,FALSE,FALSE
+GNgam,40,0,2012,2012,Guinea,gambiae,TRUE,TRUE,TRUE
+UGgam,112,0,2012,2012,Uganda,gambiae,TRUE,TRUE,TRUE

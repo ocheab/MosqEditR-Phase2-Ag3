@@ -1,0 +1,14 @@
+[PASS] Frozen source sites = 530 — 530
+[PASS] Config parses
+[PASS] Python compile scripts/acquire_phase2_discovery.py — compiled
+[PASS] Python compile scripts/acquire_ag3_external_validation.py — compiled
+[PASS] No pysam in active requirements — # Minimal Windows-safe helper environment for Phase-2 metadata/accessibility only. | # Remote VCF/tabix access is performed in R via Bioconductor Rsamtools/VariantAnnotation. | PyYAML>=6.0,<7 | pandas>=2.2,<3 | numpy>=1.26,<3 | requests>=2.31,<3 | h5py>=3.11,<4
+[PASS] Setup import test excludes pysam
+[PASS] Phase2 wrapper invokes Rsamtools R acquisition
+[PASS] Ag3 wrapper invokes R acquisition
+[PASS] True SHA256 helper present
+[PASS] Step05b uses SHA256 helper
+[PASS] Bracket scan R/00b_acquire_phase2_phased_remote.R — balanced
+[PASS] Bracket scan R/05c_acquire_ag3_external_public_sanger.R — balanced
+[PASS] HEAD-only range guard R/00b_acquire_phase2_phased_remote.R
+[PASS] HEAD-only range guard R/05c_acquire_ag3_external_public_sanger.R

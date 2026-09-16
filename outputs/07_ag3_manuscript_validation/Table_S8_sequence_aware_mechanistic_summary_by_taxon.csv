@@ -1,0 +1,3 @@
+taxon,n_sites,mean_strict_exact_23bp,median_strict_exact_23bp,mean_protospacer_exact_20bp,median_protospacer_exact_20bp,mean_exact_pam_3bp,mean_functional_ngg_pam,mean_functional_target_intact,mean_max_position_nonreference_af
+gambiae,354,0.807586205729515,0.96,0.822131696023328,0.968,0.97831766319796,0.982312386141005,0.810185529944546,0.126570036114352
+coluzzii,354,0.824055736071533,0.968,0.835788579248604,0.976,0.982015569702138,0.986998994084637,0.82682456194701,0.113649293050759

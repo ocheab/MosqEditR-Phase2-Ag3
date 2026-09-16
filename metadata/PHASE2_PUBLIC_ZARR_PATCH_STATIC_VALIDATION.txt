@@ -1,0 +1,16 @@
+PHASE2_PUBLIC_ZARR_PATCH_STATIC_VALIDATION
+overall=PASS
+python_ast=PASS
+no_shapeit_vcf_discovery=PASS
+public_anon_gcs=PASS
+probe_only=PASS
+numpy2_safe_taxon=PASS
+requirement_gcsfs=PASS
+requirement_fsspec=PASS
+requirement_zarr=PASS
+requirement_numcodecs=PASS
+phase2_wrapper_no_rsamtools_stage=PASS
+config_public_bucket=PASS
+config_public_prefix=PASS
+source_mode_zarr=PASS
+frozen_summary_present=PASS

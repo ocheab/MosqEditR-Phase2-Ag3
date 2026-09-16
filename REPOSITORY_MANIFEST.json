@@ -1,0 +1,11 @@
+{
+  "project": "MosqEditR Manuscript 2",
+  "documentation_pack_created": "2026-09-16",
+  "frozen_external_sites": 354,
+  "frozen_external_genes": 102,
+  "ag3_final_samples": 500,
+  "ag3_gambiae": 250,
+  "ag3_coluzzii": 250,
+  "target_lock_sha256": "eb8dd496c21690750a6a6d1fe6c4f19acbdfb138e2a31de3990687d6e942a2f3",
+  "note": "Integrate with the complete local repository before public release."
+}

@@ -1,0 +1,4607 @@
+sample_id,contig,population_id,country,taxon
+AA0040-C,2R,GHcol,Ghana,coluzzii
+AA0041-C,2R,GHcol,Ghana,coluzzii
+AA0042-C,2R,GHcol,Ghana,coluzzii
+AA0043-C,2R,GHcol,Ghana,coluzzii
+AA0044-C,2R,GHcol,Ghana,coluzzii
+AA0048-C,2R,GHgam,Ghana,gambiae
+AA0049-C,2R,GHcol,Ghana,coluzzii
+AA0050-C,2R,GHgam,Ghana,gambiae
+AA0051-C,2R,GHcol,Ghana,coluzzii
+AA0052-C,2R,GHcol,Ghana,coluzzii
+AA0053-C,2R,GHcol,Ghana,coluzzii
+AA0054-C,2R,GHcol,Ghana,coluzzii
+AA0055-C,2R,GHcol,Ghana,coluzzii
+AA0056-C,2R,GHcol,Ghana,coluzzii
+AA0060-C,2R,GHgam,Ghana,gambiae
+AA0061-C,2R,GHgam,Ghana,gambiae
+AA0063-C,2R,GHcol,Ghana,coluzzii
+AA0064-C,2R,GHcol,Ghana,coluzzii
+AA0066-C,2R,GHcol,Ghana,coluzzii
+AA0067-C,2R,GHcol,Ghana,coluzzii
+AA0068-C,2R,GHcol,Ghana,coluzzii
+AA0072-C,2R,GHgam,Ghana,gambiae
+AA0073-C,2R,GHcol,Ghana,coluzzii
+AA0074-C,2R,GHcol,Ghana,coluzzii
+AA0075-C,2R,GHcol,Ghana,coluzzii
+AA0076-C,2R,GHcol,Ghana,coluzzii
+AA0077-C,2R,GHcol,Ghana,coluzzii
+AA0080-C,2R,GHcol,Ghana,coluzzii
+AA0084-C,2R,GHgam,Ghana,gambiae
+AA0085-C,2R,GHgam,Ghana,gambiae
+AA0086-C,2R,GHgam,Ghana,gambiae
+AA0087-C,2R,GHcol,Ghana,coluzzii
+AA0088-C,2R,GHcol,Ghana,coluzzii
+AA0089-C,2R,GHcol,Ghana,coluzzii
+AA0090-C,2R,GHcol,Ghana,coluzzii
+AA0091-C,2R,GHcol,Ghana,coluzzii
+AA0096-C,2R,GHgam,Ghana,gambiae
+AA0097-C,2R,GHcol,Ghana,coluzzii
+AA0098-C,2R,GHcol,Ghana,coluzzii
+AA0099-C,2R,GHcol,Ghana,coluzzii
+AA0100-C,2R,GHcol,Ghana,coluzzii
+AA0101-C,2R,GHcol,Ghana,coluzzii
+AA0102-C,2R,GHcol,Ghana,coluzzii
+AA0103-C,2R,GHcol,Ghana,coluzzii
+AA0104-C,2R,GHcol,Ghana,coluzzii
+AA0107-C,2R,GHcol,Ghana,coluzzii
+AA0108-C,2R,GHgam,Ghana,gambiae
+AA0109-C,2R,GHcol,Ghana,coluzzii
+AA0110-C,2R,GHcol,Ghana,coluzzii
+AA0111-C,2R,GHcol,Ghana,coluzzii
+AA0113-C,2R,GHcol,Ghana,coluzzii
+AA0114-C,2R,GHcol,Ghana,coluzzii
+AA0115-C,2R,GHcol,Ghana,coluzzii
+AA0116-C,2R,GHcol,Ghana,coluzzii
+AA0122-C,2R,GHgam,Ghana,gambiae
+AA0123-C,2R,GHcol,Ghana,coluzzii
+AA0124-C,2R,GHcol,Ghana,coluzzii
+AA0125-C,2R,GHcol,Ghana,coluzzii
+AA0127-C,2R,GHcol,Ghana,coluzzii
+AA0132-C,2R,GHcol,Ghana,coluzzii
+AA0133-C,2R,GHgam,Ghana,gambiae
+AA0134-C,2R,GHcol,Ghana,coluzzii
+AA0135-C,2R,GHcol,Ghana,coluzzii
+AA0136-C,2R,GHcol,Ghana,coluzzii
+AA0139-C,2R,GHcol,Ghana,coluzzii
+AA0140-C,2R,GHcol,Ghana,coluzzii
+AA0141-C,2R,GHcol,Ghana,coluzzii
+AB0085-C,2R,BFgam,Burkina Faso,gambiae
+AB0087-C,2R,BFcol,Burkina Faso,coluzzii
+AB0088-C,2R,BFcol,Burkina Faso,coluzzii
+AB0089-C,2R,BFcol,Burkina Faso,coluzzii
+AB0090-C,2R,BFcol,Burkina Faso,coluzzii
+AB0091-C,2R,BFcol,Burkina Faso,coluzzii
+AB0092-C,2R,BFcol,Burkina Faso,coluzzii
+AB0094-C,2R,BFcol,Burkina Faso,coluzzii
+AB0095-C,2R,BFcol,Burkina Faso,coluzzii
+AB0097-C,2R,BFcol,Burkina Faso,coluzzii
+AB0098-C,2R,BFcol,Burkina Faso,coluzzii
+AB0099-C,2R,BFcol,Burkina Faso,coluzzii
+AB0100-C,2R,BFcol,Burkina Faso,coluzzii
+AB0101-C,2R,BFcol,Burkina Faso,coluzzii
+AB0103-C,2R,BFgam,Burkina Faso,gambiae
+AB0104-C,2R,BFgam,Burkina Faso,gambiae
+AB0108-C,2R,BFgam,Burkina Faso,gambiae
+AB0109-C,2R,BFcol,Burkina Faso,coluzzii
+AB0110-C,2R,BFcol,Burkina Faso,coluzzii
+AB0111-C,2R,BFcol,Burkina Faso,coluzzii
+AB0112-C,2R,BFcol,Burkina Faso,coluzzii
+AB0113-C,2R,BFcol,Burkina Faso,coluzzii
+AB0114-C,2R,BFcol,Burkina Faso,coluzzii
+AB0115-C,2R,BFcol,Burkina Faso,coluzzii
+AB0117-C,2R,BFgam,Burkina Faso,gambiae
+AB0118-C,2R,BFgam,Burkina Faso,gambiae
+AB0119-C,2R,BFgam,Burkina Faso,gambiae
+AB0122-C,2R,BFcol,Burkina Faso,coluzzii
+AB0123-C,2R,BFcol,Burkina Faso,coluzzii
+AB0124-C,2R,BFcol,Burkina Faso,coluzzii
+AB0126-C,2R,BFgam,Burkina Faso,gambiae
+AB0127-C,2R,BFgam,Burkina Faso,gambiae
+AB0128-C,2R,BFgam,Burkina Faso,gambiae
+AB0129-C,2R,BFgam,Burkina Faso,gambiae
+AB0130-C,2R,BFgam,Burkina Faso,gambiae
+AB0133-C,2R,BFgam,Burkina Faso,gambiae
+AB0134-C,2R,BFgam,Burkina Faso,gambiae
+AB0135-C,2R,BFgam,Burkina Faso,gambiae
+AB0136-C,2R,BFgam,Burkina Faso,gambiae
+AB0137-C,2R,BFcol,Burkina Faso,coluzzii
+AB0138-C,2R,BFcol,Burkina Faso,coluzzii
+AB0139-C,2R,BFcol,Burkina Faso,coluzzii
+AB0140-C,2R,BFcol,Burkina Faso,coluzzii
+AB0142-C,2R,BFcol,Burkina Faso,coluzzii
+AB0143-C,2R,BFgam,Burkina Faso,gambiae
+AB0145-C,2R,BFgam,Burkina Faso,gambiae
+AB0146-C,2R,BFgam,Burkina Faso,gambiae
+AB0147-C,2R,BFgam,Burkina Faso,gambiae
+AB0148-C,2R,BFgam,Burkina Faso,gambiae
+AB0150-C,2R,BFgam,Burkina Faso,gambiae
+AB0151-C,2R,BFgam,Burkina Faso,gambiae
+AB0153-C,2R,BFgam,Burkina Faso,gambiae
+AB0155-C,2R,BFgam,Burkina Faso,gambiae
+AB0157-C,2R,BFgam,Burkina Faso,gambiae
+AB0158-C,2R,BFgam,Burkina Faso,gambiae
+AB0159-C,2R,BFgam,Burkina Faso,gambiae
+AB0160-C,2R,BFgam,Burkina Faso,gambiae
+AB0161-C,2R,BFgam,Burkina Faso,gambiae
+AB0162-C,2R,BFgam,Burkina Faso,gambiae
+AB0164-C,2R,BFgam,Burkina Faso,gambiae
+AB0165-C,2R,BFgam,Burkina Faso,gambiae
+AB0166-C,2R,BFgam,Burkina Faso,gambiae
+AB0167-C,2R,BFgam,Burkina Faso,gambiae
+AB0169-C,2R,BFgam,Burkina Faso,gambiae
+AB0170-C,2R,BFgam,Burkina Faso,gambiae
+AB0171-C,2R,BFgam,Burkina Faso,gambiae
+AB0172-C,2R,BFgam,Burkina Faso,gambiae
+AB0173-C,2R,BFgam,Burkina Faso,gambiae
+AB0174-C,2R,BFgam,Burkina Faso,gambiae
+AB0175-C,2R,BFgam,Burkina Faso,gambiae
+AB0176-C,2R,BFgam,Burkina Faso,gambiae
+AB0177-C,2R,BFgam,Burkina Faso,gambiae
+AB0178-C,2R,BFgam,Burkina Faso,gambiae
+AB0179-C,2R,BFgam,Burkina Faso,gambiae
+AB0181-C,2R,BFcol,Burkina Faso,coluzzii
+AB0182-C,2R,BFcol,Burkina Faso,coluzzii
+AB0183-C,2R,BFcol,Burkina Faso,coluzzii
+AB0184-C,2R,BFcol,Burkina Faso,coluzzii
+AB0185-C,2R,BFcol,Burkina Faso,coluzzii
+AB0186-C,2R,BFcol,Burkina Faso,coluzzii
+AB0187-C,2R,BFcol,Burkina Faso,coluzzii
+AB0188-C,2R,BFcol,Burkina Faso,coluzzii
+AB0189-C,2R,BFcol,Burkina Faso,coluzzii
+AB0190-C,2R,BFcol,Burkina Faso,coluzzii
+AB0191-C,2R,BFcol,Burkina Faso,coluzzii
+AB0192-C,2R,BFcol,Burkina Faso,coluzzii
+AB0195-C,2R,BFcol,Burkina Faso,coluzzii
+AB0196-C,2R,BFcol,Burkina Faso,coluzzii
+AB0197-C,2R,BFgam,Burkina Faso,gambiae
+AB0198-C,2R,BFgam,Burkina Faso,gambiae
+AB0199-C,2R,BFgam,Burkina Faso,gambiae
+AB0200-C,2R,BFgam,Burkina Faso,gambiae
+AB0201-C,2R,BFgam,Burkina Faso,gambiae
+AB0202-C,2R,BFgam,Burkina Faso,gambiae
+AB0203-C,2R,BFgam,Burkina Faso,gambiae
+AB0204-C,2R,BFcol,Burkina Faso,coluzzii
+AB0205-C,2R,BFgam,Burkina Faso,gambiae
+AB0206-C,2R,BFgam,Burkina Faso,gambiae
+AB0207-C,2R,BFgam,Burkina Faso,gambiae
+AB0208-C,2R,BFgam,Burkina Faso,gambiae
+AB0209-C,2R,BFcol,Burkina Faso,coluzzii
+AB0210-C,2R,BFcol,Burkina Faso,coluzzii
+AB0211-C,2R,BFgam,Burkina Faso,gambiae
+AB0212-C,2R,BFcol,Burkina Faso,coluzzii
+AB0213-C,2R,BFcol,Burkina Faso,coluzzii
+AB0215-C,2R,BFcol,Burkina Faso,coluzzii
+AB0217-C,2R,BFgam,Burkina Faso,gambiae
+AB0218-C,2R,BFgam,Burkina Faso,gambiae
+AB0219-C,2R,BFcol,Burkina Faso,coluzzii
+AB0221-C,2R,BFcol,Burkina Faso,coluzzii
+AB0222-C,2R,BFcol,Burkina Faso,coluzzii
+AB0223-C,2R,BFcol,Burkina Faso,coluzzii
+AB0224-C,2R,BFcol,Burkina Faso,coluzzii
+AB0226-C,2R,BFcol,Burkina Faso,coluzzii
+AB0227-C,2R,BFcol,Burkina Faso,coluzzii
+AB0228-C,2R,BFgam,Burkina Faso,gambiae
+AB0229-C,2R,BFcol,Burkina Faso,coluzzii
+AB0231-C,2R,BFgam,Burkina Faso,gambiae
+AB0232-C,2R,BFgam,Burkina Faso,gambiae
+AB0233-C,2R,BFgam,Burkina Faso,gambiae
+AB0234-C,2R,BFcol,Burkina Faso,coluzzii
+AB0235-C,2R,BFgam,Burkina Faso,gambiae
+AB0236-C,2R,BFgam,Burkina Faso,gambiae
+AB0237-C,2R,BFcol,Burkina Faso,coluzzii
+AB0238-C,2R,BFgam,Burkina Faso,gambiae
+AB0239-C,2R,BFgam,Burkina Faso,gambiae
+AB0240-C,2R,BFcol,Burkina Faso,coluzzii
+AB0241-C,2R,BFgam,Burkina Faso,gambiae
+AB0242-C,2R,BFcol,Burkina Faso,coluzzii
+AB0243-C,2R,BFcol,Burkina Faso,coluzzii
+AB0244-C,2R,BFgam,Burkina Faso,gambiae
+AB0246-C,2R,BFcol,Burkina Faso,coluzzii
+AB0247-C,2R,BFcol,Burkina Faso,coluzzii
+AB0248-C,2R,BFcol,Burkina Faso,coluzzii
+AB0249-C,2R,BFcol,Burkina Faso,coluzzii
+AB0250-C,2R,BFcol,Burkina Faso,coluzzii
+AB0251-C,2R,BFgam,Burkina Faso,gambiae
+AB0252-C,2R,BFgam,Burkina Faso,gambiae
+AB0253-C,2R,BFgam,Burkina Faso,gambiae
+AB0255-C,2R,BFgam,Burkina Faso,gambiae
+AB0256-C,2R,BFgam,Burkina Faso,gambiae
+AB0257-C,2R,BFcol,Burkina Faso,coluzzii
+AB0258-C,2R,BFcol,Burkina Faso,coluzzii
+AB0260-C,2R,BFgam,Burkina Faso,gambiae
+AB0261-C,2R,BFgam,Burkina Faso,gambiae
+AB0262-C,2R,BFcol,Burkina Faso,coluzzii
+AB0263-C,2R,BFcol,Burkina Faso,coluzzii
+AB0264-C,2R,BFgam,Burkina Faso,gambiae
+AB0265-C,2R,BFgam,Burkina Faso,gambiae
+AB0266-C,2R,BFcol,Burkina Faso,coluzzii
+AB0267-C,2R,BFcol,Burkina Faso,coluzzii
+AB0268-C,2R,BFgam,Burkina Faso,gambiae
+AB0270-C,2R,BFgam,Burkina Faso,gambiae
+AB0271-C,2R,BFgam,Burkina Faso,gambiae
+AB0272-C,2R,BFgam,Burkina Faso,gambiae
+AB0273-C,2R,BFgam,Burkina Faso,gambiae
+AB0274-C,2R,BFgam,Burkina Faso,gambiae
+AB0275-C,2R,BFgam,Burkina Faso,gambiae
+AB0276-C,2R,BFcol,Burkina Faso,coluzzii
+AB0277-C,2R,BFgam,Burkina Faso,gambiae
+AB0278-C,2R,BFgam,Burkina Faso,gambiae
+AB0279-C,2R,BFcol,Burkina Faso,coluzzii
+AB0280-C,2R,BFgam,Burkina Faso,gambiae
+AB0281-C,2R,BFgam,Burkina Faso,gambiae
+AB0282-C,2R,BFcol,Burkina Faso,coluzzii
+AB0283-C,2R,BFgam,Burkina Faso,gambiae
+AB0284-C,2R,BFgam,Burkina Faso,gambiae
+AC0089-C,2R,UGgam,Uganda,gambiae
+AC0090-C,2R,UGgam,Uganda,gambiae
+AC0091-C,2R,UGgam,Uganda,gambiae
+AC0092-C,2R,UGgam,Uganda,gambiae
+AC0093-C,2R,UGgam,Uganda,gambiae
+AC0094-C,2R,UGgam,Uganda,gambiae
+AC0095-C,2R,UGgam,Uganda,gambiae
+AC0096-C,2R,UGgam,Uganda,gambiae
+AC0097-C,2R,UGgam,Uganda,gambiae
+AC0098-C,2R,UGgam,Uganda,gambiae
+AC0099-C,2R,UGgam,Uganda,gambiae
+AC0100-C,2R,UGgam,Uganda,gambiae
+AC0101-C,2R,UGgam,Uganda,gambiae
+AC0102-C,2R,UGgam,Uganda,gambiae
+AC0103-C,2R,UGgam,Uganda,gambiae
+AC0104-C,2R,UGgam,Uganda,gambiae
+AC0105-C,2R,UGgam,Uganda,gambiae
+AC0106-C,2R,UGgam,Uganda,gambiae
+AC0107-C,2R,UGgam,Uganda,gambiae
+AC0108-C,2R,UGgam,Uganda,gambiae
+AC0109-C,2R,UGgam,Uganda,gambiae
+AC0110-C,2R,UGgam,Uganda,gambiae
+AC0111-C,2R,UGgam,Uganda,gambiae
+AC0112-C,2R,UGgam,Uganda,gambiae
+AC0113-C,2R,UGgam,Uganda,gambiae
+AC0114-C,2R,UGgam,Uganda,gambiae
+AC0115-C,2R,UGgam,Uganda,gambiae
+AC0116-C,2R,UGgam,Uganda,gambiae
+AC0117-C,2R,UGgam,Uganda,gambiae
+AC0118-C,2R,UGgam,Uganda,gambiae
+AC0119-C,2R,UGgam,Uganda,gambiae
+AC0120-C,2R,UGgam,Uganda,gambiae
+AC0121-C,2R,UGgam,Uganda,gambiae
+AC0122-C,2R,UGgam,Uganda,gambiae
+AC0123-C,2R,UGgam,Uganda,gambiae
+AC0124-C,2R,UGgam,Uganda,gambiae
+AC0125-C,2R,UGgam,Uganda,gambiae
+AC0126-C,2R,UGgam,Uganda,gambiae
+AC0127-C,2R,UGgam,Uganda,gambiae
+AC0128-C,2R,UGgam,Uganda,gambiae
+AC0129-C,2R,UGgam,Uganda,gambiae
+AC0130-C,2R,UGgam,Uganda,gambiae
+AC0131-C,2R,UGgam,Uganda,gambiae
+AC0132-C,2R,UGgam,Uganda,gambiae
+AC0133-C,2R,UGgam,Uganda,gambiae
+AC0134-C,2R,UGgam,Uganda,gambiae
+AC0135-C,2R,UGgam,Uganda,gambiae
+AC0136-C,2R,UGgam,Uganda,gambiae
+AC0137-C,2R,UGgam,Uganda,gambiae
+AC0138-C,2R,UGgam,Uganda,gambiae
+AC0139-C,2R,UGgam,Uganda,gambiae
+AC0140-C,2R,UGgam,Uganda,gambiae
+AC0141-C,2R,UGgam,Uganda,gambiae
+AC0142-C,2R,UGgam,Uganda,gambiae
+AC0143-C,2R,UGgam,Uganda,gambiae
+AC0144-C,2R,UGgam,Uganda,gambiae
+AC0145-C,2R,UGgam,Uganda,gambiae
+AC0146-C,2R,UGgam,Uganda,gambiae
+AC0147-C,2R,UGgam,Uganda,gambiae
+AC0148-C,2R,UGgam,Uganda,gambiae
+AC0149-C,2R,UGgam,Uganda,gambiae
+AC0150-C,2R,UGgam,Uganda,gambiae
+AC0151-C,2R,UGgam,Uganda,gambiae
+AC0152-C,2R,UGgam,Uganda,gambiae
+AC0153-C,2R,UGgam,Uganda,gambiae
+AC0154-C,2R,UGgam,Uganda,gambiae
+AC0155-C,2R,UGgam,Uganda,gambiae
+AC0156-C,2R,UGgam,Uganda,gambiae
+AC0157-C,2R,UGgam,Uganda,gambiae
+AC0158-C,2R,UGgam,Uganda,gambiae
+AC0159-C,2R,UGgam,Uganda,gambiae
+AC0160-C,2R,UGgam,Uganda,gambiae
+AC0161-C,2R,UGgam,Uganda,gambiae
+AC0162-C,2R,UGgam,Uganda,gambiae
+AC0163-C,2R,UGgam,Uganda,gambiae
+AC0164-C,2R,UGgam,Uganda,gambiae
+AC0166-C,2R,UGgam,Uganda,gambiae
+AC0167-C,2R,UGgam,Uganda,gambiae
+AC0168-C,2R,UGgam,Uganda,gambiae
+AC0169-C,2R,UGgam,Uganda,gambiae
+AC0170-C,2R,UGgam,Uganda,gambiae
+AC0171-C,2R,UGgam,Uganda,gambiae
+AC0172-C,2R,UGgam,Uganda,gambiae
+AC0173-C,2R,UGgam,Uganda,gambiae
+AC0174-C,2R,UGgam,Uganda,gambiae
+AC0176-C,2R,UGgam,Uganda,gambiae
+AC0177-C,2R,UGgam,Uganda,gambiae
+AC0178-C,2R,UGgam,Uganda,gambiae
+AC0179-C,2R,UGgam,Uganda,gambiae
+AC0180-C,2R,UGgam,Uganda,gambiae
+AC0181-C,2R,UGgam,Uganda,gambiae
+AC0182-C,2R,UGgam,Uganda,gambiae
+AC0183-C,2R,UGgam,Uganda,gambiae
+AC0184-C,2R,UGgam,Uganda,gambiae
+AC0185-C,2R,UGgam,Uganda,gambiae
+AC0186-C,2R,UGgam,Uganda,gambiae
+AC0187-C,2R,UGgam,Uganda,gambiae
+AC0188-C,2R,UGgam,Uganda,gambiae
+AC0189-C,2R,UGgam,Uganda,gambiae
+AC0190-C,2R,UGgam,Uganda,gambiae
+AC0191-C,2R,UGgam,Uganda,gambiae
+AC0192-C,2R,UGgam,Uganda,gambiae
+AC0193-C,2R,UGgam,Uganda,gambiae
+AC0194-C,2R,UGgam,Uganda,gambiae
+AC0195-C,2R,UGgam,Uganda,gambiae
+AC0196-C,2R,UGgam,Uganda,gambiae
+AC0197-C,2R,UGgam,Uganda,gambiae
+AC0199-C,2R,UGgam,Uganda,gambiae
+AC0200-C,2R,UGgam,Uganda,gambiae
+AC0201-C,2R,UGgam,Uganda,gambiae
+AC0202-C,2R,UGgam,Uganda,gambiae
+AC0203-C,2R,UGgam,Uganda,gambiae
+AN0007-C,2R,CMgam,Cameroon,gambiae
+AN0008-C,2R,CMgam,Cameroon,gambiae
+AN0009-C,2R,CMgam,Cameroon,gambiae
+AN0010-C,2R,CMgam,Cameroon,gambiae
+AN0011-C,2R,CMgam,Cameroon,gambiae
+AN0012-C,2R,CMgam,Cameroon,gambiae
+AN0013-C,2R,CMgam,Cameroon,gambiae
+AN0014-C,2R,CMgam,Cameroon,gambiae
+AN0015-C,2R,CMgam,Cameroon,gambiae
+AN0016-C,2R,CMgam,Cameroon,gambiae
+AN0017-C,2R,CMgam,Cameroon,gambiae
+AN0018-C,2R,CMgam,Cameroon,gambiae
+AN0019-C,2R,CMgam,Cameroon,gambiae
+AN0020-C,2R,CMgam,Cameroon,gambiae
+AN0022-C,2R,CMgam,Cameroon,gambiae
+AN0023-C,2R,CMgam,Cameroon,gambiae
+AN0024-C,2R,CMgam,Cameroon,gambiae
+AN0025-C,2R,CMgam,Cameroon,gambiae
+AN0026-C,2R,CMgam,Cameroon,gambiae
+AN0027-C,2R,CMgam,Cameroon,gambiae
+AN0028-C,2R,CMgam,Cameroon,gambiae
+AN0029-C,2R,CMgam,Cameroon,gambiae
+AN0030-C,2R,CMgam,Cameroon,gambiae
+AN0031-C,2R,CMgam,Cameroon,gambiae
+AN0032-C,2R,CMgam,Cameroon,gambiae
+AN0033-C,2R,CMgam,Cameroon,gambiae
+AN0034-C,2R,CMgam,Cameroon,gambiae
+AN0035-C,2R,CMgam,Cameroon,gambiae
+AN0036-C,2R,CMgam,Cameroon,gambiae
+AN0037-C,2R,CMgam,Cameroon,gambiae
+AN0038-C,2R,CMgam,Cameroon,gambiae
+AN0039-C,2R,CMgam,Cameroon,gambiae
+AN0040-C,2R,CMgam,Cameroon,gambiae
+AN0041-C,2R,CMgam,Cameroon,gambiae
+AN0042-C,2R,CMgam,Cameroon,gambiae
+AN0043-C,2R,CMgam,Cameroon,gambiae
+AN0044-C,2R,CMgam,Cameroon,gambiae
+AN0045-C,2R,CMgam,Cameroon,gambiae
+AN0046-C,2R,CMgam,Cameroon,gambiae
+AN0047-C,2R,CMgam,Cameroon,gambiae
+AN0048-C,2R,CMgam,Cameroon,gambiae
+AN0049-C,2R,CMgam,Cameroon,gambiae
+AN0050-C,2R,CMgam,Cameroon,gambiae
+AN0051-C,2R,CMgam,Cameroon,gambiae
+AN0053-C,2R,CMgam,Cameroon,gambiae
+AN0054-C,2R,CMgam,Cameroon,gambiae
+AN0055-C,2R,CMgam,Cameroon,gambiae
+AN0056-C,2R,CMgam,Cameroon,gambiae
+AN0057-C,2R,CMgam,Cameroon,gambiae
+AN0058-C,2R,CMgam,Cameroon,gambiae
+AN0059-C,2R,CMgam,Cameroon,gambiae
+AN0060-C,2R,CMgam,Cameroon,gambiae
+AN0061-C,2R,CMgam,Cameroon,gambiae
+AN0062-C,2R,CMgam,Cameroon,gambiae
+AN0063-C,2R,CMgam,Cameroon,gambiae
+AN0064-C,2R,CMgam,Cameroon,gambiae
+AN0065-C,2R,CMgam,Cameroon,gambiae
+AN0066-C,2R,CMgam,Cameroon,gambiae
+AN0067-C,2R,CMgam,Cameroon,gambiae
+AN0068-C,2R,CMgam,Cameroon,gambiae
+AN0069-C,2R,CMgam,Cameroon,gambiae
+AN0070-C,2R,CMgam,Cameroon,gambiae
+AN0071-C,2R,CMgam,Cameroon,gambiae
+AN0072-C,2R,CMgam,Cameroon,gambiae
+AN0073-C,2R,CMgam,Cameroon,gambiae
+AN0074-C,2R,CMgam,Cameroon,gambiae
+AN0075-C,2R,CMgam,Cameroon,gambiae
+AN0076-C,2R,CMgam,Cameroon,gambiae
+AN0077-C,2R,CMgam,Cameroon,gambiae
+AN0079-C,2R,CMgam,Cameroon,gambiae
+AN0080-C,2R,CMgam,Cameroon,gambiae
+AN0081-C,2R,CMgam,Cameroon,gambiae
+AN0082-C,2R,CMgam,Cameroon,gambiae
+AN0083-C,2R,CMgam,Cameroon,gambiae
+AN0084-C,2R,CMgam,Cameroon,gambiae
+AN0085-C,2R,CMgam,Cameroon,gambiae
+AN0086-C,2R,CMgam,Cameroon,gambiae
+AN0087-C,2R,CMgam,Cameroon,gambiae
+AN0088-C,2R,CMgam,Cameroon,gambiae
+AN0089-C,2R,CMgam,Cameroon,gambiae
+AN0090-C,2R,CMgam,Cameroon,gambiae
+AN0091-C,2R,CMgam,Cameroon,gambiae
+AN0092-C,2R,CMgam,Cameroon,gambiae
+AN0093-C,2R,CMgam,Cameroon,gambiae
+AN0094-C,2R,CMgam,Cameroon,gambiae
+AN0095-C,2R,CMgam,Cameroon,gambiae
+AN0096-C,2R,CMgam,Cameroon,gambiae
+AN0097-C,2R,CMgam,Cameroon,gambiae
+AN0098-C,2R,CMgam,Cameroon,gambiae
+AN0099-C,2R,CMgam,Cameroon,gambiae
+AN0100-C,2R,CMgam,Cameroon,gambiae
+AN0101-C,2R,CMgam,Cameroon,gambiae
+AN0102-C,2R,CMgam,Cameroon,gambiae
+AN0103-C,2R,CMgam,Cameroon,gambiae
+AN0104-C,2R,CMgam,Cameroon,gambiae
+AN0105-C,2R,CMgam,Cameroon,gambiae
+AN0106-C,2R,CMgam,Cameroon,gambiae
+AN0107-C,2R,CMgam,Cameroon,gambiae
+AN0108-C,2R,CMgam,Cameroon,gambiae
+AN0109-C,2R,CMgam,Cameroon,gambiae
+AN0111-C,2R,CMgam,Cameroon,gambiae
+AN0112-C,2R,CMgam,Cameroon,gambiae
+AN0113-C,2R,CMgam,Cameroon,gambiae
+AN0114-C,2R,CMgam,Cameroon,gambiae
+AN0115-C,2R,CMgam,Cameroon,gambiae
+AN0117-C,2R,CMgam,Cameroon,gambiae
+AN0118-C,2R,CMgam,Cameroon,gambiae
+AN0119-C,2R,CMgam,Cameroon,gambiae
+AN0120-C,2R,CMgam,Cameroon,gambiae
+AN0121-C,2R,CMgam,Cameroon,gambiae
+AN0122-C,2R,CMgam,Cameroon,gambiae
+AN0123-C,2R,CMgam,Cameroon,gambiae
+AN0124-C,2R,CMgam,Cameroon,gambiae
+AN0125-C,2R,CMgam,Cameroon,gambiae
+AN0126-C,2R,CMgam,Cameroon,gambiae
+AN0127-C,2R,CMgam,Cameroon,gambiae
+AN0128-C,2R,CMgam,Cameroon,gambiae
+AN0129-C,2R,CMgam,Cameroon,gambiae
+AN0130-C,2R,CMgam,Cameroon,gambiae
+AN0131-C,2R,CMgam,Cameroon,gambiae
+AN0132-C,2R,CMgam,Cameroon,gambiae
+AN0134-C,2R,CMgam,Cameroon,gambiae
+AN0135-C,2R,CMgam,Cameroon,gambiae
+AN0136-C,2R,CMgam,Cameroon,gambiae
+AN0137-C,2R,CMgam,Cameroon,gambiae
+AN0138-C,2R,CMgam,Cameroon,gambiae
+AN0139-C,2R,CMgam,Cameroon,gambiae
+AN0140-C,2R,CMgam,Cameroon,gambiae
+AN0141-C,2R,CMgam,Cameroon,gambiae
+AN0142-C,2R,CMgam,Cameroon,gambiae
+AN0143-C,2R,CMgam,Cameroon,gambiae
+AN0144-C,2R,CMgam,Cameroon,gambiae
+AN0147-C,2R,CMgam,Cameroon,gambiae
+AN0149-C,2R,CMgam,Cameroon,gambiae
+AN0151-C,2R,CMgam,Cameroon,gambiae
+AN0152-C,2R,CMgam,Cameroon,gambiae
+AN0153-C,2R,CMgam,Cameroon,gambiae
+AN0154-C,2R,CMgam,Cameroon,gambiae
+AN0155-C,2R,CMgam,Cameroon,gambiae
+AN0156-C,2R,CMgam,Cameroon,gambiae
+AN0157-C,2R,CMgam,Cameroon,gambiae
+AN0158-C,2R,CMgam,Cameroon,gambiae
+AN0159-C,2R,CMgam,Cameroon,gambiae
+AN0160-C,2R,CMgam,Cameroon,gambiae
+AN0162-C,2R,CMgam,Cameroon,gambiae
+AN0163-C,2R,CMgam,Cameroon,gambiae
+AN0164-C,2R,CMgam,Cameroon,gambiae
+AN0165-C,2R,CMgam,Cameroon,gambiae
+AN0166-C,2R,CMgam,Cameroon,gambiae
+AN0167-C,2R,CMgam,Cameroon,gambiae
+AN0168-C,2R,CMgam,Cameroon,gambiae
+AN0169-C,2R,CMgam,Cameroon,gambiae
+AN0170-C,2R,CMgam,Cameroon,gambiae
+AN0171-C,2R,CMgam,Cameroon,gambiae
+AN0172-C,2R,CMgam,Cameroon,gambiae
+AN0173-C,2R,CMgam,Cameroon,gambiae
+AN0174-C,2R,CMgam,Cameroon,gambiae
+AN0175-C,2R,CMgam,Cameroon,gambiae
+AN0176-C,2R,CMgam,Cameroon,gambiae
+AN0177-C,2R,CMgam,Cameroon,gambiae
+AN0178-C,2R,CMgam,Cameroon,gambiae
+AN0179-C,2R,CMgam,Cameroon,gambiae
+AN0180-C,2R,CMgam,Cameroon,gambiae
+AN0181-C,2R,CMgam,Cameroon,gambiae
+AN0182-C,2R,CMgam,Cameroon,gambiae
+AN0183-C,2R,CMgam,Cameroon,gambiae
+AN0184-C,2R,CMgam,Cameroon,gambiae
+AN0185-C,2R,CMgam,Cameroon,gambiae
+AN0186-C,2R,CMgam,Cameroon,gambiae
+AN0187-C,2R,CMgam,Cameroon,gambiae
+AN0188-C,2R,CMgam,Cameroon,gambiae
+AN0189-C,2R,CMgam,Cameroon,gambiae
+AN0190-C,2R,CMgam,Cameroon,gambiae
+AN0191-C,2R,CMgam,Cameroon,gambiae
+AN0192-C,2R,CMgam,Cameroon,gambiae
+AN0193-C,2R,CMgam,Cameroon,gambiae
+AN0194-C,2R,CMgam,Cameroon,gambiae
+AN0196-C,2R,CMgam,Cameroon,gambiae
+AN0197-C,2R,CMgam,Cameroon,gambiae
+AN0198-C,2R,CMgam,Cameroon,gambiae
+AN0199-C,2R,CMgam,Cameroon,gambiae
+AN0200-C,2R,CMgam,Cameroon,gambiae
+AN0201-C,2R,CMgam,Cameroon,gambiae
+AN0202-C,2R,CMgam,Cameroon,gambiae
+AN0203-C,2R,CMgam,Cameroon,gambiae
+AN0204-C,2R,CMgam,Cameroon,gambiae
+AN0205-C,2R,CMgam,Cameroon,gambiae
+AN0206-C,2R,CMgam,Cameroon,gambiae
+AN0207-C,2R,CMgam,Cameroon,gambiae
+AN0208-C,2R,CMgam,Cameroon,gambiae
+AN0209-C,2R,CMgam,Cameroon,gambiae
+AN0210-C,2R,CMgam,Cameroon,gambiae
+AN0212-C,2R,CMgam,Cameroon,gambiae
+AN0213-C,2R,CMgam,Cameroon,gambiae
+AN0214-C,2R,CMgam,Cameroon,gambiae
+AN0215-C,2R,CMgam,Cameroon,gambiae
+AN0217-C,2R,CMgam,Cameroon,gambiae
+AN0218-C,2R,CMgam,Cameroon,gambiae
+AN0219-C,2R,CMgam,Cameroon,gambiae
+AN0220-C,2R,CMgam,Cameroon,gambiae
+AN0221-C,2R,CMgam,Cameroon,gambiae
+AN0222-C,2R,CMgam,Cameroon,gambiae
+AN0223-C,2R,CMgam,Cameroon,gambiae
+AN0224-C,2R,CMgam,Cameroon,gambiae
+AN0225-C,2R,CMgam,Cameroon,gambiae
+AN0226-C,2R,CMgam,Cameroon,gambiae
+AN0227-C,2R,CMgam,Cameroon,gambiae
+AN0228-C,2R,CMgam,Cameroon,gambiae
+AN0229-C,2R,CMgam,Cameroon,gambiae
+AN0230-C,2R,CMgam,Cameroon,gambiae
+AN0231-C,2R,CMgam,Cameroon,gambiae
+AN0232-C,2R,CMgam,Cameroon,gambiae
+AN0233-C,2R,CMgam,Cameroon,gambiae
+AN0234-C,2R,CMgam,Cameroon,gambiae
+AN0235-C,2R,CMgam,Cameroon,gambiae
+AN0236-C,2R,CMgam,Cameroon,gambiae
+AN0237-C,2R,CMgam,Cameroon,gambiae
+AN0238-C,2R,CMgam,Cameroon,gambiae
+AN0239-C,2R,CMgam,Cameroon,gambiae
+AN0240-C,2R,CMgam,Cameroon,gambiae
+AN0241-C,2R,CMgam,Cameroon,gambiae
+AN0242-C,2R,CMgam,Cameroon,gambiae
+AN0243-C,2R,CMgam,Cameroon,gambiae
+AN0244-C,2R,CMgam,Cameroon,gambiae
+AN0245-C,2R,CMgam,Cameroon,gambiae
+AN0246-C,2R,CMgam,Cameroon,gambiae
+AN0247-C,2R,CMgam,Cameroon,gambiae
+AN0248-C,2R,CMgam,Cameroon,gambiae
+AN0250-C,2R,CMgam,Cameroon,gambiae
+AN0251-C,2R,CMgam,Cameroon,gambiae
+AN0252-C,2R,CMgam,Cameroon,gambiae
+AN0253-C,2R,CMgam,Cameroon,gambiae
+AN0254-C,2R,CMgam,Cameroon,gambiae
+AN0255-C,2R,CMgam,Cameroon,gambiae
+AN0256-C,2R,CMgam,Cameroon,gambiae
+AN0258-C,2R,CMgam,Cameroon,gambiae
+AN0259-C,2R,CMgam,Cameroon,gambiae
+AN0260-C,2R,CMgam,Cameroon,gambiae
+AN0261-C,2R,CMgam,Cameroon,gambiae
+AN0262-C,2R,CMgam,Cameroon,gambiae
+AN0263-C,2R,CMgam,Cameroon,gambiae
+AN0264-C,2R,CMgam,Cameroon,gambiae
+AN0265-C,2R,CMgam,Cameroon,gambiae
+AN0266-C,2R,CMgam,Cameroon,gambiae
+AN0267-C,2R,CMgam,Cameroon,gambiae
+AN0268-C,2R,CMgam,Cameroon,gambiae
+AN0269-C,2R,CMgam,Cameroon,gambiae
+AN0270-C,2R,CMgam,Cameroon,gambiae
+AN0271-C,2R,CMgam,Cameroon,gambiae
+AN0272-C,2R,CMgam,Cameroon,gambiae
+AN0275-C,2R,CMgam,Cameroon,gambiae
+AN0276-C,2R,CMgam,Cameroon,gambiae
+AN0277-C,2R,CMgam,Cameroon,gambiae
+AN0278-C,2R,CMgam,Cameroon,gambiae
+AN0279-C,2R,CMgam,Cameroon,gambiae
+AN0280-C,2R,CMgam,Cameroon,gambiae
+AN0281-C,2R,CMgam,Cameroon,gambiae
+AN0282-C,2R,CMgam,Cameroon,gambiae
+AN0283-C,2R,CMgam,Cameroon,gambiae
+AN0284-C,2R,CMgam,Cameroon,gambiae
+AN0285-C,2R,CMgam,Cameroon,gambiae
+AN0286-C,2R,CMgam,Cameroon,gambiae
+AN0287-C,2R,CMgam,Cameroon,gambiae
+AN0288-C,2R,CMgam,Cameroon,gambiae
+AN0289-C,2R,CMgam,Cameroon,gambiae
+AN0290-C,2R,CMgam,Cameroon,gambiae
+AN0291-C,2R,CMgam,Cameroon,gambiae
+AN0292-C,2R,CMgam,Cameroon,gambiae
+AN0293-C,2R,CMgam,Cameroon,gambiae
+AN0294-C,2R,CMgam,Cameroon,gambiae
+AN0295-C,2R,CMgam,Cameroon,gambiae
+AN0296-C,2R,CMgam,Cameroon,gambiae
+AN0297-C,2R,CMgam,Cameroon,gambiae
+AN0298-C,2R,CMgam,Cameroon,gambiae
+AN0299-C,2R,CMgam,Cameroon,gambiae
+AN0300-C,2R,CMgam,Cameroon,gambiae
+AN0301-C,2R,CMgam,Cameroon,gambiae
+AN0302-C,2R,CMgam,Cameroon,gambiae
+AN0303-C,2R,CMgam,Cameroon,gambiae
+AN0304-C,2R,CMgam,Cameroon,gambiae
+AN0305-C,2R,CMgam,Cameroon,gambiae
+AN0306-C,2R,CMgam,Cameroon,gambiae
+AN0307-C,2R,CMgam,Cameroon,gambiae
+AN0308-C,2R,CMgam,Cameroon,gambiae
+AN0309-C,2R,CMgam,Cameroon,gambiae
+AN0310-C,2R,CMgam,Cameroon,gambiae
+AN0311-C,2R,CMgam,Cameroon,gambiae
+AN0312-C,2R,CMgam,Cameroon,gambiae
+AN0313-C,2R,CMgam,Cameroon,gambiae
+AN0314-C,2R,CMgam,Cameroon,gambiae
+AN0315-C,2R,CMgam,Cameroon,gambiae
+AN0316-C,2R,CMgam,Cameroon,gambiae
+AN0317-C,2R,CMgam,Cameroon,gambiae
+AN0318-C,2R,CMgam,Cameroon,gambiae
+AN0319-C,2R,CMgam,Cameroon,gambiae
+AN0320-C,2R,CMgam,Cameroon,gambiae
+AN0321-C,2R,CMgam,Cameroon,gambiae
+AP0002-C,2R,FRgam,France,gambiae
+AP0005-C,2R,FRgam,France,gambiae
+AP0006-C,2R,FRgam,France,gambiae
+AP0007-C,2R,FRgam,France,gambiae
+AP0008-C,2R,FRgam,France,gambiae
+AP0009-C,2R,FRgam,France,gambiae
+AP0010-C,2R,FRgam,France,gambiae
+AP0011-C,2R,FRgam,France,gambiae
+AP0014-C,2R,FRgam,France,gambiae
+AP0017-C,2R,FRgam,France,gambiae
+AP0018-C,2R,FRgam,France,gambiae
+AP0019-C,2R,FRgam,France,gambiae
+AP0020-C,2R,FRgam,France,gambiae
+AP0021-C,2R,FRgam,France,gambiae
+AP0022-C,2R,FRgam,France,gambiae
+AP0023-C,2R,FRgam,France,gambiae
+AP0024-C,2R,FRgam,France,gambiae
+AP0025-C,2R,FRgam,France,gambiae
+AP0030-C,2R,FRgam,France,gambiae
+AP0031-C,2R,FRgam,France,gambiae
+AP0032-C,2R,FRgam,France,gambiae
+AP0033-C,2R,FRgam,France,gambiae
+AP0034-C,2R,FRgam,France,gambiae
+AP0035-C,2R,FRgam,France,gambiae
+AQ0001-C,2R,GQgam,Equatorial Guinea,gambiae
+AQ0002-C,2R,GQgam,Equatorial Guinea,gambiae
+AQ0004-C,2R,GQgam,Equatorial Guinea,gambiae
+AQ0005-C,2R,GQgam,Equatorial Guinea,gambiae
+AQ0011-C,2R,GQgam,Equatorial Guinea,gambiae
+AQ0012-C,2R,GQgam,Equatorial Guinea,gambiae
+AQ0013-C,2R,GQgam,Equatorial Guinea,gambiae
+AQ0014-C,2R,GQgam,Equatorial Guinea,gambiae
+AQ0015-C,2R,GQgam,Equatorial Guinea,gambiae
+AR0001-C,2R,AOcol,Angola,coluzzii
+AR0007-C,2R,AOcol,Angola,coluzzii
+AR0008-C,2R,AOcol,Angola,coluzzii
+AR0009-C,2R,AOcol,Angola,coluzzii
+AR0010-C,2R,AOcol,Angola,coluzzii
+AR0011-C,2R,AOcol,Angola,coluzzii
+AR0012-C,2R,AOcol,Angola,coluzzii
+AR0013-C,2R,AOcol,Angola,coluzzii
+AR0014-C,2R,AOcol,Angola,coluzzii
+AR0015-C,2R,AOcol,Angola,coluzzii
+AR0016-C,2R,AOcol,Angola,coluzzii
+AR0017-C,2R,AOcol,Angola,coluzzii
+AR0018-C,2R,AOcol,Angola,coluzzii
+AR0019-C,2R,AOcol,Angola,coluzzii
+AR0020-C,2R,AOcol,Angola,coluzzii
+AR0021-C,2R,AOcol,Angola,coluzzii
+AR0022-C,2R,AOcol,Angola,coluzzii
+AR0023-C,2R,AOcol,Angola,coluzzii
+AR0024-C,2R,AOcol,Angola,coluzzii
+AR0026-C,2R,AOcol,Angola,coluzzii
+AR0027-C,2R,AOcol,Angola,coluzzii
+AR0034-C,2R,AOcol,Angola,coluzzii
+AR0035-C,2R,AOcol,Angola,coluzzii
+AR0036-C,2R,AOcol,Angola,coluzzii
+AR0038-C,2R,AOcol,Angola,coluzzii
+AR0040-C,2R,AOcol,Angola,coluzzii
+AR0042-C,2R,AOcol,Angola,coluzzii
+AR0043-C,2R,AOcol,Angola,coluzzii
+AR0044-C,2R,AOcol,Angola,coluzzii
+AR0045-C,2R,AOcol,Angola,coluzzii
+AR0046-C,2R,AOcol,Angola,coluzzii
+AR0047-C,2R,AOcol,Angola,coluzzii
+AR0048-C,2R,AOcol,Angola,coluzzii
+AR0049-C,2R,AOcol,Angola,coluzzii
+AR0050-C,2R,AOcol,Angola,coluzzii
+AR0051-C,2R,AOcol,Angola,coluzzii
+AR0052-C,2R,AOcol,Angola,coluzzii
+AR0053-C,2R,AOcol,Angola,coluzzii
+AR0054-C,2R,AOcol,Angola,coluzzii
+AR0057-C,2R,AOcol,Angola,coluzzii
+AR0059-C,2R,AOcol,Angola,coluzzii
+AR0060-C,2R,AOcol,Angola,coluzzii
+AR0061-C,2R,AOcol,Angola,coluzzii
+AR0062-C,2R,AOcol,Angola,coluzzii
+AR0063-C,2R,AOcol,Angola,coluzzii
+AR0064-C,2R,AOcol,Angola,coluzzii
+AR0065-C,2R,AOcol,Angola,coluzzii
+AR0066-C,2R,AOcol,Angola,coluzzii
+AR0069-C,2R,AOcol,Angola,coluzzii
+AR0070-C,2R,AOcol,Angola,coluzzii
+AR0071-C,2R,AOcol,Angola,coluzzii
+AR0072-C,2R,AOcol,Angola,coluzzii
+AR0073-C,2R,AOcol,Angola,coluzzii
+AR0074-C,2R,AOcol,Angola,coluzzii
+AR0075-C,2R,AOcol,Angola,coluzzii
+AR0076-C,2R,AOcol,Angola,coluzzii
+AR0077-C,2R,AOcol,Angola,coluzzii
+AR0078-C,2R,AOcol,Angola,coluzzii
+AR0079-C,2R,AOcol,Angola,coluzzii
+AR0080-C,2R,AOcol,Angola,coluzzii
+AR0081-C,2R,AOcol,Angola,coluzzii
+AR0082-C,2R,AOcol,Angola,coluzzii
+AR0083-C,2R,AOcol,Angola,coluzzii
+AR0084-C,2R,AOcol,Angola,coluzzii
+AR0085-C,2R,AOcol,Angola,coluzzii
+AR0086-C,2R,AOcol,Angola,coluzzii
+AR0087-C,2R,AOcol,Angola,coluzzii
+AR0088-C,2R,AOcol,Angola,coluzzii
+AR0089-C,2R,AOcol,Angola,coluzzii
+AR0090-C,2R,AOcol,Angola,coluzzii
+AR0092-C,2R,AOcol,Angola,coluzzii
+AR0093-C,2R,AOcol,Angola,coluzzii
+AR0095-C,2R,AOcol,Angola,coluzzii
+AR0096-C,2R,AOcol,Angola,coluzzii
+AR0097-C,2R,AOcol,Angola,coluzzii
+AR0098-C,2R,AOcol,Angola,coluzzii
+AR0099-C,2R,AOcol,Angola,coluzzii
+AR0100-C,2R,AOcol,Angola,coluzzii
+AS0001-C,2R,GAgam,Gabon,gambiae
+AS0002-C,2R,GAgam,Gabon,gambiae
+AS0003-C,2R,GAgam,Gabon,gambiae
+AS0004-C,2R,GAgam,Gabon,gambiae
+AS0005-C,2R,GAgam,Gabon,gambiae
+AS0006-C,2R,GAgam,Gabon,gambiae
+AS0007-C,2R,GAgam,Gabon,gambiae
+AS0008-C,2R,GAgam,Gabon,gambiae
+AS0009-C,2R,GAgam,Gabon,gambiae
+AS0010-C,2R,GAgam,Gabon,gambiae
+AS0011-C,2R,GAgam,Gabon,gambiae
+AS0012-C,2R,GAgam,Gabon,gambiae
+AS0013-C,2R,GAgam,Gabon,gambiae
+AS0014-C,2R,GAgam,Gabon,gambiae
+AS0015-C,2R,GAgam,Gabon,gambiae
+AS0016-C,2R,GAgam,Gabon,gambiae
+AS0017-C,2R,GAgam,Gabon,gambiae
+AS0018-C,2R,GAgam,Gabon,gambiae
+AS0019-C,2R,GAgam,Gabon,gambiae
+AS0020-C,2R,GAgam,Gabon,gambiae
+AS0021-C,2R,GAgam,Gabon,gambiae
+AS0022-C,2R,GAgam,Gabon,gambiae
+AS0024-C,2R,GAgam,Gabon,gambiae
+AS0025-C,2R,GAgam,Gabon,gambiae
+AS0026-C,2R,GAgam,Gabon,gambiae
+AS0027-C,2R,GAgam,Gabon,gambiae
+AS0028-C,2R,GAgam,Gabon,gambiae
+AS0029-C,2R,GAgam,Gabon,gambiae
+AS0030-C,2R,GAgam,Gabon,gambiae
+AS0032-C,2R,GAgam,Gabon,gambiae
+AS0033-C,2R,GAgam,Gabon,gambiae
+AS0034-C,2R,GAgam,Gabon,gambiae
+AS0035-C,2R,GAgam,Gabon,gambiae
+AS0036-C,2R,GAgam,Gabon,gambiae
+AS0037-C,2R,GAgam,Gabon,gambiae
+AS0039-C,2R,GAgam,Gabon,gambiae
+AS0040-C,2R,GAgam,Gabon,gambiae
+AS0041-C,2R,GAgam,Gabon,gambiae
+AS0042-C,2R,GAgam,Gabon,gambiae
+AS0044-C,2R,GAgam,Gabon,gambiae
+AS0045-C,2R,GAgam,Gabon,gambiae
+AS0046-C,2R,GAgam,Gabon,gambiae
+AS0047-C,2R,GAgam,Gabon,gambiae
+AS0048-C,2R,GAgam,Gabon,gambiae
+AS0049-C,2R,GAgam,Gabon,gambiae
+AS0051-C,2R,GAgam,Gabon,gambiae
+AS0052-C,2R,GAgam,Gabon,gambiae
+AS0053-C,2R,GAgam,Gabon,gambiae
+AS0054-C,2R,GAgam,Gabon,gambiae
+AS0055-C,2R,GAgam,Gabon,gambiae
+AS0056-C,2R,GAgam,Gabon,gambiae
+AS0057-C,2R,GAgam,Gabon,gambiae
+AS0058-C,2R,GAgam,Gabon,gambiae
+AS0059-C,2R,GAgam,Gabon,gambiae
+AS0060-C,2R,GAgam,Gabon,gambiae
+AS0062-C,2R,GAgam,Gabon,gambiae
+AS0064-C,2R,GAgam,Gabon,gambiae
+AS0065-C,2R,GAgam,Gabon,gambiae
+AS0066-C,2R,GAgam,Gabon,gambiae
+AS0068-C,2R,GAgam,Gabon,gambiae
+AS0069-C,2R,GAgam,Gabon,gambiae
+AS0070-C,2R,GAgam,Gabon,gambiae
+AS0071-C,2R,GAgam,Gabon,gambiae
+AS0072-C,2R,GAgam,Gabon,gambiae
+AS0073-C,2R,GAgam,Gabon,gambiae
+AS0074-C,2R,GAgam,Gabon,gambiae
+AS0076-C,2R,GAgam,Gabon,gambiae
+AS0077-C,2R,GAgam,Gabon,gambiae
+AS0078-C,2R,GAgam,Gabon,gambiae
+AV0001-C,2R,GNgam,Guinea,gambiae
+AV0002-C,2R,GNgam,Guinea,gambiae
+AV0003-C,2R,GNgam,Guinea,gambiae
+AV0004-C,2R,GNgam,Guinea,gambiae
+AV0005-C,2R,GNgam,Guinea,gambiae
+AV0006-C,2R,GNgam,Guinea,gambiae
+AV0007-C,2R,GNgam,Guinea,gambiae
+AV0008-C,2R,GNgam,Guinea,gambiae
+AV0009-C,2R,GNgam,Guinea,gambiae
+AV0010-C,2R,GNgam,Guinea,gambiae
+AV0011-C,2R,GNgam,Guinea,gambiae
+AV0012-C,2R,GNgam,Guinea,gambiae
+AV0013-C,2R,GNgam,Guinea,gambiae
+AV0014-C,2R,GNgam,Guinea,gambiae
+AV0015-C,2R,GNgam,Guinea,gambiae
+AV0017-C,2R,GNgam,Guinea,gambiae
+AV0018-C,2R,GNgam,Guinea,gambiae
+AV0020-C,2R,GNgam,Guinea,gambiae
+AV0021-C,2R,GNgam,Guinea,gambiae
+AV0022-C,2R,GNgam,Guinea,gambiae
+AV0024-C,2R,GNgam,Guinea,gambiae
+AV0025-C,2R,GNgam,Guinea,gambiae
+AV0026-C,2R,GNgam,Guinea,gambiae
+AV0027-C,2R,GNgam,Guinea,gambiae
+AV0028-C,2R,GNgam,Guinea,gambiae
+AV0029-C,2R,GNgam,Guinea,gambiae
+AV0030-C,2R,GNgam,Guinea,gambiae
+AV0031-C,2R,GNgam,Guinea,gambiae
+AV0032-C,2R,GNgam,Guinea,gambiae
+AV0033-C,2R,GNgam,Guinea,gambiae
+AV0034-C,2R,GNgam,Guinea,gambiae
+AV0035-C,2R,GNgam,Guinea,gambiae
+AV0036-C,2R,GNgam,Guinea,gambiae
+AV0037-C,2R,GNgam,Guinea,gambiae
+AV0038-C,2R,GNcol,Guinea,coluzzii
+AV0039-C,2R,GNgam,Guinea,gambiae
+AV0040-C,2R,GNcol,Guinea,coluzzii
+AV0041-C,2R,GNgam,Guinea,gambiae
+AV0042-C,2R,GNcol,Guinea,coluzzii
+AV0043-C,2R,GNgam,Guinea,gambiae
+AV0044-C,2R,GNgam,Guinea,gambiae
+AV0045-C,2R,GNgam,Guinea,gambiae
+AV0046-C,2R,GNcol,Guinea,coluzzii
+AV0047-C,2R,GNgam,Guinea,gambiae
+AY0006-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0007-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0010-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0011-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0012-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0013-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0015-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0016-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0017-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0018-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0019-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0020-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0021-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0023-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0024-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0025-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0026-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0027-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0029-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0031-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0032-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0033-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0034-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0035-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0036-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0038-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0039-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0040-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0041-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0042-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0043-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0045-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0046-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0047-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0048-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0049-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0050-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0052-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0053-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0054-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0055-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0056-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0057-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0058-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0059-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0060-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0061-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0062-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0063-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0064-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0065-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0066-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0067-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0068-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0069-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0070-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0072-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0074-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0076-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0077-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0078-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0079-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0080-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0082-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0083-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0085-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0087-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0088-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0089-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0090-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AY0091-C,2R,CIcol,Cote d'Ivoire,coluzzii
+AA0040-C,2L,GHcol,Ghana,coluzzii
+AA0041-C,2L,GHcol,Ghana,coluzzii
+AA0042-C,2L,GHcol,Ghana,coluzzii
+AA0043-C,2L,GHcol,Ghana,coluzzii
+AA0044-C,2L,GHcol,Ghana,coluzzii
+AA0048-C,2L,GHgam,Ghana,gambiae
+AA0049-C,2L,GHcol,Ghana,coluzzii
+AA0050-C,2L,GHgam,Ghana,gambiae
+AA0051-C,2L,GHcol,Ghana,coluzzii
+AA0052-C,2L,GHcol,Ghana,coluzzii
+AA0053-C,2L,GHcol,Ghana,coluzzii
+AA0054-C,2L,GHcol,Ghana,coluzzii
+AA0055-C,2L,GHcol,Ghana,coluzzii
+AA0056-C,2L,GHcol,Ghana,coluzzii
+AA0060-C,2L,GHgam,Ghana,gambiae
+AA0061-C,2L,GHgam,Ghana,gambiae
+AA0063-C,2L,GHcol,Ghana,coluzzii
+AA0064-C,2L,GHcol,Ghana,coluzzii
+AA0066-C,2L,GHcol,Ghana,coluzzii
+AA0067-C,2L,GHcol,Ghana,coluzzii
+AA0068-C,2L,GHcol,Ghana,coluzzii
+AA0072-C,2L,GHgam,Ghana,gambiae
+AA0073-C,2L,GHcol,Ghana,coluzzii
+AA0074-C,2L,GHcol,Ghana,coluzzii
+AA0075-C,2L,GHcol,Ghana,coluzzii
+AA0076-C,2L,GHcol,Ghana,coluzzii
+AA0077-C,2L,GHcol,Ghana,coluzzii
+AA0080-C,2L,GHcol,Ghana,coluzzii
+AA0084-C,2L,GHgam,Ghana,gambiae
+AA0085-C,2L,GHgam,Ghana,gambiae
+AA0086-C,2L,GHgam,Ghana,gambiae
+AA0087-C,2L,GHcol,Ghana,coluzzii
+AA0088-C,2L,GHcol,Ghana,coluzzii
+AA0089-C,2L,GHcol,Ghana,coluzzii
+AA0090-C,2L,GHcol,Ghana,coluzzii
+AA0091-C,2L,GHcol,Ghana,coluzzii
+AA0096-C,2L,GHgam,Ghana,gambiae
+AA0097-C,2L,GHcol,Ghana,coluzzii
+AA0098-C,2L,GHcol,Ghana,coluzzii
+AA0099-C,2L,GHcol,Ghana,coluzzii
+AA0100-C,2L,GHcol,Ghana,coluzzii
+AA0101-C,2L,GHcol,Ghana,coluzzii
+AA0102-C,2L,GHcol,Ghana,coluzzii
+AA0103-C,2L,GHcol,Ghana,coluzzii
+AA0104-C,2L,GHcol,Ghana,coluzzii
+AA0107-C,2L,GHcol,Ghana,coluzzii
+AA0108-C,2L,GHgam,Ghana,gambiae
+AA0109-C,2L,GHcol,Ghana,coluzzii
+AA0110-C,2L,GHcol,Ghana,coluzzii
+AA0111-C,2L,GHcol,Ghana,coluzzii
+AA0113-C,2L,GHcol,Ghana,coluzzii
+AA0114-C,2L,GHcol,Ghana,coluzzii
+AA0115-C,2L,GHcol,Ghana,coluzzii
+AA0116-C,2L,GHcol,Ghana,coluzzii
+AA0122-C,2L,GHgam,Ghana,gambiae
+AA0123-C,2L,GHcol,Ghana,coluzzii
+AA0124-C,2L,GHcol,Ghana,coluzzii
+AA0125-C,2L,GHcol,Ghana,coluzzii
+AA0127-C,2L,GHcol,Ghana,coluzzii
+AA0132-C,2L,GHcol,Ghana,coluzzii
+AA0133-C,2L,GHgam,Ghana,gambiae
+AA0134-C,2L,GHcol,Ghana,coluzzii
+AA0135-C,2L,GHcol,Ghana,coluzzii
+AA0136-C,2L,GHcol,Ghana,coluzzii
+AA0139-C,2L,GHcol,Ghana,coluzzii
+AA0140-C,2L,GHcol,Ghana,coluzzii
+AA0141-C,2L,GHcol,Ghana,coluzzii
+AB0085-C,2L,BFgam,Burkina Faso,gambiae
+AB0087-C,2L,BFcol,Burkina Faso,coluzzii
+AB0088-C,2L,BFcol,Burkina Faso,coluzzii
+AB0089-C,2L,BFcol,Burkina Faso,coluzzii
+AB0090-C,2L,BFcol,Burkina Faso,coluzzii
+AB0091-C,2L,BFcol,Burkina Faso,coluzzii
+AB0092-C,2L,BFcol,Burkina Faso,coluzzii
+AB0094-C,2L,BFcol,Burkina Faso,coluzzii
+AB0095-C,2L,BFcol,Burkina Faso,coluzzii
+AB0097-C,2L,BFcol,Burkina Faso,coluzzii
+AB0098-C,2L,BFcol,Burkina Faso,coluzzii
+AB0099-C,2L,BFcol,Burkina Faso,coluzzii
+AB0100-C,2L,BFcol,Burkina Faso,coluzzii
+AB0101-C,2L,BFcol,Burkina Faso,coluzzii
+AB0103-C,2L,BFgam,Burkina Faso,gambiae
+AB0104-C,2L,BFgam,Burkina Faso,gambiae
+AB0108-C,2L,BFgam,Burkina Faso,gambiae
+AB0109-C,2L,BFcol,Burkina Faso,coluzzii
+AB0110-C,2L,BFcol,Burkina Faso,coluzzii
+AB0111-C,2L,BFcol,Burkina Faso,coluzzii
+AB0112-C,2L,BFcol,Burkina Faso,coluzzii
+AB0113-C,2L,BFcol,Burkina Faso,coluzzii
+AB0114-C,2L,BFcol,Burkina Faso,coluzzii
+AB0115-C,2L,BFcol,Burkina Faso,coluzzii
+AB0117-C,2L,BFgam,Burkina Faso,gambiae
+AB0118-C,2L,BFgam,Burkina Faso,gambiae
+AB0119-C,2L,BFgam,Burkina Faso,gambiae
+AB0122-C,2L,BFcol,Burkina Faso,coluzzii
+AB0123-C,2L,BFcol,Burkina Faso,coluzzii
+AB0124-C,2L,BFcol,Burkina Faso,coluzzii
+AB0126-C,2L,BFgam,Burkina Faso,gambiae
+AB0127-C,2L,BFgam,Burkina Faso,gambiae
+AB0128-C,2L,BFgam,Burkina Faso,gambiae
+AB0129-C,2L,BFgam,Burkina Faso,gambiae
+AB0130-C,2L,BFgam,Burkina Faso,gambiae
+AB0133-C,2L,BFgam,Burkina Faso,gambiae
+AB0134-C,2L,BFgam,Burkina Faso,gambiae
+AB0135-C,2L,BFgam,Burkina Faso,gambiae
+AB0136-C,2L,BFgam,Burkina Faso,gambiae
+AB0137-C,2L,BFcol,Burkina Faso,coluzzii
+AB0138-C,2L,BFcol,Burkina Faso,coluzzii
+AB0139-C,2L,BFcol,Burkina Faso,coluzzii
+AB0140-C,2L,BFcol,Burkina Faso,coluzzii
+AB0142-C,2L,BFcol,Burkina Faso,coluzzii
+AB0143-C,2L,BFgam,Burkina Faso,gambiae
+AB0145-C,2L,BFgam,Burkina Faso,gambiae
+AB0146-C,2L,BFgam,Burkina Faso,gambiae
+AB0147-C,2L,BFgam,Burkina Faso,gambiae
+AB0148-C,2L,BFgam,Burkina Faso,gambiae
+AB0150-C,2L,BFgam,Burkina Faso,gambiae
+AB0151-C,2L,BFgam,Burkina Faso,gambiae
+AB0153-C,2L,BFgam,Burkina Faso,gambiae
+AB0155-C,2L,BFgam,Burkina Faso,gambiae
+AB0157-C,2L,BFgam,Burkina Faso,gambiae
+AB0158-C,2L,BFgam,Burkina Faso,gambiae
+AB0159-C,2L,BFgam,Burkina Faso,gambiae
+AB0160-C,2L,BFgam,Burkina Faso,gambiae
+AB0161-C,2L,BFgam,Burkina Faso,gambiae
+AB0162-C,2L,BFgam,Burkina Faso,gambiae
+AB0164-C,2L,BFgam,Burkina Faso,gambiae
+AB0165-C,2L,BFgam,Burkina Faso,gambiae
+AB0166-C,2L,BFgam,Burkina Faso,gambiae
+AB0167-C,2L,BFgam,Burkina Faso,gambiae
+AB0169-C,2L,BFgam,Burkina Faso,gambiae
+AB0170-C,2L,BFgam,Burkina Faso,gambiae
+AB0171-C,2L,BFgam,Burkina Faso,gambiae
+AB0172-C,2L,BFgam,Burkina Faso,gambiae
+AB0173-C,2L,BFgam,Burkina Faso,gambiae
+AB0174-C,2L,BFgam,Burkina Faso,gambiae
+AB0175-C,2L,BFgam,Burkina Faso,gambiae
+AB0176-C,2L,BFgam,Burkina Faso,gambiae
+AB0177-C,2L,BFgam,Burkina Faso,gambiae
+AB0178-C,2L,BFgam,Burkina Faso,gambiae
+AB0179-C,2L,BFgam,Burkina Faso,gambiae
+AB0181-C,2L,BFcol,Burkina Faso,coluzzii
+AB0182-C,2L,BFcol,Burkina Faso,coluzzii
+AB0183-C,2L,BFcol,Burkina Faso,coluzzii
+AB0184-C,2L,BFcol,Burkina Faso,coluzzii
+AB0185-C,2L,BFcol,Burkina Faso,coluzzii
+AB0186-C,2L,BFcol,Burkina Faso,coluzzii
+AB0187-C,2L,BFcol,Burkina Faso,coluzzii
+AB0188-C,2L,BFcol,Burkina Faso,coluzzii
+AB0189-C,2L,BFcol,Burkina Faso,coluzzii
+AB0190-C,2L,BFcol,Burkina Faso,coluzzii
+AB0191-C,2L,BFcol,Burkina Faso,coluzzii
+AB0192-C,2L,BFcol,Burkina Faso,coluzzii
+AB0195-C,2L,BFcol,Burkina Faso,coluzzii
+AB0196-C,2L,BFcol,Burkina Faso,coluzzii
+AB0197-C,2L,BFgam,Burkina Faso,gambiae
+AB0198-C,2L,BFgam,Burkina Faso,gambiae
+AB0199-C,2L,BFgam,Burkina Faso,gambiae
+AB0200-C,2L,BFgam,Burkina Faso,gambiae
+AB0201-C,2L,BFgam,Burkina Faso,gambiae
+AB0202-C,2L,BFgam,Burkina Faso,gambiae
+AB0203-C,2L,BFgam,Burkina Faso,gambiae
+AB0204-C,2L,BFcol,Burkina Faso,coluzzii
+AB0205-C,2L,BFgam,Burkina Faso,gambiae
+AB0206-C,2L,BFgam,Burkina Faso,gambiae
+AB0207-C,2L,BFgam,Burkina Faso,gambiae
+AB0208-C,2L,BFgam,Burkina Faso,gambiae
+AB0209-C,2L,BFcol,Burkina Faso,coluzzii
+AB0210-C,2L,BFcol,Burkina Faso,coluzzii
+AB0211-C,2L,BFgam,Burkina Faso,gambiae
+AB0212-C,2L,BFcol,Burkina Faso,coluzzii
+AB0213-C,2L,BFcol,Burkina Faso,coluzzii
+AB0215-C,2L,BFcol,Burkina Faso,coluzzii
+AB0217-C,2L,BFgam,Burkina Faso,gambiae
+AB0218-C,2L,BFgam,Burkina Faso,gambiae
+AB0219-C,2L,BFcol,Burkina Faso,coluzzii
+AB0221-C,2L,BFcol,Burkina Faso,coluzzii
+AB0222-C,2L,BFcol,Burkina Faso,coluzzii
+AB0223-C,2L,BFcol,Burkina Faso,coluzzii
+AB0224-C,2L,BFcol,Burkina Faso,coluzzii
+AB0226-C,2L,BFcol,Burkina Faso,coluzzii
+AB0227-C,2L,BFcol,Burkina Faso,coluzzii
+AB0228-C,2L,BFgam,Burkina Faso,gambiae
+AB0229-C,2L,BFcol,Burkina Faso,coluzzii
+AB0231-C,2L,BFgam,Burkina Faso,gambiae
+AB0232-C,2L,BFgam,Burkina Faso,gambiae
+AB0233-C,2L,BFgam,Burkina Faso,gambiae
+AB0234-C,2L,BFcol,Burkina Faso,coluzzii
+AB0235-C,2L,BFgam,Burkina Faso,gambiae
+AB0236-C,2L,BFgam,Burkina Faso,gambiae
+AB0237-C,2L,BFcol,Burkina Faso,coluzzii
+AB0238-C,2L,BFgam,Burkina Faso,gambiae
+AB0239-C,2L,BFgam,Burkina Faso,gambiae
+AB0240-C,2L,BFcol,Burkina Faso,coluzzii
+AB0241-C,2L,BFgam,Burkina Faso,gambiae
+AB0242-C,2L,BFcol,Burkina Faso,coluzzii
+AB0243-C,2L,BFcol,Burkina Faso,coluzzii
+AB0244-C,2L,BFgam,Burkina Faso,gambiae
+AB0246-C,2L,BFcol,Burkina Faso,coluzzii
+AB0247-C,2L,BFcol,Burkina Faso,coluzzii
+AB0248-C,2L,BFcol,Burkina Faso,coluzzii
+AB0249-C,2L,BFcol,Burkina Faso,coluzzii
+AB0250-C,2L,BFcol,Burkina Faso,coluzzii
+AB0251-C,2L,BFgam,Burkina Faso,gambiae
+AB0252-C,2L,BFgam,Burkina Faso,gambiae
+AB0253-C,2L,BFgam,Burkina Faso,gambiae
+AB0255-C,2L,BFgam,Burkina Faso,gambiae
+AB0256-C,2L,BFgam,Burkina Faso,gambiae
+AB0257-C,2L,BFcol,Burkina Faso,coluzzii
+AB0258-C,2L,BFcol,Burkina Faso,coluzzii
+AB0260-C,2L,BFgam,Burkina Faso,gambiae
+AB0261-C,2L,BFgam,Burkina Faso,gambiae
+AB0262-C,2L,BFcol,Burkina Faso,coluzzii
+AB0263-C,2L,BFcol,Burkina Faso,coluzzii
+AB0264-C,2L,BFgam,Burkina Faso,gambiae
+AB0265-C,2L,BFgam,Burkina Faso,gambiae
+AB0266-C,2L,BFcol,Burkina Faso,coluzzii
+AB0267-C,2L,BFcol,Burkina Faso,coluzzii
+AB0268-C,2L,BFgam,Burkina Faso,gambiae
+AB0270-C,2L,BFgam,Burkina Faso,gambiae
+AB0271-C,2L,BFgam,Burkina Faso,gambiae
+AB0272-C,2L,BFgam,Burkina Faso,gambiae
+AB0273-C,2L,BFgam,Burkina Faso,gambiae
+AB0274-C,2L,BFgam,Burkina Faso,gambiae
+AB0275-C,2L,BFgam,Burkina Faso,gambiae
+AB0276-C,2L,BFcol,Burkina Faso,coluzzii
+AB0277-C,2L,BFgam,Burkina Faso,gambiae
+AB0278-C,2L,BFgam,Burkina Faso,gambiae
+AB0279-C,2L,BFcol,Burkina Faso,coluzzii
+AB0280-C,2L,BFgam,Burkina Faso,gambiae
+AB0281-C,2L,BFgam,Burkina Faso,gambiae
+AB0282-C,2L,BFcol,Burkina Faso,coluzzii
+AB0283-C,2L,BFgam,Burkina Faso,gambiae
+AB0284-C,2L,BFgam,Burkina Faso,gambiae
+AC0089-C,2L,UGgam,Uganda,gambiae
+AC0090-C,2L,UGgam,Uganda,gambiae
+AC0091-C,2L,UGgam,Uganda,gambiae
+AC0092-C,2L,UGgam,Uganda,gambiae
+AC0093-C,2L,UGgam,Uganda,gambiae
+AC0094-C,2L,UGgam,Uganda,gambiae
+AC0095-C,2L,UGgam,Uganda,gambiae
+AC0096-C,2L,UGgam,Uganda,gambiae
+AC0097-C,2L,UGgam,Uganda,gambiae
+AC0098-C,2L,UGgam,Uganda,gambiae
+AC0099-C,2L,UGgam,Uganda,gambiae
+AC0100-C,2L,UGgam,Uganda,gambiae
+AC0101-C,2L,UGgam,Uganda,gambiae
+AC0102-C,2L,UGgam,Uganda,gambiae
+AC0103-C,2L,UGgam,Uganda,gambiae
+AC0104-C,2L,UGgam,Uganda,gambiae
+AC0105-C,2L,UGgam,Uganda,gambiae
+AC0106-C,2L,UGgam,Uganda,gambiae
+AC0107-C,2L,UGgam,Uganda,gambiae
+AC0108-C,2L,UGgam,Uganda,gambiae
+AC0109-C,2L,UGgam,Uganda,gambiae
+AC0110-C,2L,UGgam,Uganda,gambiae
+AC0111-C,2L,UGgam,Uganda,gambiae
+AC0112-C,2L,UGgam,Uganda,gambiae
+AC0113-C,2L,UGgam,Uganda,gambiae
+AC0114-C,2L,UGgam,Uganda,gambiae
+AC0115-C,2L,UGgam,Uganda,gambiae
+AC0116-C,2L,UGgam,Uganda,gambiae
+AC0117-C,2L,UGgam,Uganda,gambiae
+AC0118-C,2L,UGgam,Uganda,gambiae
+AC0119-C,2L,UGgam,Uganda,gambiae
+AC0120-C,2L,UGgam,Uganda,gambiae
+AC0121-C,2L,UGgam,Uganda,gambiae
+AC0122-C,2L,UGgam,Uganda,gambiae
+AC0123-C,2L,UGgam,Uganda,gambiae
+AC0124-C,2L,UGgam,Uganda,gambiae
+AC0125-C,2L,UGgam,Uganda,gambiae
+AC0126-C,2L,UGgam,Uganda,gambiae
+AC0127-C,2L,UGgam,Uganda,gambiae
+AC0128-C,2L,UGgam,Uganda,gambiae
+AC0129-C,2L,UGgam,Uganda,gambiae
+AC0130-C,2L,UGgam,Uganda,gambiae
+AC0131-C,2L,UGgam,Uganda,gambiae
+AC0132-C,2L,UGgam,Uganda,gambiae
+AC0133-C,2L,UGgam,Uganda,gambiae
+AC0134-C,2L,UGgam,Uganda,gambiae
+AC0135-C,2L,UGgam,Uganda,gambiae
+AC0136-C,2L,UGgam,Uganda,gambiae
+AC0137-C,2L,UGgam,Uganda,gambiae
+AC0138-C,2L,UGgam,Uganda,gambiae
+AC0139-C,2L,UGgam,Uganda,gambiae
+AC0140-C,2L,UGgam,Uganda,gambiae
+AC0141-C,2L,UGgam,Uganda,gambiae
+AC0142-C,2L,UGgam,Uganda,gambiae
+AC0143-C,2L,UGgam,Uganda,gambiae
+AC0144-C,2L,UGgam,Uganda,gambiae
+AC0145-C,2L,UGgam,Uganda,gambiae
+AC0146-C,2L,UGgam,Uganda,gambiae
+AC0147-C,2L,UGgam,Uganda,gambiae
+AC0148-C,2L,UGgam,Uganda,gambiae
+AC0149-C,2L,UGgam,Uganda,gambiae
+AC0150-C,2L,UGgam,Uganda,gambiae
+AC0151-C,2L,UGgam,Uganda,gambiae
+AC0152-C,2L,UGgam,Uganda,gambiae
+AC0153-C,2L,UGgam,Uganda,gambiae
+AC0154-C,2L,UGgam,Uganda,gambiae
+AC0155-C,2L,UGgam,Uganda,gambiae
+AC0156-C,2L,UGgam,Uganda,gambiae
+AC0157-C,2L,UGgam,Uganda,gambiae
+AC0158-C,2L,UGgam,Uganda,gambiae
+AC0159-C,2L,UGgam,Uganda,gambiae
+AC0160-C,2L,UGgam,Uganda,gambiae
+AC0161-C,2L,UGgam,Uganda,gambiae
+AC0162-C,2L,UGgam,Uganda,gambiae
+AC0163-C,2L,UGgam,Uganda,gambiae
+AC0164-C,2L,UGgam,Uganda,gambiae
+AC0166-C,2L,UGgam,Uganda,gambiae
+AC0167-C,2L,UGgam,Uganda,gambiae
+AC0168-C,2L,UGgam,Uganda,gambiae
+AC0169-C,2L,UGgam,Uganda,gambiae
+AC0170-C,2L,UGgam,Uganda,gambiae
+AC0171-C,2L,UGgam,Uganda,gambiae
+AC0172-C,2L,UGgam,Uganda,gambiae
+AC0173-C,2L,UGgam,Uganda,gambiae
+AC0174-C,2L,UGgam,Uganda,gambiae
+AC0176-C,2L,UGgam,Uganda,gambiae
+AC0177-C,2L,UGgam,Uganda,gambiae
+AC0178-C,2L,UGgam,Uganda,gambiae
+AC0179-C,2L,UGgam,Uganda,gambiae
+AC0180-C,2L,UGgam,Uganda,gambiae
+AC0181-C,2L,UGgam,Uganda,gambiae
+AC0182-C,2L,UGgam,Uganda,gambiae
+AC0183-C,2L,UGgam,Uganda,gambiae
+AC0184-C,2L,UGgam,Uganda,gambiae
+AC0185-C,2L,UGgam,Uganda,gambiae
+AC0186-C,2L,UGgam,Uganda,gambiae
+AC0187-C,2L,UGgam,Uganda,gambiae
+AC0188-C,2L,UGgam,Uganda,gambiae
+AC0189-C,2L,UGgam,Uganda,gambiae
+AC0190-C,2L,UGgam,Uganda,gambiae
+AC0191-C,2L,UGgam,Uganda,gambiae
+AC0192-C,2L,UGgam,Uganda,gambiae
+AC0193-C,2L,UGgam,Uganda,gambiae
+AC0194-C,2L,UGgam,Uganda,gambiae
+AC0195-C,2L,UGgam,Uganda,gambiae
+AC0196-C,2L,UGgam,Uganda,gambiae
+AC0197-C,2L,UGgam,Uganda,gambiae
+AC0199-C,2L,UGgam,Uganda,gambiae
+AC0200-C,2L,UGgam,Uganda,gambiae
+AC0201-C,2L,UGgam,Uganda,gambiae
+AC0202-C,2L,UGgam,Uganda,gambiae
+AC0203-C,2L,UGgam,Uganda,gambiae
+AN0007-C,2L,CMgam,Cameroon,gambiae
+AN0008-C,2L,CMgam,Cameroon,gambiae
+AN0009-C,2L,CMgam,Cameroon,gambiae
+AN0010-C,2L,CMgam,Cameroon,gambiae
+AN0011-C,2L,CMgam,Cameroon,gambiae
+AN0012-C,2L,CMgam,Cameroon,gambiae
+AN0013-C,2L,CMgam,Cameroon,gambiae
+AN0014-C,2L,CMgam,Cameroon,gambiae
+AN0015-C,2L,CMgam,Cameroon,gambiae
+AN0016-C,2L,CMgam,Cameroon,gambiae
+AN0017-C,2L,CMgam,Cameroon,gambiae
+AN0018-C,2L,CMgam,Cameroon,gambiae
+AN0019-C,2L,CMgam,Cameroon,gambiae
+AN0020-C,2L,CMgam,Cameroon,gambiae
+AN0022-C,2L,CMgam,Cameroon,gambiae
+AN0023-C,2L,CMgam,Cameroon,gambiae
+AN0024-C,2L,CMgam,Cameroon,gambiae
+AN0025-C,2L,CMgam,Cameroon,gambiae
+AN0026-C,2L,CMgam,Cameroon,gambiae
+AN0027-C,2L,CMgam,Cameroon,gambiae
+AN0028-C,2L,CMgam,Cameroon,gambiae
+AN0029-C,2L,CMgam,Cameroon,gambiae
+AN0030-C,2L,CMgam,Cameroon,gambiae
+AN0031-C,2L,CMgam,Cameroon,gambiae
+AN0032-C,2L,CMgam,Cameroon,gambiae
+AN0033-C,2L,CMgam,Cameroon,gambiae
+AN0034-C,2L,CMgam,Cameroon,gambiae
+AN0035-C,2L,CMgam,Cameroon,gambiae
+AN0036-C,2L,CMgam,Cameroon,gambiae
+AN0037-C,2L,CMgam,Cameroon,gambiae
+AN0038-C,2L,CMgam,Cameroon,gambiae
+AN0039-C,2L,CMgam,Cameroon,gambiae
+AN0040-C,2L,CMgam,Cameroon,gambiae
+AN0041-C,2L,CMgam,Cameroon,gambiae
+AN0042-C,2L,CMgam,Cameroon,gambiae
+AN0043-C,2L,CMgam,Cameroon,gambiae
+AN0044-C,2L,CMgam,Cameroon,gambiae
+AN0045-C,2L,CMgam,Cameroon,gambiae
+AN0046-C,2L,CMgam,Cameroon,gambiae
+AN0047-C,2L,CMgam,Cameroon,gambiae
+AN0048-C,2L,CMgam,Cameroon,gambiae
+AN0049-C,2L,CMgam,Cameroon,gambiae
+AN0050-C,2L,CMgam,Cameroon,gambiae
+AN0051-C,2L,CMgam,Cameroon,gambiae
+AN0053-C,2L,CMgam,Cameroon,gambiae
+AN0054-C,2L,CMgam,Cameroon,gambiae
+AN0055-C,2L,CMgam,Cameroon,gambiae
+AN0056-C,2L,CMgam,Cameroon,gambiae
+AN0057-C,2L,CMgam,Cameroon,gambiae
+AN0058-C,2L,CMgam,Cameroon,gambiae
+AN0059-C,2L,CMgam,Cameroon,gambiae
+AN0060-C,2L,CMgam,Cameroon,gambiae
+AN0061-C,2L,CMgam,Cameroon,gambiae
+AN0062-C,2L,CMgam,Cameroon,gambiae
+AN0063-C,2L,CMgam,Cameroon,gambiae
+AN0064-C,2L,CMgam,Cameroon,gambiae
+AN0065-C,2L,CMgam,Cameroon,gambiae
+AN0066-C,2L,CMgam,Cameroon,gambiae
+AN0067-C,2L,CMgam,Cameroon,gambiae
+AN0068-C,2L,CMgam,Cameroon,gambiae
+AN0069-C,2L,CMgam,Cameroon,gambiae
+AN0070-C,2L,CMgam,Cameroon,gambiae
+AN0071-C,2L,CMgam,Cameroon,gambiae
+AN0072-C,2L,CMgam,Cameroon,gambiae
+AN0073-C,2L,CMgam,Cameroon,gambiae
+AN0074-C,2L,CMgam,Cameroon,gambiae
+AN0075-C,2L,CMgam,Cameroon,gambiae
+AN0076-C,2L,CMgam,Cameroon,gambiae
+AN0077-C,2L,CMgam,Cameroon,gambiae
+AN0079-C,2L,CMgam,Cameroon,gambiae
+AN0080-C,2L,CMgam,Cameroon,gambiae
+AN0081-C,2L,CMgam,Cameroon,gambiae
+AN0082-C,2L,CMgam,Cameroon,gambiae
+AN0083-C,2L,CMgam,Cameroon,gambiae
+AN0084-C,2L,CMgam,Cameroon,gambiae
+AN0085-C,2L,CMgam,Cameroon,gambiae
+AN0086-C,2L,CMgam,Cameroon,gambiae
+AN0087-C,2L,CMgam,Cameroon,gambiae
+AN0088-C,2L,CMgam,Cameroon,gambiae
+AN0089-C,2L,CMgam,Cameroon,gambiae
+AN0090-C,2L,CMgam,Cameroon,gambiae
+AN0091-C,2L,CMgam,Cameroon,gambiae
+AN0092-C,2L,CMgam,Cameroon,gambiae
+AN0093-C,2L,CMgam,Cameroon,gambiae
+AN0094-C,2L,CMgam,Cameroon,gambiae
+AN0095-C,2L,CMgam,Cameroon,gambiae
+AN0096-C,2L,CMgam,Cameroon,gambiae
+AN0097-C,2L,CMgam,Cameroon,gambiae
+AN0098-C,2L,CMgam,Cameroon,gambiae
+AN0099-C,2L,CMgam,Cameroon,gambiae
+AN0100-C,2L,CMgam,Cameroon,gambiae
+AN0101-C,2L,CMgam,Cameroon,gambiae
+AN0102-C,2L,CMgam,Cameroon,gambiae
+AN0103-C,2L,CMgam,Cameroon,gambiae
+AN0104-C,2L,CMgam,Cameroon,gambiae
+AN0105-C,2L,CMgam,Cameroon,gambiae
+AN0106-C,2L,CMgam,Cameroon,gambiae
+AN0107-C,2L,CMgam,Cameroon,gambiae
+AN0108-C,2L,CMgam,Cameroon,gambiae
+AN0109-C,2L,CMgam,Cameroon,gambiae
+AN0111-C,2L,CMgam,Cameroon,gambiae
+AN0112-C,2L,CMgam,Cameroon,gambiae
+AN0113-C,2L,CMgam,Cameroon,gambiae
+AN0114-C,2L,CMgam,Cameroon,gambiae
+AN0115-C,2L,CMgam,Cameroon,gambiae
+AN0117-C,2L,CMgam,Cameroon,gambiae
+AN0118-C,2L,CMgam,Cameroon,gambiae
+AN0119-C,2L,CMgam,Cameroon,gambiae
+AN0120-C,2L,CMgam,Cameroon,gambiae
+AN0121-C,2L,CMgam,Cameroon,gambiae
+AN0122-C,2L,CMgam,Cameroon,gambiae
+AN0123-C,2L,CMgam,Cameroon,gambiae
+AN0124-C,2L,CMgam,Cameroon,gambiae
+AN0125-C,2L,CMgam,Cameroon,gambiae
+AN0126-C,2L,CMgam,Cameroon,gambiae
+AN0127-C,2L,CMgam,Cameroon,gambiae
+AN0128-C,2L,CMgam,Cameroon,gambiae
+AN0129-C,2L,CMgam,Cameroon,gambiae
+AN0130-C,2L,CMgam,Cameroon,gambiae
+AN0131-C,2L,CMgam,Cameroon,gambiae
+AN0132-C,2L,CMgam,Cameroon,gambiae
+AN0134-C,2L,CMgam,Cameroon,gambiae
+AN0135-C,2L,CMgam,Cameroon,gambiae
+AN0136-C,2L,CMgam,Cameroon,gambiae
+AN0137-C,2L,CMgam,Cameroon,gambiae
+AN0138-C,2L,CMgam,Cameroon,gambiae
+AN0139-C,2L,CMgam,Cameroon,gambiae
+AN0140-C,2L,CMgam,Cameroon,gambiae
+AN0141-C,2L,CMgam,Cameroon,gambiae
+AN0142-C,2L,CMgam,Cameroon,gambiae
+AN0143-C,2L,CMgam,Cameroon,gambiae
+AN0144-C,2L,CMgam,Cameroon,gambiae
+AN0147-C,2L,CMgam,Cameroon,gambiae
+AN0149-C,2L,CMgam,Cameroon,gambiae
+AN0151-C,2L,CMgam,Cameroon,gambiae
+AN0152-C,2L,CMgam,Cameroon,gambiae
+AN0153-C,2L,CMgam,Cameroon,gambiae
+AN0154-C,2L,CMgam,Cameroon,gambiae
+AN0155-C,2L,CMgam,Cameroon,gambiae
+AN0156-C,2L,CMgam,Cameroon,gambiae
+AN0157-C,2L,CMgam,Cameroon,gambiae
+AN0158-C,2L,CMgam,Cameroon,gambiae
+AN0159-C,2L,CMgam,Cameroon,gambiae
+AN0160-C,2L,CMgam,Cameroon,gambiae
+AN0162-C,2L,CMgam,Cameroon,gambiae
+AN0163-C,2L,CMgam,Cameroon,gambiae
+AN0164-C,2L,CMgam,Cameroon,gambiae
+AN0165-C,2L,CMgam,Cameroon,gambiae
+AN0166-C,2L,CMgam,Cameroon,gambiae
+AN0167-C,2L,CMgam,Cameroon,gambiae
+AN0168-C,2L,CMgam,Cameroon,gambiae
+AN0169-C,2L,CMgam,Cameroon,gambiae
+AN0170-C,2L,CMgam,Cameroon,gambiae
+AN0171-C,2L,CMgam,Cameroon,gambiae
+AN0172-C,2L,CMgam,Cameroon,gambiae
+AN0173-C,2L,CMgam,Cameroon,gambiae
+AN0174-C,2L,CMgam,Cameroon,gambiae
+AN0175-C,2L,CMgam,Cameroon,gambiae
+AN0176-C,2L,CMgam,Cameroon,gambiae
+AN0177-C,2L,CMgam,Cameroon,gambiae
+AN0178-C,2L,CMgam,Cameroon,gambiae
+AN0179-C,2L,CMgam,Cameroon,gambiae
+AN0180-C,2L,CMgam,Cameroon,gambiae
+AN0181-C,2L,CMgam,Cameroon,gambiae
+AN0182-C,2L,CMgam,Cameroon,gambiae
+AN0183-C,2L,CMgam,Cameroon,gambiae
+AN0184-C,2L,CMgam,Cameroon,gambiae
+AN0185-C,2L,CMgam,Cameroon,gambiae
+AN0186-C,2L,CMgam,Cameroon,gambiae
+AN0187-C,2L,CMgam,Cameroon,gambiae
+AN0188-C,2L,CMgam,Cameroon,gambiae
+AN0189-C,2L,CMgam,Cameroon,gambiae
+AN0190-C,2L,CMgam,Cameroon,gambiae
+AN0191-C,2L,CMgam,Cameroon,gambiae
+AN0192-C,2L,CMgam,Cameroon,gambiae
+AN0193-C,2L,CMgam,Cameroon,gambiae
+AN0194-C,2L,CMgam,Cameroon,gambiae
+AN0196-C,2L,CMgam,Cameroon,gambiae
+AN0197-C,2L,CMgam,Cameroon,gambiae
+AN0198-C,2L,CMgam,Cameroon,gambiae
+AN0199-C,2L,CMgam,Cameroon,gambiae
+AN0200-C,2L,CMgam,Cameroon,gambiae
+AN0201-C,2L,CMgam,Cameroon,gambiae
+AN0202-C,2L,CMgam,Cameroon,gambiae
+AN0203-C,2L,CMgam,Cameroon,gambiae
+AN0204-C,2L,CMgam,Cameroon,gambiae
+AN0205-C,2L,CMgam,Cameroon,gambiae
+AN0206-C,2L,CMgam,Cameroon,gambiae
+AN0207-C,2L,CMgam,Cameroon,gambiae
+AN0208-C,2L,CMgam,Cameroon,gambiae
+AN0209-C,2L,CMgam,Cameroon,gambiae
+AN0210-C,2L,CMgam,Cameroon,gambiae
+AN0212-C,2L,CMgam,Cameroon,gambiae
+AN0213-C,2L,CMgam,Cameroon,gambiae
+AN0214-C,2L,CMgam,Cameroon,gambiae
+AN0215-C,2L,CMgam,Cameroon,gambiae
+AN0217-C,2L,CMgam,Cameroon,gambiae
+AN0218-C,2L,CMgam,Cameroon,gambiae
+AN0219-C,2L,CMgam,Cameroon,gambiae
+AN0220-C,2L,CMgam,Cameroon,gambiae
+AN0221-C,2L,CMgam,Cameroon,gambiae
+AN0222-C,2L,CMgam,Cameroon,gambiae
+AN0223-C,2L,CMgam,Cameroon,gambiae
+AN0224-C,2L,CMgam,Cameroon,gambiae
+AN0225-C,2L,CMgam,Cameroon,gambiae
+AN0226-C,2L,CMgam,Cameroon,gambiae
+AN0227-C,2L,CMgam,Cameroon,gambiae
+AN0228-C,2L,CMgam,Cameroon,gambiae
+AN0229-C,2L,CMgam,Cameroon,gambiae
+AN0230-C,2L,CMgam,Cameroon,gambiae
+AN0231-C,2L,CMgam,Cameroon,gambiae
+AN0232-C,2L,CMgam,Cameroon,gambiae
+AN0233-C,2L,CMgam,Cameroon,gambiae
+AN0234-C,2L,CMgam,Cameroon,gambiae
+AN0235-C,2L,CMgam,Cameroon,gambiae
+AN0236-C,2L,CMgam,Cameroon,gambiae
+AN0237-C,2L,CMgam,Cameroon,gambiae
+AN0238-C,2L,CMgam,Cameroon,gambiae
+AN0239-C,2L,CMgam,Cameroon,gambiae
+AN0240-C,2L,CMgam,Cameroon,gambiae
+AN0241-C,2L,CMgam,Cameroon,gambiae
+AN0242-C,2L,CMgam,Cameroon,gambiae
+AN0243-C,2L,CMgam,Cameroon,gambiae
+AN0244-C,2L,CMgam,Cameroon,gambiae
+AN0245-C,2L,CMgam,Cameroon,gambiae
+AN0246-C,2L,CMgam,Cameroon,gambiae
+AN0247-C,2L,CMgam,Cameroon,gambiae
+AN0248-C,2L,CMgam,Cameroon,gambiae
+AN0250-C,2L,CMgam,Cameroon,gambiae
+AN0251-C,2L,CMgam,Cameroon,gambiae
+AN0252-C,2L,CMgam,Cameroon,gambiae
+AN0253-C,2L,CMgam,Cameroon,gambiae
+AN0254-C,2L,CMgam,Cameroon,gambiae
+AN0255-C,2L,CMgam,Cameroon,gambiae
+AN0256-C,2L,CMgam,Cameroon,gambiae
+AN0258-C,2L,CMgam,Cameroon,gambiae
+AN0259-C,2L,CMgam,Cameroon,gambiae
+AN0260-C,2L,CMgam,Cameroon,gambiae
+AN0261-C,2L,CMgam,Cameroon,gambiae
+AN0262-C,2L,CMgam,Cameroon,gambiae
+AN0263-C,2L,CMgam,Cameroon,gambiae
+AN0264-C,2L,CMgam,Cameroon,gambiae
+AN0265-C,2L,CMgam,Cameroon,gambiae
+AN0266-C,2L,CMgam,Cameroon,gambiae
+AN0267-C,2L,CMgam,Cameroon,gambiae
+AN0268-C,2L,CMgam,Cameroon,gambiae
+AN0269-C,2L,CMgam,Cameroon,gambiae
+AN0270-C,2L,CMgam,Cameroon,gambiae
+AN0271-C,2L,CMgam,Cameroon,gambiae
+AN0272-C,2L,CMgam,Cameroon,gambiae
+AN0275-C,2L,CMgam,Cameroon,gambiae
+AN0276-C,2L,CMgam,Cameroon,gambiae
+AN0277-C,2L,CMgam,Cameroon,gambiae
+AN0278-C,2L,CMgam,Cameroon,gambiae
+AN0279-C,2L,CMgam,Cameroon,gambiae
+AN0280-C,2L,CMgam,Cameroon,gambiae
+AN0281-C,2L,CMgam,Cameroon,gambiae
+AN0282-C,2L,CMgam,Cameroon,gambiae
+AN0283-C,2L,CMgam,Cameroon,gambiae
+AN0284-C,2L,CMgam,Cameroon,gambiae
+AN0285-C,2L,CMgam,Cameroon,gambiae
+AN0286-C,2L,CMgam,Cameroon,gambiae
+AN0287-C,2L,CMgam,Cameroon,gambiae
+AN0288-C,2L,CMgam,Cameroon,gambiae
+AN0289-C,2L,CMgam,Cameroon,gambiae
+AN0290-C,2L,CMgam,Cameroon,gambiae
+AN0291-C,2L,CMgam,Cameroon,gambiae
+AN0292-C,2L,CMgam,Cameroon,gambiae
+AN0293-C,2L,CMgam,Cameroon,gambiae
+AN0294-C,2L,CMgam,Cameroon,gambiae
+AN0295-C,2L,CMgam,Cameroon,gambiae
+AN0296-C,2L,CMgam,Cameroon,gambiae
+AN0297-C,2L,CMgam,Cameroon,gambiae
+AN0298-C,2L,CMgam,Cameroon,gambiae
+AN0299-C,2L,CMgam,Cameroon,gambiae
+AN0300-C,2L,CMgam,Cameroon,gambiae
+AN0301-C,2L,CMgam,Cameroon,gambiae
+AN0302-C,2L,CMgam,Cameroon,gambiae
+AN0303-C,2L,CMgam,Cameroon,gambiae
+AN0304-C,2L,CMgam,Cameroon,gambiae
+AN0305-C,2L,CMgam,Cameroon,gambiae
+AN0306-C,2L,CMgam,Cameroon,gambiae
+AN0307-C,2L,CMgam,Cameroon,gambiae
+AN0308-C,2L,CMgam,Cameroon,gambiae
+AN0309-C,2L,CMgam,Cameroon,gambiae
+AN0310-C,2L,CMgam,Cameroon,gambiae
+AN0311-C,2L,CMgam,Cameroon,gambiae
+AN0312-C,2L,CMgam,Cameroon,gambiae
+AN0313-C,2L,CMgam,Cameroon,gambiae
+AN0314-C,2L,CMgam,Cameroon,gambiae
+AN0315-C,2L,CMgam,Cameroon,gambiae
+AN0316-C,2L,CMgam,Cameroon,gambiae
+AN0317-C,2L,CMgam,Cameroon,gambiae
+AN0318-C,2L,CMgam,Cameroon,gambiae
+AN0319-C,2L,CMgam,Cameroon,gambiae
+AN0320-C,2L,CMgam,Cameroon,gambiae
+AN0321-C,2L,CMgam,Cameroon,gambiae
+AP0002-C,2L,FRgam,France,gambiae
+AP0005-C,2L,FRgam,France,gambiae
+AP0006-C,2L,FRgam,France,gambiae
+AP0007-C,2L,FRgam,France,gambiae
+AP0008-C,2L,FRgam,France,gambiae
+AP0009-C,2L,FRgam,France,gambiae
+AP0010-C,2L,FRgam,France,gambiae
+AP0011-C,2L,FRgam,France,gambiae
+AP0014-C,2L,FRgam,France,gambiae
+AP0017-C,2L,FRgam,France,gambiae
+AP0018-C,2L,FRgam,France,gambiae
+AP0019-C,2L,FRgam,France,gambiae
+AP0020-C,2L,FRgam,France,gambiae
+AP0021-C,2L,FRgam,France,gambiae
+AP0022-C,2L,FRgam,France,gambiae
+AP0023-C,2L,FRgam,France,gambiae
+AP0024-C,2L,FRgam,France,gambiae
+AP0025-C,2L,FRgam,France,gambiae
+AP0030-C,2L,FRgam,France,gambiae
+AP0031-C,2L,FRgam,France,gambiae
+AP0032-C,2L,FRgam,France,gambiae
+AP0033-C,2L,FRgam,France,gambiae
+AP0034-C,2L,FRgam,France,gambiae
+AP0035-C,2L,FRgam,France,gambiae
+AQ0001-C,2L,GQgam,Equatorial Guinea,gambiae
+AQ0002-C,2L,GQgam,Equatorial Guinea,gambiae
+AQ0004-C,2L,GQgam,Equatorial Guinea,gambiae
+AQ0005-C,2L,GQgam,Equatorial Guinea,gambiae
+AQ0011-C,2L,GQgam,Equatorial Guinea,gambiae
+AQ0012-C,2L,GQgam,Equatorial Guinea,gambiae
+AQ0013-C,2L,GQgam,Equatorial Guinea,gambiae
+AQ0014-C,2L,GQgam,Equatorial Guinea,gambiae
+AQ0015-C,2L,GQgam,Equatorial Guinea,gambiae
+AR0001-C,2L,AOcol,Angola,coluzzii
+AR0007-C,2L,AOcol,Angola,coluzzii
+AR0008-C,2L,AOcol,Angola,coluzzii
+AR0009-C,2L,AOcol,Angola,coluzzii
+AR0010-C,2L,AOcol,Angola,coluzzii
+AR0011-C,2L,AOcol,Angola,coluzzii
+AR0012-C,2L,AOcol,Angola,coluzzii
+AR0013-C,2L,AOcol,Angola,coluzzii
+AR0014-C,2L,AOcol,Angola,coluzzii
+AR0015-C,2L,AOcol,Angola,coluzzii
+AR0016-C,2L,AOcol,Angola,coluzzii
+AR0017-C,2L,AOcol,Angola,coluzzii
+AR0018-C,2L,AOcol,Angola,coluzzii
+AR0019-C,2L,AOcol,Angola,coluzzii
+AR0020-C,2L,AOcol,Angola,coluzzii
+AR0021-C,2L,AOcol,Angola,coluzzii
+AR0022-C,2L,AOcol,Angola,coluzzii
+AR0023-C,2L,AOcol,Angola,coluzzii
+AR0024-C,2L,AOcol,Angola,coluzzii
+AR0026-C,2L,AOcol,Angola,coluzzii
+AR0027-C,2L,AOcol,Angola,coluzzii
+AR0034-C,2L,AOcol,Angola,coluzzii
+AR0035-C,2L,AOcol,Angola,coluzzii
+AR0036-C,2L,AOcol,Angola,coluzzii
+AR0038-C,2L,AOcol,Angola,coluzzii
+AR0040-C,2L,AOcol,Angola,coluzzii
+AR0042-C,2L,AOcol,Angola,coluzzii
+AR0043-C,2L,AOcol,Angola,coluzzii
+AR0044-C,2L,AOcol,Angola,coluzzii
+AR0045-C,2L,AOcol,Angola,coluzzii
+AR0046-C,2L,AOcol,Angola,coluzzii
+AR0047-C,2L,AOcol,Angola,coluzzii
+AR0048-C,2L,AOcol,Angola,coluzzii
+AR0049-C,2L,AOcol,Angola,coluzzii
+AR0050-C,2L,AOcol,Angola,coluzzii
+AR0051-C,2L,AOcol,Angola,coluzzii
+AR0052-C,2L,AOcol,Angola,coluzzii
+AR0053-C,2L,AOcol,Angola,coluzzii
+AR0054-C,2L,AOcol,Angola,coluzzii
+AR0057-C,2L,AOcol,Angola,coluzzii
+AR0059-C,2L,AOcol,Angola,coluzzii
+AR0060-C,2L,AOcol,Angola,coluzzii
+AR0061-C,2L,AOcol,Angola,coluzzii
+AR0062-C,2L,AOcol,Angola,coluzzii
+AR0063-C,2L,AOcol,Angola,coluzzii
+AR0064-C,2L,AOcol,Angola,coluzzii
+AR0065-C,2L,AOcol,Angola,coluzzii
+AR0066-C,2L,AOcol,Angola,coluzzii
+AR0069-C,2L,AOcol,Angola,coluzzii
+AR0070-C,2L,AOcol,Angola,coluzzii
+AR0071-C,2L,AOcol,Angola,coluzzii
+AR0072-C,2L,AOcol,Angola,coluzzii
+AR0073-C,2L,AOcol,Angola,coluzzii
+AR0074-C,2L,AOcol,Angola,coluzzii
+AR0075-C,2L,AOcol,Angola,coluzzii
+AR0076-C,2L,AOcol,Angola,coluzzii
+AR0077-C,2L,AOcol,Angola,coluzzii
+AR0078-C,2L,AOcol,Angola,coluzzii
+AR0079-C,2L,AOcol,Angola,coluzzii
+AR0080-C,2L,AOcol,Angola,coluzzii
+AR0081-C,2L,AOcol,Angola,coluzzii
+AR0082-C,2L,AOcol,Angola,coluzzii
+AR0083-C,2L,AOcol,Angola,coluzzii
+AR0084-C,2L,AOcol,Angola,coluzzii
+AR0085-C,2L,AOcol,Angola,coluzzii
+AR0086-C,2L,AOcol,Angola,coluzzii
+AR0087-C,2L,AOcol,Angola,coluzzii
+AR0088-C,2L,AOcol,Angola,coluzzii
+AR0089-C,2L,AOcol,Angola,coluzzii
+AR0090-C,2L,AOcol,Angola,coluzzii
+AR0092-C,2L,AOcol,Angola,coluzzii
+AR0093-C,2L,AOcol,Angola,coluzzii
+AR0095-C,2L,AOcol,Angola,coluzzii
+AR0096-C,2L,AOcol,Angola,coluzzii
+AR0097-C,2L,AOcol,Angola,coluzzii
+AR0098-C,2L,AOcol,Angola,coluzzii
+AR0099-C,2L,AOcol,Angola,coluzzii
+AR0100-C,2L,AOcol,Angola,coluzzii
+AS0001-C,2L,GAgam,Gabon,gambiae
+AS0002-C,2L,GAgam,Gabon,gambiae
+AS0003-C,2L,GAgam,Gabon,gambiae
+AS0004-C,2L,GAgam,Gabon,gambiae
+AS0005-C,2L,GAgam,Gabon,gambiae
+AS0006-C,2L,GAgam,Gabon,gambiae
+AS0007-C,2L,GAgam,Gabon,gambiae
+AS0008-C,2L,GAgam,Gabon,gambiae
+AS0009-C,2L,GAgam,Gabon,gambiae
+AS0010-C,2L,GAgam,Gabon,gambiae
+AS0011-C,2L,GAgam,Gabon,gambiae
+AS0012-C,2L,GAgam,Gabon,gambiae
+AS0013-C,2L,GAgam,Gabon,gambiae
+AS0014-C,2L,GAgam,Gabon,gambiae
+AS0015-C,2L,GAgam,Gabon,gambiae
+AS0016-C,2L,GAgam,Gabon,gambiae
+AS0017-C,2L,GAgam,Gabon,gambiae
+AS0018-C,2L,GAgam,Gabon,gambiae
+AS0019-C,2L,GAgam,Gabon,gambiae
+AS0020-C,2L,GAgam,Gabon,gambiae
+AS0021-C,2L,GAgam,Gabon,gambiae
+AS0022-C,2L,GAgam,Gabon,gambiae
+AS0024-C,2L,GAgam,Gabon,gambiae
+AS0025-C,2L,GAgam,Gabon,gambiae
+AS0026-C,2L,GAgam,Gabon,gambiae
+AS0027-C,2L,GAgam,Gabon,gambiae
+AS0028-C,2L,GAgam,Gabon,gambiae
+AS0029-C,2L,GAgam,Gabon,gambiae
+AS0030-C,2L,GAgam,Gabon,gambiae
+AS0032-C,2L,GAgam,Gabon,gambiae
+AS0033-C,2L,GAgam,Gabon,gambiae
+AS0034-C,2L,GAgam,Gabon,gambiae
+AS0035-C,2L,GAgam,Gabon,gambiae
+AS0036-C,2L,GAgam,Gabon,gambiae
+AS0037-C,2L,GAgam,Gabon,gambiae
+AS0039-C,2L,GAgam,Gabon,gambiae
+AS0040-C,2L,GAgam,Gabon,gambiae
+AS0041-C,2L,GAgam,Gabon,gambiae
+AS0042-C,2L,GAgam,Gabon,gambiae
+AS0044-C,2L,GAgam,Gabon,gambiae
+AS0045-C,2L,GAgam,Gabon,gambiae
+AS0046-C,2L,GAgam,Gabon,gambiae
+AS0047-C,2L,GAgam,Gabon,gambiae
+AS0048-C,2L,GAgam,Gabon,gambiae
+AS0049-C,2L,GAgam,Gabon,gambiae
+AS0051-C,2L,GAgam,Gabon,gambiae
+AS0052-C,2L,GAgam,Gabon,gambiae
+AS0053-C,2L,GAgam,Gabon,gambiae
+AS0054-C,2L,GAgam,Gabon,gambiae
+AS0055-C,2L,GAgam,Gabon,gambiae
+AS0056-C,2L,GAgam,Gabon,gambiae
+AS0057-C,2L,GAgam,Gabon,gambiae
+AS0058-C,2L,GAgam,Gabon,gambiae
+AS0059-C,2L,GAgam,Gabon,gambiae
+AS0060-C,2L,GAgam,Gabon,gambiae
+AS0062-C,2L,GAgam,Gabon,gambiae
+AS0064-C,2L,GAgam,Gabon,gambiae
+AS0065-C,2L,GAgam,Gabon,gambiae
+AS0066-C,2L,GAgam,Gabon,gambiae
+AS0068-C,2L,GAgam,Gabon,gambiae
+AS0069-C,2L,GAgam,Gabon,gambiae
+AS0070-C,2L,GAgam,Gabon,gambiae
+AS0071-C,2L,GAgam,Gabon,gambiae
+AS0072-C,2L,GAgam,Gabon,gambiae
+AS0073-C,2L,GAgam,Gabon,gambiae
+AS0074-C,2L,GAgam,Gabon,gambiae
+AS0076-C,2L,GAgam,Gabon,gambiae
+AS0077-C,2L,GAgam,Gabon,gambiae
+AS0078-C,2L,GAgam,Gabon,gambiae
+AV0001-C,2L,GNgam,Guinea,gambiae
+AV0002-C,2L,GNgam,Guinea,gambiae
+AV0003-C,2L,GNgam,Guinea,gambiae
+AV0004-C,2L,GNgam,Guinea,gambiae
+AV0005-C,2L,GNgam,Guinea,gambiae
+AV0006-C,2L,GNgam,Guinea,gambiae
+AV0007-C,2L,GNgam,Guinea,gambiae
+AV0008-C,2L,GNgam,Guinea,gambiae
+AV0009-C,2L,GNgam,Guinea,gambiae
+AV0010-C,2L,GNgam,Guinea,gambiae
+AV0011-C,2L,GNgam,Guinea,gambiae
+AV0012-C,2L,GNgam,Guinea,gambiae
+AV0013-C,2L,GNgam,Guinea,gambiae
+AV0014-C,2L,GNgam,Guinea,gambiae
+AV0015-C,2L,GNgam,Guinea,gambiae
+AV0017-C,2L,GNgam,Guinea,gambiae
+AV0018-C,2L,GNgam,Guinea,gambiae
+AV0020-C,2L,GNgam,Guinea,gambiae
+AV0021-C,2L,GNgam,Guinea,gambiae
+AV0022-C,2L,GNgam,Guinea,gambiae
+AV0024-C,2L,GNgam,Guinea,gambiae
+AV0025-C,2L,GNgam,Guinea,gambiae
+AV0026-C,2L,GNgam,Guinea,gambiae
+AV0027-C,2L,GNgam,Guinea,gambiae
+AV0028-C,2L,GNgam,Guinea,gambiae
+AV0029-C,2L,GNgam,Guinea,gambiae
+AV0030-C,2L,GNgam,Guinea,gambiae
+AV0031-C,2L,GNgam,Guinea,gambiae
+AV0032-C,2L,GNgam,Guinea,gambiae
+AV0033-C,2L,GNgam,Guinea,gambiae
+AV0034-C,2L,GNgam,Guinea,gambiae
+AV0035-C,2L,GNgam,Guinea,gambiae
+AV0036-C,2L,GNgam,Guinea,gambiae
+AV0037-C,2L,GNgam,Guinea,gambiae
+AV0038-C,2L,GNcol,Guinea,coluzzii
+AV0039-C,2L,GNgam,Guinea,gambiae
+AV0040-C,2L,GNcol,Guinea,coluzzii
+AV0041-C,2L,GNgam,Guinea,gambiae
+AV0042-C,2L,GNcol,Guinea,coluzzii
+AV0043-C,2L,GNgam,Guinea,gambiae
+AV0044-C,2L,GNgam,Guinea,gambiae
+AV0045-C,2L,GNgam,Guinea,gambiae
+AV0046-C,2L,GNcol,Guinea,coluzzii
+AV0047-C,2L,GNgam,Guinea,gambiae
+AY0006-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0007-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0010-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0011-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0012-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0013-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0015-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0016-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0017-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0018-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0019-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0020-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0021-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0023-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0024-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0025-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0026-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0027-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0029-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0031-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0032-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0033-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0034-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0035-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0036-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0038-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0039-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0040-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0041-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0042-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0043-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0045-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0046-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0047-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0048-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0049-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0050-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0052-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0053-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0054-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0055-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0056-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0057-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0058-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0059-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0060-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0061-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0062-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0063-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0064-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0065-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0066-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0067-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0068-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0069-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0070-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0072-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0074-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0076-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0077-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0078-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0079-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0080-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0082-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0083-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0085-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0087-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0088-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0089-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0090-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AY0091-C,2L,CIcol,Cote d'Ivoire,coluzzii
+AA0040-C,3R,GHcol,Ghana,coluzzii
+AA0041-C,3R,GHcol,Ghana,coluzzii
+AA0042-C,3R,GHcol,Ghana,coluzzii
+AA0043-C,3R,GHcol,Ghana,coluzzii
+AA0044-C,3R,GHcol,Ghana,coluzzii
+AA0048-C,3R,GHgam,Ghana,gambiae
+AA0049-C,3R,GHcol,Ghana,coluzzii
+AA0050-C,3R,GHgam,Ghana,gambiae
+AA0051-C,3R,GHcol,Ghana,coluzzii
+AA0052-C,3R,GHcol,Ghana,coluzzii
+AA0053-C,3R,GHcol,Ghana,coluzzii
+AA0054-C,3R,GHcol,Ghana,coluzzii
+AA0055-C,3R,GHcol,Ghana,coluzzii
+AA0056-C,3R,GHcol,Ghana,coluzzii
+AA0060-C,3R,GHgam,Ghana,gambiae
+AA0061-C,3R,GHgam,Ghana,gambiae
+AA0063-C,3R,GHcol,Ghana,coluzzii
+AA0064-C,3R,GHcol,Ghana,coluzzii
+AA0066-C,3R,GHcol,Ghana,coluzzii
+AA0067-C,3R,GHcol,Ghana,coluzzii
+AA0068-C,3R,GHcol,Ghana,coluzzii
+AA0072-C,3R,GHgam,Ghana,gambiae
+AA0073-C,3R,GHcol,Ghana,coluzzii
+AA0074-C,3R,GHcol,Ghana,coluzzii
+AA0075-C,3R,GHcol,Ghana,coluzzii
+AA0076-C,3R,GHcol,Ghana,coluzzii
+AA0077-C,3R,GHcol,Ghana,coluzzii
+AA0080-C,3R,GHcol,Ghana,coluzzii
+AA0084-C,3R,GHgam,Ghana,gambiae
+AA0085-C,3R,GHgam,Ghana,gambiae
+AA0086-C,3R,GHgam,Ghana,gambiae
+AA0087-C,3R,GHcol,Ghana,coluzzii
+AA0088-C,3R,GHcol,Ghana,coluzzii
+AA0089-C,3R,GHcol,Ghana,coluzzii
+AA0090-C,3R,GHcol,Ghana,coluzzii
+AA0091-C,3R,GHcol,Ghana,coluzzii
+AA0096-C,3R,GHgam,Ghana,gambiae
+AA0097-C,3R,GHcol,Ghana,coluzzii
+AA0098-C,3R,GHcol,Ghana,coluzzii
+AA0099-C,3R,GHcol,Ghana,coluzzii
+AA0100-C,3R,GHcol,Ghana,coluzzii
+AA0101-C,3R,GHcol,Ghana,coluzzii
+AA0102-C,3R,GHcol,Ghana,coluzzii
+AA0103-C,3R,GHcol,Ghana,coluzzii
+AA0104-C,3R,GHcol,Ghana,coluzzii
+AA0107-C,3R,GHcol,Ghana,coluzzii
+AA0108-C,3R,GHgam,Ghana,gambiae
+AA0109-C,3R,GHcol,Ghana,coluzzii
+AA0110-C,3R,GHcol,Ghana,coluzzii
+AA0111-C,3R,GHcol,Ghana,coluzzii
+AA0113-C,3R,GHcol,Ghana,coluzzii
+AA0114-C,3R,GHcol,Ghana,coluzzii
+AA0115-C,3R,GHcol,Ghana,coluzzii
+AA0116-C,3R,GHcol,Ghana,coluzzii
+AA0122-C,3R,GHgam,Ghana,gambiae
+AA0123-C,3R,GHcol,Ghana,coluzzii
+AA0124-C,3R,GHcol,Ghana,coluzzii
+AA0125-C,3R,GHcol,Ghana,coluzzii
+AA0127-C,3R,GHcol,Ghana,coluzzii
+AA0132-C,3R,GHcol,Ghana,coluzzii
+AA0133-C,3R,GHgam,Ghana,gambiae
+AA0134-C,3R,GHcol,Ghana,coluzzii
+AA0135-C,3R,GHcol,Ghana,coluzzii
+AA0136-C,3R,GHcol,Ghana,coluzzii
+AA0139-C,3R,GHcol,Ghana,coluzzii
+AA0140-C,3R,GHcol,Ghana,coluzzii
+AA0141-C,3R,GHcol,Ghana,coluzzii
+AB0085-C,3R,BFgam,Burkina Faso,gambiae
+AB0087-C,3R,BFcol,Burkina Faso,coluzzii
+AB0088-C,3R,BFcol,Burkina Faso,coluzzii
+AB0089-C,3R,BFcol,Burkina Faso,coluzzii
+AB0090-C,3R,BFcol,Burkina Faso,coluzzii
+AB0091-C,3R,BFcol,Burkina Faso,coluzzii
+AB0092-C,3R,BFcol,Burkina Faso,coluzzii
+AB0094-C,3R,BFcol,Burkina Faso,coluzzii
+AB0095-C,3R,BFcol,Burkina Faso,coluzzii
+AB0097-C,3R,BFcol,Burkina Faso,coluzzii
+AB0098-C,3R,BFcol,Burkina Faso,coluzzii
+AB0099-C,3R,BFcol,Burkina Faso,coluzzii
+AB0100-C,3R,BFcol,Burkina Faso,coluzzii
+AB0101-C,3R,BFcol,Burkina Faso,coluzzii
+AB0103-C,3R,BFgam,Burkina Faso,gambiae
+AB0104-C,3R,BFgam,Burkina Faso,gambiae
+AB0108-C,3R,BFgam,Burkina Faso,gambiae
+AB0109-C,3R,BFcol,Burkina Faso,coluzzii
+AB0110-C,3R,BFcol,Burkina Faso,coluzzii
+AB0111-C,3R,BFcol,Burkina Faso,coluzzii
+AB0112-C,3R,BFcol,Burkina Faso,coluzzii
+AB0113-C,3R,BFcol,Burkina Faso,coluzzii
+AB0114-C,3R,BFcol,Burkina Faso,coluzzii
+AB0115-C,3R,BFcol,Burkina Faso,coluzzii
+AB0117-C,3R,BFgam,Burkina Faso,gambiae
+AB0118-C,3R,BFgam,Burkina Faso,gambiae
+AB0119-C,3R,BFgam,Burkina Faso,gambiae
+AB0122-C,3R,BFcol,Burkina Faso,coluzzii
+AB0123-C,3R,BFcol,Burkina Faso,coluzzii
+AB0124-C,3R,BFcol,Burkina Faso,coluzzii
+AB0126-C,3R,BFgam,Burkina Faso,gambiae
+AB0127-C,3R,BFgam,Burkina Faso,gambiae
+AB0128-C,3R,BFgam,Burkina Faso,gambiae
+AB0129-C,3R,BFgam,Burkina Faso,gambiae
+AB0130-C,3R,BFgam,Burkina Faso,gambiae
+AB0133-C,3R,BFgam,Burkina Faso,gambiae
+AB0134-C,3R,BFgam,Burkina Faso,gambiae
+AB0135-C,3R,BFgam,Burkina Faso,gambiae
+AB0136-C,3R,BFgam,Burkina Faso,gambiae
+AB0137-C,3R,BFcol,Burkina Faso,coluzzii
+AB0138-C,3R,BFcol,Burkina Faso,coluzzii
+AB0139-C,3R,BFcol,Burkina Faso,coluzzii
+AB0140-C,3R,BFcol,Burkina Faso,coluzzii
+AB0142-C,3R,BFcol,Burkina Faso,coluzzii
+AB0143-C,3R,BFgam,Burkina Faso,gambiae
+AB0145-C,3R,BFgam,Burkina Faso,gambiae
+AB0146-C,3R,BFgam,Burkina Faso,gambiae
+AB0147-C,3R,BFgam,Burkina Faso,gambiae
+AB0148-C,3R,BFgam,Burkina Faso,gambiae
+AB0150-C,3R,BFgam,Burkina Faso,gambiae
+AB0151-C,3R,BFgam,Burkina Faso,gambiae
+AB0153-C,3R,BFgam,Burkina Faso,gambiae
+AB0155-C,3R,BFgam,Burkina Faso,gambiae
+AB0157-C,3R,BFgam,Burkina Faso,gambiae
+AB0158-C,3R,BFgam,Burkina Faso,gambiae
+AB0159-C,3R,BFgam,Burkina Faso,gambiae
+AB0160-C,3R,BFgam,Burkina Faso,gambiae
+AB0161-C,3R,BFgam,Burkina Faso,gambiae
+AB0162-C,3R,BFgam,Burkina Faso,gambiae
+AB0164-C,3R,BFgam,Burkina Faso,gambiae
+AB0165-C,3R,BFgam,Burkina Faso,gambiae
+AB0166-C,3R,BFgam,Burkina Faso,gambiae
+AB0167-C,3R,BFgam,Burkina Faso,gambiae
+AB0169-C,3R,BFgam,Burkina Faso,gambiae
+AB0170-C,3R,BFgam,Burkina Faso,gambiae
+AB0171-C,3R,BFgam,Burkina Faso,gambiae
+AB0172-C,3R,BFgam,Burkina Faso,gambiae
+AB0173-C,3R,BFgam,Burkina Faso,gambiae
+AB0174-C,3R,BFgam,Burkina Faso,gambiae
+AB0175-C,3R,BFgam,Burkina Faso,gambiae
+AB0176-C,3R,BFgam,Burkina Faso,gambiae
+AB0177-C,3R,BFgam,Burkina Faso,gambiae
+AB0178-C,3R,BFgam,Burkina Faso,gambiae
+AB0179-C,3R,BFgam,Burkina Faso,gambiae
+AB0181-C,3R,BFcol,Burkina Faso,coluzzii
+AB0182-C,3R,BFcol,Burkina Faso,coluzzii
+AB0183-C,3R,BFcol,Burkina Faso,coluzzii
+AB0184-C,3R,BFcol,Burkina Faso,coluzzii
+AB0185-C,3R,BFcol,Burkina Faso,coluzzii
+AB0186-C,3R,BFcol,Burkina Faso,coluzzii
+AB0187-C,3R,BFcol,Burkina Faso,coluzzii
+AB0188-C,3R,BFcol,Burkina Faso,coluzzii
+AB0189-C,3R,BFcol,Burkina Faso,coluzzii
+AB0190-C,3R,BFcol,Burkina Faso,coluzzii
+AB0191-C,3R,BFcol,Burkina Faso,coluzzii
+AB0192-C,3R,BFcol,Burkina Faso,coluzzii
+AB0195-C,3R,BFcol,Burkina Faso,coluzzii
+AB0196-C,3R,BFcol,Burkina Faso,coluzzii
+AB0197-C,3R,BFgam,Burkina Faso,gambiae
+AB0198-C,3R,BFgam,Burkina Faso,gambiae
+AB0199-C,3R,BFgam,Burkina Faso,gambiae
+AB0200-C,3R,BFgam,Burkina Faso,gambiae
+AB0201-C,3R,BFgam,Burkina Faso,gambiae
+AB0202-C,3R,BFgam,Burkina Faso,gambiae
+AB0203-C,3R,BFgam,Burkina Faso,gambiae
+AB0204-C,3R,BFcol,Burkina Faso,coluzzii
+AB0205-C,3R,BFgam,Burkina Faso,gambiae
+AB0206-C,3R,BFgam,Burkina Faso,gambiae
+AB0207-C,3R,BFgam,Burkina Faso,gambiae
+AB0208-C,3R,BFgam,Burkina Faso,gambiae
+AB0209-C,3R,BFcol,Burkina Faso,coluzzii
+AB0210-C,3R,BFcol,Burkina Faso,coluzzii
+AB0211-C,3R,BFgam,Burkina Faso,gambiae
+AB0212-C,3R,BFcol,Burkina Faso,coluzzii
+AB0213-C,3R,BFcol,Burkina Faso,coluzzii
+AB0215-C,3R,BFcol,Burkina Faso,coluzzii
+AB0217-C,3R,BFgam,Burkina Faso,gambiae
+AB0218-C,3R,BFgam,Burkina Faso,gambiae
+AB0219-C,3R,BFcol,Burkina Faso,coluzzii
+AB0221-C,3R,BFcol,Burkina Faso,coluzzii
+AB0222-C,3R,BFcol,Burkina Faso,coluzzii
+AB0223-C,3R,BFcol,Burkina Faso,coluzzii
+AB0224-C,3R,BFcol,Burkina Faso,coluzzii
+AB0226-C,3R,BFcol,Burkina Faso,coluzzii
+AB0227-C,3R,BFcol,Burkina Faso,coluzzii
+AB0228-C,3R,BFgam,Burkina Faso,gambiae
+AB0229-C,3R,BFcol,Burkina Faso,coluzzii
+AB0231-C,3R,BFgam,Burkina Faso,gambiae
+AB0232-C,3R,BFgam,Burkina Faso,gambiae
+AB0233-C,3R,BFgam,Burkina Faso,gambiae
+AB0234-C,3R,BFcol,Burkina Faso,coluzzii
+AB0235-C,3R,BFgam,Burkina Faso,gambiae
+AB0236-C,3R,BFgam,Burkina Faso,gambiae
+AB0237-C,3R,BFcol,Burkina Faso,coluzzii
+AB0238-C,3R,BFgam,Burkina Faso,gambiae
+AB0239-C,3R,BFgam,Burkina Faso,gambiae
+AB0240-C,3R,BFcol,Burkina Faso,coluzzii
+AB0241-C,3R,BFgam,Burkina Faso,gambiae
+AB0242-C,3R,BFcol,Burkina Faso,coluzzii
+AB0243-C,3R,BFcol,Burkina Faso,coluzzii
+AB0244-C,3R,BFgam,Burkina Faso,gambiae
+AB0246-C,3R,BFcol,Burkina Faso,coluzzii
+AB0247-C,3R,BFcol,Burkina Faso,coluzzii
+AB0248-C,3R,BFcol,Burkina Faso,coluzzii
+AB0249-C,3R,BFcol,Burkina Faso,coluzzii
+AB0250-C,3R,BFcol,Burkina Faso,coluzzii
+AB0251-C,3R,BFgam,Burkina Faso,gambiae
+AB0252-C,3R,BFgam,Burkina Faso,gambiae
+AB0253-C,3R,BFgam,Burkina Faso,gambiae
+AB0255-C,3R,BFgam,Burkina Faso,gambiae
+AB0256-C,3R,BFgam,Burkina Faso,gambiae
+AB0257-C,3R,BFcol,Burkina Faso,coluzzii
+AB0258-C,3R,BFcol,Burkina Faso,coluzzii
+AB0260-C,3R,BFgam,Burkina Faso,gambiae
+AB0261-C,3R,BFgam,Burkina Faso,gambiae
+AB0262-C,3R,BFcol,Burkina Faso,coluzzii
+AB0263-C,3R,BFcol,Burkina Faso,coluzzii
+AB0264-C,3R,BFgam,Burkina Faso,gambiae
+AB0265-C,3R,BFgam,Burkina Faso,gambiae
+AB0266-C,3R,BFcol,Burkina Faso,coluzzii
+AB0267-C,3R,BFcol,Burkina Faso,coluzzii
+AB0268-C,3R,BFgam,Burkina Faso,gambiae
+AB0270-C,3R,BFgam,Burkina Faso,gambiae
+AB0271-C,3R,BFgam,Burkina Faso,gambiae
+AB0272-C,3R,BFgam,Burkina Faso,gambiae
+AB0273-C,3R,BFgam,Burkina Faso,gambiae
+AB0274-C,3R,BFgam,Burkina Faso,gambiae
+AB0275-C,3R,BFgam,Burkina Faso,gambiae
+AB0276-C,3R,BFcol,Burkina Faso,coluzzii
+AB0277-C,3R,BFgam,Burkina Faso,gambiae
+AB0278-C,3R,BFgam,Burkina Faso,gambiae
+AB0279-C,3R,BFcol,Burkina Faso,coluzzii
+AB0280-C,3R,BFgam,Burkina Faso,gambiae
+AB0281-C,3R,BFgam,Burkina Faso,gambiae
+AB0282-C,3R,BFcol,Burkina Faso,coluzzii
+AB0283-C,3R,BFgam,Burkina Faso,gambiae
+AB0284-C,3R,BFgam,Burkina Faso,gambiae
+AC0089-C,3R,UGgam,Uganda,gambiae
+AC0090-C,3R,UGgam,Uganda,gambiae
+AC0091-C,3R,UGgam,Uganda,gambiae
+AC0092-C,3R,UGgam,Uganda,gambiae
+AC0093-C,3R,UGgam,Uganda,gambiae
+AC0094-C,3R,UGgam,Uganda,gambiae
+AC0095-C,3R,UGgam,Uganda,gambiae
+AC0096-C,3R,UGgam,Uganda,gambiae
+AC0097-C,3R,UGgam,Uganda,gambiae
+AC0098-C,3R,UGgam,Uganda,gambiae
+AC0099-C,3R,UGgam,Uganda,gambiae
+AC0100-C,3R,UGgam,Uganda,gambiae
+AC0101-C,3R,UGgam,Uganda,gambiae
+AC0102-C,3R,UGgam,Uganda,gambiae
+AC0103-C,3R,UGgam,Uganda,gambiae
+AC0104-C,3R,UGgam,Uganda,gambiae
+AC0105-C,3R,UGgam,Uganda,gambiae
+AC0106-C,3R,UGgam,Uganda,gambiae
+AC0107-C,3R,UGgam,Uganda,gambiae
+AC0108-C,3R,UGgam,Uganda,gambiae
+AC0109-C,3R,UGgam,Uganda,gambiae
+AC0110-C,3R,UGgam,Uganda,gambiae
+AC0111-C,3R,UGgam,Uganda,gambiae
+AC0112-C,3R,UGgam,Uganda,gambiae
+AC0113-C,3R,UGgam,Uganda,gambiae
+AC0114-C,3R,UGgam,Uganda,gambiae
+AC0115-C,3R,UGgam,Uganda,gambiae
+AC0116-C,3R,UGgam,Uganda,gambiae
+AC0117-C,3R,UGgam,Uganda,gambiae
+AC0118-C,3R,UGgam,Uganda,gambiae
+AC0119-C,3R,UGgam,Uganda,gambiae
+AC0120-C,3R,UGgam,Uganda,gambiae
+AC0121-C,3R,UGgam,Uganda,gambiae
+AC0122-C,3R,UGgam,Uganda,gambiae
+AC0123-C,3R,UGgam,Uganda,gambiae
+AC0124-C,3R,UGgam,Uganda,gambiae
+AC0125-C,3R,UGgam,Uganda,gambiae
+AC0126-C,3R,UGgam,Uganda,gambiae
+AC0127-C,3R,UGgam,Uganda,gambiae
+AC0128-C,3R,UGgam,Uganda,gambiae
+AC0129-C,3R,UGgam,Uganda,gambiae
+AC0130-C,3R,UGgam,Uganda,gambiae
+AC0131-C,3R,UGgam,Uganda,gambiae
+AC0132-C,3R,UGgam,Uganda,gambiae
+AC0133-C,3R,UGgam,Uganda,gambiae
+AC0134-C,3R,UGgam,Uganda,gambiae
+AC0135-C,3R,UGgam,Uganda,gambiae
+AC0136-C,3R,UGgam,Uganda,gambiae
+AC0137-C,3R,UGgam,Uganda,gambiae
+AC0138-C,3R,UGgam,Uganda,gambiae
+AC0139-C,3R,UGgam,Uganda,gambiae
+AC0140-C,3R,UGgam,Uganda,gambiae
+AC0141-C,3R,UGgam,Uganda,gambiae
+AC0142-C,3R,UGgam,Uganda,gambiae
+AC0143-C,3R,UGgam,Uganda,gambiae
+AC0144-C,3R,UGgam,Uganda,gambiae
+AC0145-C,3R,UGgam,Uganda,gambiae
+AC0146-C,3R,UGgam,Uganda,gambiae
+AC0147-C,3R,UGgam,Uganda,gambiae
+AC0148-C,3R,UGgam,Uganda,gambiae
+AC0149-C,3R,UGgam,Uganda,gambiae
+AC0150-C,3R,UGgam,Uganda,gambiae
+AC0151-C,3R,UGgam,Uganda,gambiae
+AC0152-C,3R,UGgam,Uganda,gambiae
+AC0153-C,3R,UGgam,Uganda,gambiae
+AC0154-C,3R,UGgam,Uganda,gambiae
+AC0155-C,3R,UGgam,Uganda,gambiae
+AC0156-C,3R,UGgam,Uganda,gambiae
+AC0157-C,3R,UGgam,Uganda,gambiae
+AC0158-C,3R,UGgam,Uganda,gambiae
+AC0159-C,3R,UGgam,Uganda,gambiae
+AC0160-C,3R,UGgam,Uganda,gambiae
+AC0161-C,3R,UGgam,Uganda,gambiae
+AC0162-C,3R,UGgam,Uganda,gambiae
+AC0163-C,3R,UGgam,Uganda,gambiae
+AC0164-C,3R,UGgam,Uganda,gambiae
+AC0166-C,3R,UGgam,Uganda,gambiae
+AC0167-C,3R,UGgam,Uganda,gambiae
+AC0168-C,3R,UGgam,Uganda,gambiae
+AC0169-C,3R,UGgam,Uganda,gambiae
+AC0170-C,3R,UGgam,Uganda,gambiae
+AC0171-C,3R,UGgam,Uganda,gambiae
+AC0172-C,3R,UGgam,Uganda,gambiae
+AC0173-C,3R,UGgam,Uganda,gambiae
+AC0174-C,3R,UGgam,Uganda,gambiae
+AC0176-C,3R,UGgam,Uganda,gambiae
+AC0177-C,3R,UGgam,Uganda,gambiae
+AC0178-C,3R,UGgam,Uganda,gambiae
+AC0179-C,3R,UGgam,Uganda,gambiae
+AC0180-C,3R,UGgam,Uganda,gambiae
+AC0181-C,3R,UGgam,Uganda,gambiae
+AC0182-C,3R,UGgam,Uganda,gambiae
+AC0183-C,3R,UGgam,Uganda,gambiae
+AC0184-C,3R,UGgam,Uganda,gambiae
+AC0185-C,3R,UGgam,Uganda,gambiae
+AC0186-C,3R,UGgam,Uganda,gambiae
+AC0187-C,3R,UGgam,Uganda,gambiae
+AC0188-C,3R,UGgam,Uganda,gambiae
+AC0189-C,3R,UGgam,Uganda,gambiae
+AC0190-C,3R,UGgam,Uganda,gambiae
+AC0191-C,3R,UGgam,Uganda,gambiae
+AC0192-C,3R,UGgam,Uganda,gambiae
+AC0193-C,3R,UGgam,Uganda,gambiae
+AC0194-C,3R,UGgam,Uganda,gambiae
+AC0195-C,3R,UGgam,Uganda,gambiae
+AC0196-C,3R,UGgam,Uganda,gambiae
+AC0197-C,3R,UGgam,Uganda,gambiae
+AC0199-C,3R,UGgam,Uganda,gambiae
+AC0200-C,3R,UGgam,Uganda,gambiae
+AC0201-C,3R,UGgam,Uganda,gambiae
+AC0202-C,3R,UGgam,Uganda,gambiae
+AC0203-C,3R,UGgam,Uganda,gambiae
+AN0007-C,3R,CMgam,Cameroon,gambiae
+AN0008-C,3R,CMgam,Cameroon,gambiae
+AN0009-C,3R,CMgam,Cameroon,gambiae
+AN0010-C,3R,CMgam,Cameroon,gambiae
+AN0011-C,3R,CMgam,Cameroon,gambiae
+AN0012-C,3R,CMgam,Cameroon,gambiae
+AN0013-C,3R,CMgam,Cameroon,gambiae
+AN0014-C,3R,CMgam,Cameroon,gambiae
+AN0015-C,3R,CMgam,Cameroon,gambiae
+AN0016-C,3R,CMgam,Cameroon,gambiae
+AN0017-C,3R,CMgam,Cameroon,gambiae
+AN0018-C,3R,CMgam,Cameroon,gambiae
+AN0019-C,3R,CMgam,Cameroon,gambiae
+AN0020-C,3R,CMgam,Cameroon,gambiae
+AN0022-C,3R,CMgam,Cameroon,gambiae
+AN0023-C,3R,CMgam,Cameroon,gambiae
+AN0024-C,3R,CMgam,Cameroon,gambiae
+AN0025-C,3R,CMgam,Cameroon,gambiae
+AN0026-C,3R,CMgam,Cameroon,gambiae
+AN0027-C,3R,CMgam,Cameroon,gambiae
+AN0028-C,3R,CMgam,Cameroon,gambiae
+AN0029-C,3R,CMgam,Cameroon,gambiae
+AN0030-C,3R,CMgam,Cameroon,gambiae
+AN0031-C,3R,CMgam,Cameroon,gambiae
+AN0032-C,3R,CMgam,Cameroon,gambiae
+AN0033-C,3R,CMgam,Cameroon,gambiae
+AN0034-C,3R,CMgam,Cameroon,gambiae
+AN0035-C,3R,CMgam,Cameroon,gambiae
+AN0036-C,3R,CMgam,Cameroon,gambiae
+AN0037-C,3R,CMgam,Cameroon,gambiae
+AN0038-C,3R,CMgam,Cameroon,gambiae
+AN0039-C,3R,CMgam,Cameroon,gambiae
+AN0040-C,3R,CMgam,Cameroon,gambiae
+AN0041-C,3R,CMgam,Cameroon,gambiae
+AN0042-C,3R,CMgam,Cameroon,gambiae
+AN0043-C,3R,CMgam,Cameroon,gambiae
+AN0044-C,3R,CMgam,Cameroon,gambiae
+AN0045-C,3R,CMgam,Cameroon,gambiae
+AN0046-C,3R,CMgam,Cameroon,gambiae
+AN0047-C,3R,CMgam,Cameroon,gambiae
+AN0048-C,3R,CMgam,Cameroon,gambiae
+AN0049-C,3R,CMgam,Cameroon,gambiae
+AN0050-C,3R,CMgam,Cameroon,gambiae
+AN0051-C,3R,CMgam,Cameroon,gambiae
+AN0053-C,3R,CMgam,Cameroon,gambiae
+AN0054-C,3R,CMgam,Cameroon,gambiae
+AN0055-C,3R,CMgam,Cameroon,gambiae
+AN0056-C,3R,CMgam,Cameroon,gambiae
+AN0057-C,3R,CMgam,Cameroon,gambiae
+AN0058-C,3R,CMgam,Cameroon,gambiae
+AN0059-C,3R,CMgam,Cameroon,gambiae
+AN0060-C,3R,CMgam,Cameroon,gambiae
+AN0061-C,3R,CMgam,Cameroon,gambiae
+AN0062-C,3R,CMgam,Cameroon,gambiae
+AN0063-C,3R,CMgam,Cameroon,gambiae
+AN0064-C,3R,CMgam,Cameroon,gambiae
+AN0065-C,3R,CMgam,Cameroon,gambiae
+AN0066-C,3R,CMgam,Cameroon,gambiae
+AN0067-C,3R,CMgam,Cameroon,gambiae
+AN0068-C,3R,CMgam,Cameroon,gambiae
+AN0069-C,3R,CMgam,Cameroon,gambiae
+AN0070-C,3R,CMgam,Cameroon,gambiae
+AN0071-C,3R,CMgam,Cameroon,gambiae
+AN0072-C,3R,CMgam,Cameroon,gambiae
+AN0073-C,3R,CMgam,Cameroon,gambiae
+AN0074-C,3R,CMgam,Cameroon,gambiae
+AN0075-C,3R,CMgam,Cameroon,gambiae
+AN0076-C,3R,CMgam,Cameroon,gambiae
+AN0077-C,3R,CMgam,Cameroon,gambiae
+AN0079-C,3R,CMgam,Cameroon,gambiae
+AN0080-C,3R,CMgam,Cameroon,gambiae
+AN0081-C,3R,CMgam,Cameroon,gambiae
+AN0082-C,3R,CMgam,Cameroon,gambiae
+AN0083-C,3R,CMgam,Cameroon,gambiae
+AN0084-C,3R,CMgam,Cameroon,gambiae
+AN0085-C,3R,CMgam,Cameroon,gambiae
+AN0086-C,3R,CMgam,Cameroon,gambiae
+AN0087-C,3R,CMgam,Cameroon,gambiae
+AN0088-C,3R,CMgam,Cameroon,gambiae
+AN0089-C,3R,CMgam,Cameroon,gambiae
+AN0090-C,3R,CMgam,Cameroon,gambiae
+AN0091-C,3R,CMgam,Cameroon,gambiae
+AN0092-C,3R,CMgam,Cameroon,gambiae
+AN0093-C,3R,CMgam,Cameroon,gambiae
+AN0094-C,3R,CMgam,Cameroon,gambiae
+AN0095-C,3R,CMgam,Cameroon,gambiae
+AN0096-C,3R,CMgam,Cameroon,gambiae
+AN0097-C,3R,CMgam,Cameroon,gambiae
+AN0098-C,3R,CMgam,Cameroon,gambiae
+AN0099-C,3R,CMgam,Cameroon,gambiae
+AN0100-C,3R,CMgam,Cameroon,gambiae
+AN0101-C,3R,CMgam,Cameroon,gambiae
+AN0102-C,3R,CMgam,Cameroon,gambiae
+AN0103-C,3R,CMgam,Cameroon,gambiae
+AN0104-C,3R,CMgam,Cameroon,gambiae
+AN0105-C,3R,CMgam,Cameroon,gambiae
+AN0106-C,3R,CMgam,Cameroon,gambiae
+AN0107-C,3R,CMgam,Cameroon,gambiae
+AN0108-C,3R,CMgam,Cameroon,gambiae
+AN0109-C,3R,CMgam,Cameroon,gambiae
+AN0111-C,3R,CMgam,Cameroon,gambiae
+AN0112-C,3R,CMgam,Cameroon,gambiae
+AN0113-C,3R,CMgam,Cameroon,gambiae
+AN0114-C,3R,CMgam,Cameroon,gambiae
+AN0115-C,3R,CMgam,Cameroon,gambiae
+AN0117-C,3R,CMgam,Cameroon,gambiae
+AN0118-C,3R,CMgam,Cameroon,gambiae
+AN0119-C,3R,CMgam,Cameroon,gambiae
+AN0120-C,3R,CMgam,Cameroon,gambiae
+AN0121-C,3R,CMgam,Cameroon,gambiae
+AN0122-C,3R,CMgam,Cameroon,gambiae
+AN0123-C,3R,CMgam,Cameroon,gambiae
+AN0124-C,3R,CMgam,Cameroon,gambiae
+AN0125-C,3R,CMgam,Cameroon,gambiae
+AN0126-C,3R,CMgam,Cameroon,gambiae
+AN0127-C,3R,CMgam,Cameroon,gambiae
+AN0128-C,3R,CMgam,Cameroon,gambiae
+AN0129-C,3R,CMgam,Cameroon,gambiae
+AN0130-C,3R,CMgam,Cameroon,gambiae
+AN0131-C,3R,CMgam,Cameroon,gambiae
+AN0132-C,3R,CMgam,Cameroon,gambiae
+AN0134-C,3R,CMgam,Cameroon,gambiae
+AN0135-C,3R,CMgam,Cameroon,gambiae
+AN0136-C,3R,CMgam,Cameroon,gambiae
+AN0137-C,3R,CMgam,Cameroon,gambiae
+AN0138-C,3R,CMgam,Cameroon,gambiae
+AN0139-C,3R,CMgam,Cameroon,gambiae
+AN0140-C,3R,CMgam,Cameroon,gambiae
+AN0141-C,3R,CMgam,Cameroon,gambiae
+AN0142-C,3R,CMgam,Cameroon,gambiae
+AN0143-C,3R,CMgam,Cameroon,gambiae
+AN0144-C,3R,CMgam,Cameroon,gambiae
+AN0147-C,3R,CMgam,Cameroon,gambiae
+AN0149-C,3R,CMgam,Cameroon,gambiae
+AN0151-C,3R,CMgam,Cameroon,gambiae
+AN0152-C,3R,CMgam,Cameroon,gambiae
+AN0153-C,3R,CMgam,Cameroon,gambiae
+AN0154-C,3R,CMgam,Cameroon,gambiae
+AN0155-C,3R,CMgam,Cameroon,gambiae
+AN0156-C,3R,CMgam,Cameroon,gambiae
+AN0157-C,3R,CMgam,Cameroon,gambiae
+AN0158-C,3R,CMgam,Cameroon,gambiae
+AN0159-C,3R,CMgam,Cameroon,gambiae
+AN0160-C,3R,CMgam,Cameroon,gambiae
+AN0162-C,3R,CMgam,Cameroon,gambiae
+AN0163-C,3R,CMgam,Cameroon,gambiae
+AN0164-C,3R,CMgam,Cameroon,gambiae
+AN0165-C,3R,CMgam,Cameroon,gambiae
+AN0166-C,3R,CMgam,Cameroon,gambiae
+AN0167-C,3R,CMgam,Cameroon,gambiae
+AN0168-C,3R,CMgam,Cameroon,gambiae
+AN0169-C,3R,CMgam,Cameroon,gambiae
+AN0170-C,3R,CMgam,Cameroon,gambiae
+AN0171-C,3R,CMgam,Cameroon,gambiae
+AN0172-C,3R,CMgam,Cameroon,gambiae
+AN0173-C,3R,CMgam,Cameroon,gambiae
+AN0174-C,3R,CMgam,Cameroon,gambiae
+AN0175-C,3R,CMgam,Cameroon,gambiae
+AN0176-C,3R,CMgam,Cameroon,gambiae
+AN0177-C,3R,CMgam,Cameroon,gambiae
+AN0178-C,3R,CMgam,Cameroon,gambiae
+AN0179-C,3R,CMgam,Cameroon,gambiae
+AN0180-C,3R,CMgam,Cameroon,gambiae
+AN0181-C,3R,CMgam,Cameroon,gambiae
+AN0182-C,3R,CMgam,Cameroon,gambiae
+AN0183-C,3R,CMgam,Cameroon,gambiae
+AN0184-C,3R,CMgam,Cameroon,gambiae
+AN0185-C,3R,CMgam,Cameroon,gambiae
+AN0186-C,3R,CMgam,Cameroon,gambiae
+AN0187-C,3R,CMgam,Cameroon,gambiae
+AN0188-C,3R,CMgam,Cameroon,gambiae
+AN0189-C,3R,CMgam,Cameroon,gambiae
+AN0190-C,3R,CMgam,Cameroon,gambiae
+AN0191-C,3R,CMgam,Cameroon,gambiae
+AN0192-C,3R,CMgam,Cameroon,gambiae
+AN0193-C,3R,CMgam,Cameroon,gambiae
+AN0194-C,3R,CMgam,Cameroon,gambiae
+AN0196-C,3R,CMgam,Cameroon,gambiae
+AN0197-C,3R,CMgam,Cameroon,gambiae
+AN0198-C,3R,CMgam,Cameroon,gambiae
+AN0199-C,3R,CMgam,Cameroon,gambiae
+AN0200-C,3R,CMgam,Cameroon,gambiae
+AN0201-C,3R,CMgam,Cameroon,gambiae
+AN0202-C,3R,CMgam,Cameroon,gambiae
+AN0203-C,3R,CMgam,Cameroon,gambiae
+AN0204-C,3R,CMgam,Cameroon,gambiae
+AN0205-C,3R,CMgam,Cameroon,gambiae
+AN0206-C,3R,CMgam,Cameroon,gambiae
+AN0207-C,3R,CMgam,Cameroon,gambiae
+AN0208-C,3R,CMgam,Cameroon,gambiae
+AN0209-C,3R,CMgam,Cameroon,gambiae
+AN0210-C,3R,CMgam,Cameroon,gambiae
+AN0212-C,3R,CMgam,Cameroon,gambiae
+AN0213-C,3R,CMgam,Cameroon,gambiae
+AN0214-C,3R,CMgam,Cameroon,gambiae
+AN0215-C,3R,CMgam,Cameroon,gambiae
+AN0217-C,3R,CMgam,Cameroon,gambiae
+AN0218-C,3R,CMgam,Cameroon,gambiae
+AN0219-C,3R,CMgam,Cameroon,gambiae
+AN0220-C,3R,CMgam,Cameroon,gambiae
+AN0221-C,3R,CMgam,Cameroon,gambiae
+AN0222-C,3R,CMgam,Cameroon,gambiae
+AN0223-C,3R,CMgam,Cameroon,gambiae
+AN0224-C,3R,CMgam,Cameroon,gambiae
+AN0225-C,3R,CMgam,Cameroon,gambiae
+AN0226-C,3R,CMgam,Cameroon,gambiae
+AN0227-C,3R,CMgam,Cameroon,gambiae
+AN0228-C,3R,CMgam,Cameroon,gambiae
+AN0229-C,3R,CMgam,Cameroon,gambiae
+AN0230-C,3R,CMgam,Cameroon,gambiae
+AN0231-C,3R,CMgam,Cameroon,gambiae
+AN0232-C,3R,CMgam,Cameroon,gambiae
+AN0233-C,3R,CMgam,Cameroon,gambiae
+AN0234-C,3R,CMgam,Cameroon,gambiae
+AN0235-C,3R,CMgam,Cameroon,gambiae
+AN0236-C,3R,CMgam,Cameroon,gambiae
+AN0237-C,3R,CMgam,Cameroon,gambiae
+AN0238-C,3R,CMgam,Cameroon,gambiae
+AN0239-C,3R,CMgam,Cameroon,gambiae
+AN0240-C,3R,CMgam,Cameroon,gambiae
+AN0241-C,3R,CMgam,Cameroon,gambiae
+AN0242-C,3R,CMgam,Cameroon,gambiae
+AN0243-C,3R,CMgam,Cameroon,gambiae
+AN0244-C,3R,CMgam,Cameroon,gambiae
+AN0245-C,3R,CMgam,Cameroon,gambiae
+AN0246-C,3R,CMgam,Cameroon,gambiae
+AN0247-C,3R,CMgam,Cameroon,gambiae
+AN0248-C,3R,CMgam,Cameroon,gambiae
+AN0250-C,3R,CMgam,Cameroon,gambiae
+AN0251-C,3R,CMgam,Cameroon,gambiae
+AN0252-C,3R,CMgam,Cameroon,gambiae
+AN0253-C,3R,CMgam,Cameroon,gambiae
+AN0254-C,3R,CMgam,Cameroon,gambiae
+AN0255-C,3R,CMgam,Cameroon,gambiae
+AN0256-C,3R,CMgam,Cameroon,gambiae
+AN0258-C,3R,CMgam,Cameroon,gambiae
+AN0259-C,3R,CMgam,Cameroon,gambiae
+AN0260-C,3R,CMgam,Cameroon,gambiae
+AN0261-C,3R,CMgam,Cameroon,gambiae
+AN0262-C,3R,CMgam,Cameroon,gambiae
+AN0263-C,3R,CMgam,Cameroon,gambiae
+AN0264-C,3R,CMgam,Cameroon,gambiae
+AN0265-C,3R,CMgam,Cameroon,gambiae
+AN0266-C,3R,CMgam,Cameroon,gambiae
+AN0267-C,3R,CMgam,Cameroon,gambiae
+AN0268-C,3R,CMgam,Cameroon,gambiae
+AN0269-C,3R,CMgam,Cameroon,gambiae
+AN0270-C,3R,CMgam,Cameroon,gambiae
+AN0271-C,3R,CMgam,Cameroon,gambiae
+AN0272-C,3R,CMgam,Cameroon,gambiae
+AN0275-C,3R,CMgam,Cameroon,gambiae
+AN0276-C,3R,CMgam,Cameroon,gambiae
+AN0277-C,3R,CMgam,Cameroon,gambiae
+AN0278-C,3R,CMgam,Cameroon,gambiae
+AN0279-C,3R,CMgam,Cameroon,gambiae
+AN0280-C,3R,CMgam,Cameroon,gambiae
+AN0281-C,3R,CMgam,Cameroon,gambiae
+AN0282-C,3R,CMgam,Cameroon,gambiae
+AN0283-C,3R,CMgam,Cameroon,gambiae
+AN0284-C,3R,CMgam,Cameroon,gambiae
+AN0285-C,3R,CMgam,Cameroon,gambiae
+AN0286-C,3R,CMgam,Cameroon,gambiae
+AN0287-C,3R,CMgam,Cameroon,gambiae
+AN0288-C,3R,CMgam,Cameroon,gambiae
+AN0289-C,3R,CMgam,Cameroon,gambiae
+AN0290-C,3R,CMgam,Cameroon,gambiae
+AN0291-C,3R,CMgam,Cameroon,gambiae
+AN0292-C,3R,CMgam,Cameroon,gambiae
+AN0293-C,3R,CMgam,Cameroon,gambiae
+AN0294-C,3R,CMgam,Cameroon,gambiae
+AN0295-C,3R,CMgam,Cameroon,gambiae
+AN0296-C,3R,CMgam,Cameroon,gambiae
+AN0297-C,3R,CMgam,Cameroon,gambiae
+AN0298-C,3R,CMgam,Cameroon,gambiae
+AN0299-C,3R,CMgam,Cameroon,gambiae
+AN0300-C,3R,CMgam,Cameroon,gambiae
+AN0301-C,3R,CMgam,Cameroon,gambiae
+AN0302-C,3R,CMgam,Cameroon,gambiae
+AN0303-C,3R,CMgam,Cameroon,gambiae
+AN0304-C,3R,CMgam,Cameroon,gambiae
+AN0305-C,3R,CMgam,Cameroon,gambiae
+AN0306-C,3R,CMgam,Cameroon,gambiae
+AN0307-C,3R,CMgam,Cameroon,gambiae
+AN0308-C,3R,CMgam,Cameroon,gambiae
+AN0309-C,3R,CMgam,Cameroon,gambiae
+AN0310-C,3R,CMgam,Cameroon,gambiae
+AN0311-C,3R,CMgam,Cameroon,gambiae
+AN0312-C,3R,CMgam,Cameroon,gambiae
+AN0313-C,3R,CMgam,Cameroon,gambiae
+AN0314-C,3R,CMgam,Cameroon,gambiae
+AN0315-C,3R,CMgam,Cameroon,gambiae
+AN0316-C,3R,CMgam,Cameroon,gambiae
+AN0317-C,3R,CMgam,Cameroon,gambiae
+AN0318-C,3R,CMgam,Cameroon,gambiae
+AN0319-C,3R,CMgam,Cameroon,gambiae
+AN0320-C,3R,CMgam,Cameroon,gambiae
+AN0321-C,3R,CMgam,Cameroon,gambiae
+AP0002-C,3R,FRgam,France,gambiae
+AP0005-C,3R,FRgam,France,gambiae
+AP0006-C,3R,FRgam,France,gambiae
+AP0007-C,3R,FRgam,France,gambiae
+AP0008-C,3R,FRgam,France,gambiae
+AP0009-C,3R,FRgam,France,gambiae
+AP0010-C,3R,FRgam,France,gambiae
+AP0011-C,3R,FRgam,France,gambiae
+AP0014-C,3R,FRgam,France,gambiae
+AP0017-C,3R,FRgam,France,gambiae
+AP0018-C,3R,FRgam,France,gambiae
+AP0019-C,3R,FRgam,France,gambiae
+AP0020-C,3R,FRgam,France,gambiae
+AP0021-C,3R,FRgam,France,gambiae
+AP0022-C,3R,FRgam,France,gambiae
+AP0023-C,3R,FRgam,France,gambiae
+AP0024-C,3R,FRgam,France,gambiae
+AP0025-C,3R,FRgam,France,gambiae
+AP0030-C,3R,FRgam,France,gambiae
+AP0031-C,3R,FRgam,France,gambiae
+AP0032-C,3R,FRgam,France,gambiae
+AP0033-C,3R,FRgam,France,gambiae
+AP0034-C,3R,FRgam,France,gambiae
+AP0035-C,3R,FRgam,France,gambiae
+AQ0001-C,3R,GQgam,Equatorial Guinea,gambiae
+AQ0002-C,3R,GQgam,Equatorial Guinea,gambiae
+AQ0004-C,3R,GQgam,Equatorial Guinea,gambiae
+AQ0005-C,3R,GQgam,Equatorial Guinea,gambiae
+AQ0011-C,3R,GQgam,Equatorial Guinea,gambiae
+AQ0012-C,3R,GQgam,Equatorial Guinea,gambiae
+AQ0013-C,3R,GQgam,Equatorial Guinea,gambiae
+AQ0014-C,3R,GQgam,Equatorial Guinea,gambiae
+AQ0015-C,3R,GQgam,Equatorial Guinea,gambiae
+AR0001-C,3R,AOcol,Angola,coluzzii
+AR0007-C,3R,AOcol,Angola,coluzzii
+AR0008-C,3R,AOcol,Angola,coluzzii
+AR0009-C,3R,AOcol,Angola,coluzzii
+AR0010-C,3R,AOcol,Angola,coluzzii
+AR0011-C,3R,AOcol,Angola,coluzzii
+AR0012-C,3R,AOcol,Angola,coluzzii
+AR0013-C,3R,AOcol,Angola,coluzzii
+AR0014-C,3R,AOcol,Angola,coluzzii
+AR0015-C,3R,AOcol,Angola,coluzzii
+AR0016-C,3R,AOcol,Angola,coluzzii
+AR0017-C,3R,AOcol,Angola,coluzzii
+AR0018-C,3R,AOcol,Angola,coluzzii
+AR0019-C,3R,AOcol,Angola,coluzzii
+AR0020-C,3R,AOcol,Angola,coluzzii
+AR0021-C,3R,AOcol,Angola,coluzzii
+AR0022-C,3R,AOcol,Angola,coluzzii
+AR0023-C,3R,AOcol,Angola,coluzzii
+AR0024-C,3R,AOcol,Angola,coluzzii
+AR0026-C,3R,AOcol,Angola,coluzzii
+AR0027-C,3R,AOcol,Angola,coluzzii
+AR0034-C,3R,AOcol,Angola,coluzzii
+AR0035-C,3R,AOcol,Angola,coluzzii
+AR0036-C,3R,AOcol,Angola,coluzzii
+AR0038-C,3R,AOcol,Angola,coluzzii
+AR0040-C,3R,AOcol,Angola,coluzzii
+AR0042-C,3R,AOcol,Angola,coluzzii
+AR0043-C,3R,AOcol,Angola,coluzzii
+AR0044-C,3R,AOcol,Angola,coluzzii
+AR0045-C,3R,AOcol,Angola,coluzzii
+AR0046-C,3R,AOcol,Angola,coluzzii
+AR0047-C,3R,AOcol,Angola,coluzzii
+AR0048-C,3R,AOcol,Angola,coluzzii
+AR0049-C,3R,AOcol,Angola,coluzzii
+AR0050-C,3R,AOcol,Angola,coluzzii
+AR0051-C,3R,AOcol,Angola,coluzzii
+AR0052-C,3R,AOcol,Angola,coluzzii
+AR0053-C,3R,AOcol,Angola,coluzzii
+AR0054-C,3R,AOcol,Angola,coluzzii
+AR0057-C,3R,AOcol,Angola,coluzzii
+AR0059-C,3R,AOcol,Angola,coluzzii
+AR0060-C,3R,AOcol,Angola,coluzzii
+AR0061-C,3R,AOcol,Angola,coluzzii
+AR0062-C,3R,AOcol,Angola,coluzzii
+AR0063-C,3R,AOcol,Angola,coluzzii
+AR0064-C,3R,AOcol,Angola,coluzzii
+AR0065-C,3R,AOcol,Angola,coluzzii
+AR0066-C,3R,AOcol,Angola,coluzzii
+AR0069-C,3R,AOcol,Angola,coluzzii
+AR0070-C,3R,AOcol,Angola,coluzzii
+AR0071-C,3R,AOcol,Angola,coluzzii
+AR0072-C,3R,AOcol,Angola,coluzzii
+AR0073-C,3R,AOcol,Angola,coluzzii
+AR0074-C,3R,AOcol,Angola,coluzzii
+AR0075-C,3R,AOcol,Angola,coluzzii
+AR0076-C,3R,AOcol,Angola,coluzzii
+AR0077-C,3R,AOcol,Angola,coluzzii
+AR0078-C,3R,AOcol,Angola,coluzzii
+AR0079-C,3R,AOcol,Angola,coluzzii
+AR0080-C,3R,AOcol,Angola,coluzzii
+AR0081-C,3R,AOcol,Angola,coluzzii
+AR0082-C,3R,AOcol,Angola,coluzzii
+AR0083-C,3R,AOcol,Angola,coluzzii
+AR0084-C,3R,AOcol,Angola,coluzzii
+AR0085-C,3R,AOcol,Angola,coluzzii
+AR0086-C,3R,AOcol,Angola,coluzzii
+AR0087-C,3R,AOcol,Angola,coluzzii
+AR0088-C,3R,AOcol,Angola,coluzzii
+AR0089-C,3R,AOcol,Angola,coluzzii
+AR0090-C,3R,AOcol,Angola,coluzzii
+AR0092-C,3R,AOcol,Angola,coluzzii
+AR0093-C,3R,AOcol,Angola,coluzzii
+AR0095-C,3R,AOcol,Angola,coluzzii
+AR0096-C,3R,AOcol,Angola,coluzzii
+AR0097-C,3R,AOcol,Angola,coluzzii
+AR0098-C,3R,AOcol,Angola,coluzzii
+AR0099-C,3R,AOcol,Angola,coluzzii
+AR0100-C,3R,AOcol,Angola,coluzzii
+AS0001-C,3R,GAgam,Gabon,gambiae
+AS0002-C,3R,GAgam,Gabon,gambiae
+AS0003-C,3R,GAgam,Gabon,gambiae
+AS0004-C,3R,GAgam,Gabon,gambiae
+AS0005-C,3R,GAgam,Gabon,gambiae
+AS0006-C,3R,GAgam,Gabon,gambiae
+AS0007-C,3R,GAgam,Gabon,gambiae
+AS0008-C,3R,GAgam,Gabon,gambiae
+AS0009-C,3R,GAgam,Gabon,gambiae
+AS0010-C,3R,GAgam,Gabon,gambiae
+AS0011-C,3R,GAgam,Gabon,gambiae
+AS0012-C,3R,GAgam,Gabon,gambiae
+AS0013-C,3R,GAgam,Gabon,gambiae
+AS0014-C,3R,GAgam,Gabon,gambiae
+AS0015-C,3R,GAgam,Gabon,gambiae
+AS0016-C,3R,GAgam,Gabon,gambiae
+AS0017-C,3R,GAgam,Gabon,gambiae
+AS0018-C,3R,GAgam,Gabon,gambiae
+AS0019-C,3R,GAgam,Gabon,gambiae
+AS0020-C,3R,GAgam,Gabon,gambiae
+AS0021-C,3R,GAgam,Gabon,gambiae
+AS0022-C,3R,GAgam,Gabon,gambiae
+AS0024-C,3R,GAgam,Gabon,gambiae
+AS0025-C,3R,GAgam,Gabon,gambiae
+AS0026-C,3R,GAgam,Gabon,gambiae
+AS0027-C,3R,GAgam,Gabon,gambiae
+AS0028-C,3R,GAgam,Gabon,gambiae
+AS0029-C,3R,GAgam,Gabon,gambiae
+AS0030-C,3R,GAgam,Gabon,gambiae
+AS0032-C,3R,GAgam,Gabon,gambiae
+AS0033-C,3R,GAgam,Gabon,gambiae
+AS0034-C,3R,GAgam,Gabon,gambiae
+AS0035-C,3R,GAgam,Gabon,gambiae
+AS0036-C,3R,GAgam,Gabon,gambiae
+AS0037-C,3R,GAgam,Gabon,gambiae
+AS0039-C,3R,GAgam,Gabon,gambiae
+AS0040-C,3R,GAgam,Gabon,gambiae
+AS0041-C,3R,GAgam,Gabon,gambiae
+AS0042-C,3R,GAgam,Gabon,gambiae
+AS0044-C,3R,GAgam,Gabon,gambiae
+AS0045-C,3R,GAgam,Gabon,gambiae
+AS0046-C,3R,GAgam,Gabon,gambiae
+AS0047-C,3R,GAgam,Gabon,gambiae
+AS0048-C,3R,GAgam,Gabon,gambiae
+AS0049-C,3R,GAgam,Gabon,gambiae
+AS0051-C,3R,GAgam,Gabon,gambiae
+AS0052-C,3R,GAgam,Gabon,gambiae
+AS0053-C,3R,GAgam,Gabon,gambiae
+AS0054-C,3R,GAgam,Gabon,gambiae
+AS0055-C,3R,GAgam,Gabon,gambiae
+AS0056-C,3R,GAgam,Gabon,gambiae
+AS0057-C,3R,GAgam,Gabon,gambiae
+AS0058-C,3R,GAgam,Gabon,gambiae
+AS0059-C,3R,GAgam,Gabon,gambiae
+AS0060-C,3R,GAgam,Gabon,gambiae
+AS0062-C,3R,GAgam,Gabon,gambiae
+AS0064-C,3R,GAgam,Gabon,gambiae
+AS0065-C,3R,GAgam,Gabon,gambiae
+AS0066-C,3R,GAgam,Gabon,gambiae
+AS0068-C,3R,GAgam,Gabon,gambiae
+AS0069-C,3R,GAgam,Gabon,gambiae
+AS0070-C,3R,GAgam,Gabon,gambiae
+AS0071-C,3R,GAgam,Gabon,gambiae
+AS0072-C,3R,GAgam,Gabon,gambiae
+AS0073-C,3R,GAgam,Gabon,gambiae
+AS0074-C,3R,GAgam,Gabon,gambiae
+AS0076-C,3R,GAgam,Gabon,gambiae
+AS0077-C,3R,GAgam,Gabon,gambiae
+AS0078-C,3R,GAgam,Gabon,gambiae
+AV0001-C,3R,GNgam,Guinea,gambiae
+AV0002-C,3R,GNgam,Guinea,gambiae
+AV0003-C,3R,GNgam,Guinea,gambiae
+AV0004-C,3R,GNgam,Guinea,gambiae
+AV0005-C,3R,GNgam,Guinea,gambiae
+AV0006-C,3R,GNgam,Guinea,gambiae
+AV0007-C,3R,GNgam,Guinea,gambiae
+AV0008-C,3R,GNgam,Guinea,gambiae
+AV0009-C,3R,GNgam,Guinea,gambiae
+AV0010-C,3R,GNgam,Guinea,gambiae
+AV0011-C,3R,GNgam,Guinea,gambiae
+AV0012-C,3R,GNgam,Guinea,gambiae
+AV0013-C,3R,GNgam,Guinea,gambiae
+AV0014-C,3R,GNgam,Guinea,gambiae
+AV0015-C,3R,GNgam,Guinea,gambiae
+AV0017-C,3R,GNgam,Guinea,gambiae
+AV0018-C,3R,GNgam,Guinea,gambiae
+AV0020-C,3R,GNgam,Guinea,gambiae
+AV0021-C,3R,GNgam,Guinea,gambiae
+AV0022-C,3R,GNgam,Guinea,gambiae
+AV0024-C,3R,GNgam,Guinea,gambiae
+AV0025-C,3R,GNgam,Guinea,gambiae
+AV0026-C,3R,GNgam,Guinea,gambiae
+AV0027-C,3R,GNgam,Guinea,gambiae
+AV0028-C,3R,GNgam,Guinea,gambiae
+AV0029-C,3R,GNgam,Guinea,gambiae
+AV0030-C,3R,GNgam,Guinea,gambiae
+AV0031-C,3R,GNgam,Guinea,gambiae
+AV0032-C,3R,GNgam,Guinea,gambiae
+AV0033-C,3R,GNgam,Guinea,gambiae
+AV0034-C,3R,GNgam,Guinea,gambiae
+AV0035-C,3R,GNgam,Guinea,gambiae
+AV0036-C,3R,GNgam,Guinea,gambiae
+AV0037-C,3R,GNgam,Guinea,gambiae
+AV0038-C,3R,GNcol,Guinea,coluzzii
+AV0039-C,3R,GNgam,Guinea,gambiae
+AV0040-C,3R,GNcol,Guinea,coluzzii
+AV0041-C,3R,GNgam,Guinea,gambiae
+AV0042-C,3R,GNcol,Guinea,coluzzii
+AV0043-C,3R,GNgam,Guinea,gambiae
+AV0044-C,3R,GNgam,Guinea,gambiae
+AV0045-C,3R,GNgam,Guinea,gambiae
+AV0046-C,3R,GNcol,Guinea,coluzzii
+AV0047-C,3R,GNgam,Guinea,gambiae
+AY0006-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0007-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0010-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0011-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0012-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0013-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0015-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0016-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0017-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0018-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0019-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0020-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0021-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0023-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0024-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0025-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0026-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0027-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0029-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0031-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0032-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0033-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0034-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0035-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0036-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0038-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0039-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0040-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0041-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0042-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0043-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0045-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0046-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0047-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0048-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0049-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0050-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0052-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0053-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0054-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0055-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0056-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0057-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0058-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0059-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0060-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0061-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0062-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0063-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0064-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0065-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0066-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0067-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0068-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0069-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0070-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0072-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0074-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0076-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0077-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0078-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0079-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0080-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0082-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0083-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0085-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0087-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0088-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0089-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0090-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AY0091-C,3R,CIcol,Cote d'Ivoire,coluzzii
+AA0040-C,3L,GHcol,Ghana,coluzzii
+AA0041-C,3L,GHcol,Ghana,coluzzii
+AA0042-C,3L,GHcol,Ghana,coluzzii
+AA0043-C,3L,GHcol,Ghana,coluzzii
+AA0044-C,3L,GHcol,Ghana,coluzzii
+AA0048-C,3L,GHgam,Ghana,gambiae
+AA0049-C,3L,GHcol,Ghana,coluzzii
+AA0050-C,3L,GHgam,Ghana,gambiae
+AA0051-C,3L,GHcol,Ghana,coluzzii
+AA0052-C,3L,GHcol,Ghana,coluzzii
+AA0053-C,3L,GHcol,Ghana,coluzzii
+AA0054-C,3L,GHcol,Ghana,coluzzii
+AA0055-C,3L,GHcol,Ghana,coluzzii
+AA0056-C,3L,GHcol,Ghana,coluzzii
+AA0060-C,3L,GHgam,Ghana,gambiae
+AA0061-C,3L,GHgam,Ghana,gambiae
+AA0063-C,3L,GHcol,Ghana,coluzzii
+AA0064-C,3L,GHcol,Ghana,coluzzii
+AA0066-C,3L,GHcol,Ghana,coluzzii
+AA0067-C,3L,GHcol,Ghana,coluzzii
+AA0068-C,3L,GHcol,Ghana,coluzzii
+AA0072-C,3L,GHgam,Ghana,gambiae
+AA0073-C,3L,GHcol,Ghana,coluzzii
+AA0074-C,3L,GHcol,Ghana,coluzzii
+AA0075-C,3L,GHcol,Ghana,coluzzii
+AA0076-C,3L,GHcol,Ghana,coluzzii
+AA0077-C,3L,GHcol,Ghana,coluzzii
+AA0080-C,3L,GHcol,Ghana,coluzzii
+AA0084-C,3L,GHgam,Ghana,gambiae
+AA0085-C,3L,GHgam,Ghana,gambiae
+AA0086-C,3L,GHgam,Ghana,gambiae
+AA0087-C,3L,GHcol,Ghana,coluzzii
+AA0088-C,3L,GHcol,Ghana,coluzzii
+AA0089-C,3L,GHcol,Ghana,coluzzii
+AA0090-C,3L,GHcol,Ghana,coluzzii
+AA0091-C,3L,GHcol,Ghana,coluzzii
+AA0096-C,3L,GHgam,Ghana,gambiae
+AA0097-C,3L,GHcol,Ghana,coluzzii
+AA0098-C,3L,GHcol,Ghana,coluzzii
+AA0099-C,3L,GHcol,Ghana,coluzzii
+AA0100-C,3L,GHcol,Ghana,coluzzii
+AA0101-C,3L,GHcol,Ghana,coluzzii
+AA0102-C,3L,GHcol,Ghana,coluzzii
+AA0103-C,3L,GHcol,Ghana,coluzzii
+AA0104-C,3L,GHcol,Ghana,coluzzii
+AA0107-C,3L,GHcol,Ghana,coluzzii
+AA0108-C,3L,GHgam,Ghana,gambiae
+AA0109-C,3L,GHcol,Ghana,coluzzii
+AA0110-C,3L,GHcol,Ghana,coluzzii
+AA0111-C,3L,GHcol,Ghana,coluzzii
+AA0113-C,3L,GHcol,Ghana,coluzzii
+AA0114-C,3L,GHcol,Ghana,coluzzii
+AA0115-C,3L,GHcol,Ghana,coluzzii
+AA0116-C,3L,GHcol,Ghana,coluzzii
+AA0122-C,3L,GHgam,Ghana,gambiae
+AA0123-C,3L,GHcol,Ghana,coluzzii
+AA0124-C,3L,GHcol,Ghana,coluzzii
+AA0125-C,3L,GHcol,Ghana,coluzzii
+AA0127-C,3L,GHcol,Ghana,coluzzii
+AA0132-C,3L,GHcol,Ghana,coluzzii
+AA0133-C,3L,GHgam,Ghana,gambiae
+AA0134-C,3L,GHcol,Ghana,coluzzii
+AA0135-C,3L,GHcol,Ghana,coluzzii
+AA0136-C,3L,GHcol,Ghana,coluzzii
+AA0139-C,3L,GHcol,Ghana,coluzzii
+AA0140-C,3L,GHcol,Ghana,coluzzii
+AA0141-C,3L,GHcol,Ghana,coluzzii
+AB0085-C,3L,BFgam,Burkina Faso,gambiae
+AB0087-C,3L,BFcol,Burkina Faso,coluzzii
+AB0088-C,3L,BFcol,Burkina Faso,coluzzii
+AB0089-C,3L,BFcol,Burkina Faso,coluzzii
+AB0090-C,3L,BFcol,Burkina Faso,coluzzii
+AB0091-C,3L,BFcol,Burkina Faso,coluzzii
+AB0092-C,3L,BFcol,Burkina Faso,coluzzii
+AB0094-C,3L,BFcol,Burkina Faso,coluzzii
+AB0095-C,3L,BFcol,Burkina Faso,coluzzii
+AB0097-C,3L,BFcol,Burkina Faso,coluzzii
+AB0098-C,3L,BFcol,Burkina Faso,coluzzii
+AB0099-C,3L,BFcol,Burkina Faso,coluzzii
+AB0100-C,3L,BFcol,Burkina Faso,coluzzii
+AB0101-C,3L,BFcol,Burkina Faso,coluzzii
+AB0103-C,3L,BFgam,Burkina Faso,gambiae
+AB0104-C,3L,BFgam,Burkina Faso,gambiae
+AB0108-C,3L,BFgam,Burkina Faso,gambiae
+AB0109-C,3L,BFcol,Burkina Faso,coluzzii
+AB0110-C,3L,BFcol,Burkina Faso,coluzzii
+AB0111-C,3L,BFcol,Burkina Faso,coluzzii
+AB0112-C,3L,BFcol,Burkina Faso,coluzzii
+AB0113-C,3L,BFcol,Burkina Faso,coluzzii
+AB0114-C,3L,BFcol,Burkina Faso,coluzzii
+AB0115-C,3L,BFcol,Burkina Faso,coluzzii
+AB0117-C,3L,BFgam,Burkina Faso,gambiae
+AB0118-C,3L,BFgam,Burkina Faso,gambiae
+AB0119-C,3L,BFgam,Burkina Faso,gambiae
+AB0122-C,3L,BFcol,Burkina Faso,coluzzii
+AB0123-C,3L,BFcol,Burkina Faso,coluzzii
+AB0124-C,3L,BFcol,Burkina Faso,coluzzii
+AB0126-C,3L,BFgam,Burkina Faso,gambiae
+AB0127-C,3L,BFgam,Burkina Faso,gambiae
+AB0128-C,3L,BFgam,Burkina Faso,gambiae
+AB0129-C,3L,BFgam,Burkina Faso,gambiae
+AB0130-C,3L,BFgam,Burkina Faso,gambiae
+AB0133-C,3L,BFgam,Burkina Faso,gambiae
+AB0134-C,3L,BFgam,Burkina Faso,gambiae
+AB0135-C,3L,BFgam,Burkina Faso,gambiae
+AB0136-C,3L,BFgam,Burkina Faso,gambiae
+AB0137-C,3L,BFcol,Burkina Faso,coluzzii
+AB0138-C,3L,BFcol,Burkina Faso,coluzzii
+AB0139-C,3L,BFcol,Burkina Faso,coluzzii
+AB0140-C,3L,BFcol,Burkina Faso,coluzzii
+AB0142-C,3L,BFcol,Burkina Faso,coluzzii
+AB0143-C,3L,BFgam,Burkina Faso,gambiae
+AB0145-C,3L,BFgam,Burkina Faso,gambiae
+AB0146-C,3L,BFgam,Burkina Faso,gambiae
+AB0147-C,3L,BFgam,Burkina Faso,gambiae
+AB0148-C,3L,BFgam,Burkina Faso,gambiae
+AB0150-C,3L,BFgam,Burkina Faso,gambiae
+AB0151-C,3L,BFgam,Burkina Faso,gambiae
+AB0153-C,3L,BFgam,Burkina Faso,gambiae
+AB0155-C,3L,BFgam,Burkina Faso,gambiae
+AB0157-C,3L,BFgam,Burkina Faso,gambiae
+AB0158-C,3L,BFgam,Burkina Faso,gambiae
+AB0159-C,3L,BFgam,Burkina Faso,gambiae
+AB0160-C,3L,BFgam,Burkina Faso,gambiae
+AB0161-C,3L,BFgam,Burkina Faso,gambiae
+AB0162-C,3L,BFgam,Burkina Faso,gambiae
+AB0164-C,3L,BFgam,Burkina Faso,gambiae
+AB0165-C,3L,BFgam,Burkina Faso,gambiae
+AB0166-C,3L,BFgam,Burkina Faso,gambiae
+AB0167-C,3L,BFgam,Burkina Faso,gambiae
+AB0169-C,3L,BFgam,Burkina Faso,gambiae
+AB0170-C,3L,BFgam,Burkina Faso,gambiae
+AB0171-C,3L,BFgam,Burkina Faso,gambiae
+AB0172-C,3L,BFgam,Burkina Faso,gambiae
+AB0173-C,3L,BFgam,Burkina Faso,gambiae
+AB0174-C,3L,BFgam,Burkina Faso,gambiae
+AB0175-C,3L,BFgam,Burkina Faso,gambiae
+AB0176-C,3L,BFgam,Burkina Faso,gambiae
+AB0177-C,3L,BFgam,Burkina Faso,gambiae
+AB0178-C,3L,BFgam,Burkina Faso,gambiae
+AB0179-C,3L,BFgam,Burkina Faso,gambiae
+AB0181-C,3L,BFcol,Burkina Faso,coluzzii
+AB0182-C,3L,BFcol,Burkina Faso,coluzzii
+AB0183-C,3L,BFcol,Burkina Faso,coluzzii
+AB0184-C,3L,BFcol,Burkina Faso,coluzzii
+AB0185-C,3L,BFcol,Burkina Faso,coluzzii
+AB0186-C,3L,BFcol,Burkina Faso,coluzzii
+AB0187-C,3L,BFcol,Burkina Faso,coluzzii
+AB0188-C,3L,BFcol,Burkina Faso,coluzzii
+AB0189-C,3L,BFcol,Burkina Faso,coluzzii
+AB0190-C,3L,BFcol,Burkina Faso,coluzzii
+AB0191-C,3L,BFcol,Burkina Faso,coluzzii
+AB0192-C,3L,BFcol,Burkina Faso,coluzzii
+AB0195-C,3L,BFcol,Burkina Faso,coluzzii
+AB0196-C,3L,BFcol,Burkina Faso,coluzzii
+AB0197-C,3L,BFgam,Burkina Faso,gambiae
+AB0198-C,3L,BFgam,Burkina Faso,gambiae
+AB0199-C,3L,BFgam,Burkina Faso,gambiae
+AB0200-C,3L,BFgam,Burkina Faso,gambiae
+AB0201-C,3L,BFgam,Burkina Faso,gambiae
+AB0202-C,3L,BFgam,Burkina Faso,gambiae
+AB0203-C,3L,BFgam,Burkina Faso,gambiae
+AB0204-C,3L,BFcol,Burkina Faso,coluzzii
+AB0205-C,3L,BFgam,Burkina Faso,gambiae
+AB0206-C,3L,BFgam,Burkina Faso,gambiae
+AB0207-C,3L,BFgam,Burkina Faso,gambiae
+AB0208-C,3L,BFgam,Burkina Faso,gambiae
+AB0209-C,3L,BFcol,Burkina Faso,coluzzii
+AB0210-C,3L,BFcol,Burkina Faso,coluzzii
+AB0211-C,3L,BFgam,Burkina Faso,gambiae
+AB0212-C,3L,BFcol,Burkina Faso,coluzzii
+AB0213-C,3L,BFcol,Burkina Faso,coluzzii
+AB0215-C,3L,BFcol,Burkina Faso,coluzzii
+AB0217-C,3L,BFgam,Burkina Faso,gambiae
+AB0218-C,3L,BFgam,Burkina Faso,gambiae
+AB0219-C,3L,BFcol,Burkina Faso,coluzzii
+AB0221-C,3L,BFcol,Burkina Faso,coluzzii
+AB0222-C,3L,BFcol,Burkina Faso,coluzzii
+AB0223-C,3L,BFcol,Burkina Faso,coluzzii
+AB0224-C,3L,BFcol,Burkina Faso,coluzzii
+AB0226-C,3L,BFcol,Burkina Faso,coluzzii
+AB0227-C,3L,BFcol,Burkina Faso,coluzzii
+AB0228-C,3L,BFgam,Burkina Faso,gambiae
+AB0229-C,3L,BFcol,Burkina Faso,coluzzii
+AB0231-C,3L,BFgam,Burkina Faso,gambiae
+AB0232-C,3L,BFgam,Burkina Faso,gambiae
+AB0233-C,3L,BFgam,Burkina Faso,gambiae
+AB0234-C,3L,BFcol,Burkina Faso,coluzzii
+AB0235-C,3L,BFgam,Burkina Faso,gambiae
+AB0236-C,3L,BFgam,Burkina Faso,gambiae
+AB0237-C,3L,BFcol,Burkina Faso,coluzzii
+AB0238-C,3L,BFgam,Burkina Faso,gambiae
+AB0239-C,3L,BFgam,Burkina Faso,gambiae
+AB0240-C,3L,BFcol,Burkina Faso,coluzzii
+AB0241-C,3L,BFgam,Burkina Faso,gambiae
+AB0242-C,3L,BFcol,Burkina Faso,coluzzii
+AB0243-C,3L,BFcol,Burkina Faso,coluzzii
+AB0244-C,3L,BFgam,Burkina Faso,gambiae
+AB0246-C,3L,BFcol,Burkina Faso,coluzzii
+AB0247-C,3L,BFcol,Burkina Faso,coluzzii
+AB0248-C,3L,BFcol,Burkina Faso,coluzzii
+AB0249-C,3L,BFcol,Burkina Faso,coluzzii
+AB0250-C,3L,BFcol,Burkina Faso,coluzzii
+AB0251-C,3L,BFgam,Burkina Faso,gambiae
+AB0252-C,3L,BFgam,Burkina Faso,gambiae
+AB0253-C,3L,BFgam,Burkina Faso,gambiae
+AB0255-C,3L,BFgam,Burkina Faso,gambiae
+AB0256-C,3L,BFgam,Burkina Faso,gambiae
+AB0257-C,3L,BFcol,Burkina Faso,coluzzii
+AB0258-C,3L,BFcol,Burkina Faso,coluzzii
+AB0260-C,3L,BFgam,Burkina Faso,gambiae
+AB0261-C,3L,BFgam,Burkina Faso,gambiae
+AB0262-C,3L,BFcol,Burkina Faso,coluzzii
+AB0263-C,3L,BFcol,Burkina Faso,coluzzii
+AB0264-C,3L,BFgam,Burkina Faso,gambiae
+AB0265-C,3L,BFgam,Burkina Faso,gambiae
+AB0266-C,3L,BFcol,Burkina Faso,coluzzii
+AB0267-C,3L,BFcol,Burkina Faso,coluzzii
+AB0268-C,3L,BFgam,Burkina Faso,gambiae
+AB0270-C,3L,BFgam,Burkina Faso,gambiae
+AB0271-C,3L,BFgam,Burkina Faso,gambiae
+AB0272-C,3L,BFgam,Burkina Faso,gambiae
+AB0273-C,3L,BFgam,Burkina Faso,gambiae
+AB0274-C,3L,BFgam,Burkina Faso,gambiae
+AB0275-C,3L,BFgam,Burkina Faso,gambiae
+AB0276-C,3L,BFcol,Burkina Faso,coluzzii
+AB0277-C,3L,BFgam,Burkina Faso,gambiae
+AB0278-C,3L,BFgam,Burkina Faso,gambiae
+AB0279-C,3L,BFcol,Burkina Faso,coluzzii
+AB0280-C,3L,BFgam,Burkina Faso,gambiae
+AB0281-C,3L,BFgam,Burkina Faso,gambiae
+AB0282-C,3L,BFcol,Burkina Faso,coluzzii
+AB0283-C,3L,BFgam,Burkina Faso,gambiae
+AB0284-C,3L,BFgam,Burkina Faso,gambiae
+AC0089-C,3L,UGgam,Uganda,gambiae
+AC0090-C,3L,UGgam,Uganda,gambiae
+AC0091-C,3L,UGgam,Uganda,gambiae
+AC0092-C,3L,UGgam,Uganda,gambiae
+AC0093-C,3L,UGgam,Uganda,gambiae
+AC0094-C,3L,UGgam,Uganda,gambiae
+AC0095-C,3L,UGgam,Uganda,gambiae
+AC0096-C,3L,UGgam,Uganda,gambiae
+AC0097-C,3L,UGgam,Uganda,gambiae
+AC0098-C,3L,UGgam,Uganda,gambiae
+AC0099-C,3L,UGgam,Uganda,gambiae
+AC0100-C,3L,UGgam,Uganda,gambiae
+AC0101-C,3L,UGgam,Uganda,gambiae
+AC0102-C,3L,UGgam,Uganda,gambiae
+AC0103-C,3L,UGgam,Uganda,gambiae
+AC0104-C,3L,UGgam,Uganda,gambiae
+AC0105-C,3L,UGgam,Uganda,gambiae
+AC0106-C,3L,UGgam,Uganda,gambiae
+AC0107-C,3L,UGgam,Uganda,gambiae
+AC0108-C,3L,UGgam,Uganda,gambiae
+AC0109-C,3L,UGgam,Uganda,gambiae
+AC0110-C,3L,UGgam,Uganda,gambiae
+AC0111-C,3L,UGgam,Uganda,gambiae
+AC0112-C,3L,UGgam,Uganda,gambiae
+AC0113-C,3L,UGgam,Uganda,gambiae
+AC0114-C,3L,UGgam,Uganda,gambiae
+AC0115-C,3L,UGgam,Uganda,gambiae
+AC0116-C,3L,UGgam,Uganda,gambiae
+AC0117-C,3L,UGgam,Uganda,gambiae
+AC0118-C,3L,UGgam,Uganda,gambiae
+AC0119-C,3L,UGgam,Uganda,gambiae
+AC0120-C,3L,UGgam,Uganda,gambiae
+AC0121-C,3L,UGgam,Uganda,gambiae
+AC0122-C,3L,UGgam,Uganda,gambiae
+AC0123-C,3L,UGgam,Uganda,gambiae
+AC0124-C,3L,UGgam,Uganda,gambiae
+AC0125-C,3L,UGgam,Uganda,gambiae
+AC0126-C,3L,UGgam,Uganda,gambiae
+AC0127-C,3L,UGgam,Uganda,gambiae
+AC0128-C,3L,UGgam,Uganda,gambiae
+AC0129-C,3L,UGgam,Uganda,gambiae
+AC0130-C,3L,UGgam,Uganda,gambiae
+AC0131-C,3L,UGgam,Uganda,gambiae
+AC0132-C,3L,UGgam,Uganda,gambiae
+AC0133-C,3L,UGgam,Uganda,gambiae
+AC0134-C,3L,UGgam,Uganda,gambiae
+AC0135-C,3L,UGgam,Uganda,gambiae
+AC0136-C,3L,UGgam,Uganda,gambiae
+AC0137-C,3L,UGgam,Uganda,gambiae
+AC0138-C,3L,UGgam,Uganda,gambiae
+AC0139-C,3L,UGgam,Uganda,gambiae
+AC0140-C,3L,UGgam,Uganda,gambiae
+AC0141-C,3L,UGgam,Uganda,gambiae
+AC0142-C,3L,UGgam,Uganda,gambiae
+AC0143-C,3L,UGgam,Uganda,gambiae
+AC0144-C,3L,UGgam,Uganda,gambiae
+AC0145-C,3L,UGgam,Uganda,gambiae
+AC0146-C,3L,UGgam,Uganda,gambiae
+AC0147-C,3L,UGgam,Uganda,gambiae
+AC0148-C,3L,UGgam,Uganda,gambiae
+AC0149-C,3L,UGgam,Uganda,gambiae
+AC0150-C,3L,UGgam,Uganda,gambiae
+AC0151-C,3L,UGgam,Uganda,gambiae
+AC0152-C,3L,UGgam,Uganda,gambiae
+AC0153-C,3L,UGgam,Uganda,gambiae
+AC0154-C,3L,UGgam,Uganda,gambiae
+AC0155-C,3L,UGgam,Uganda,gambiae
+AC0156-C,3L,UGgam,Uganda,gambiae
+AC0157-C,3L,UGgam,Uganda,gambiae
+AC0158-C,3L,UGgam,Uganda,gambiae
+AC0159-C,3L,UGgam,Uganda,gambiae
+AC0160-C,3L,UGgam,Uganda,gambiae
+AC0161-C,3L,UGgam,Uganda,gambiae
+AC0162-C,3L,UGgam,Uganda,gambiae
+AC0163-C,3L,UGgam,Uganda,gambiae
+AC0164-C,3L,UGgam,Uganda,gambiae
+AC0166-C,3L,UGgam,Uganda,gambiae
+AC0167-C,3L,UGgam,Uganda,gambiae
+AC0168-C,3L,UGgam,Uganda,gambiae
+AC0169-C,3L,UGgam,Uganda,gambiae
+AC0170-C,3L,UGgam,Uganda,gambiae
+AC0171-C,3L,UGgam,Uganda,gambiae
+AC0172-C,3L,UGgam,Uganda,gambiae
+AC0173-C,3L,UGgam,Uganda,gambiae
+AC0174-C,3L,UGgam,Uganda,gambiae
+AC0176-C,3L,UGgam,Uganda,gambiae
+AC0177-C,3L,UGgam,Uganda,gambiae
+AC0178-C,3L,UGgam,Uganda,gambiae
+AC0179-C,3L,UGgam,Uganda,gambiae
+AC0180-C,3L,UGgam,Uganda,gambiae
+AC0181-C,3L,UGgam,Uganda,gambiae
+AC0182-C,3L,UGgam,Uganda,gambiae
+AC0183-C,3L,UGgam,Uganda,gambiae
+AC0184-C,3L,UGgam,Uganda,gambiae
+AC0185-C,3L,UGgam,Uganda,gambiae
+AC0186-C,3L,UGgam,Uganda,gambiae
+AC0187-C,3L,UGgam,Uganda,gambiae
+AC0188-C,3L,UGgam,Uganda,gambiae
+AC0189-C,3L,UGgam,Uganda,gambiae
+AC0190-C,3L,UGgam,Uganda,gambiae
+AC0191-C,3L,UGgam,Uganda,gambiae
+AC0192-C,3L,UGgam,Uganda,gambiae
+AC0193-C,3L,UGgam,Uganda,gambiae
+AC0194-C,3L,UGgam,Uganda,gambiae
+AC0195-C,3L,UGgam,Uganda,gambiae
+AC0196-C,3L,UGgam,Uganda,gambiae
+AC0197-C,3L,UGgam,Uganda,gambiae
+AC0199-C,3L,UGgam,Uganda,gambiae
+AC0200-C,3L,UGgam,Uganda,gambiae
+AC0201-C,3L,UGgam,Uganda,gambiae
+AC0202-C,3L,UGgam,Uganda,gambiae
+AC0203-C,3L,UGgam,Uganda,gambiae
+AN0007-C,3L,CMgam,Cameroon,gambiae
+AN0008-C,3L,CMgam,Cameroon,gambiae
+AN0009-C,3L,CMgam,Cameroon,gambiae
+AN0010-C,3L,CMgam,Cameroon,gambiae
+AN0011-C,3L,CMgam,Cameroon,gambiae
+AN0012-C,3L,CMgam,Cameroon,gambiae
+AN0013-C,3L,CMgam,Cameroon,gambiae
+AN0014-C,3L,CMgam,Cameroon,gambiae
+AN0015-C,3L,CMgam,Cameroon,gambiae
+AN0016-C,3L,CMgam,Cameroon,gambiae
+AN0017-C,3L,CMgam,Cameroon,gambiae
+AN0018-C,3L,CMgam,Cameroon,gambiae
+AN0019-C,3L,CMgam,Cameroon,gambiae
+AN0020-C,3L,CMgam,Cameroon,gambiae
+AN0022-C,3L,CMgam,Cameroon,gambiae
+AN0023-C,3L,CMgam,Cameroon,gambiae
+AN0024-C,3L,CMgam,Cameroon,gambiae
+AN0025-C,3L,CMgam,Cameroon,gambiae
+AN0026-C,3L,CMgam,Cameroon,gambiae
+AN0027-C,3L,CMgam,Cameroon,gambiae
+AN0028-C,3L,CMgam,Cameroon,gambiae
+AN0029-C,3L,CMgam,Cameroon,gambiae
+AN0030-C,3L,CMgam,Cameroon,gambiae
+AN0031-C,3L,CMgam,Cameroon,gambiae
+AN0032-C,3L,CMgam,Cameroon,gambiae
+AN0033-C,3L,CMgam,Cameroon,gambiae
+AN0034-C,3L,CMgam,Cameroon,gambiae
+AN0035-C,3L,CMgam,Cameroon,gambiae
+AN0036-C,3L,CMgam,Cameroon,gambiae
+AN0037-C,3L,CMgam,Cameroon,gambiae
+AN0038-C,3L,CMgam,Cameroon,gambiae
+AN0039-C,3L,CMgam,Cameroon,gambiae
+AN0040-C,3L,CMgam,Cameroon,gambiae
+AN0041-C,3L,CMgam,Cameroon,gambiae
+AN0042-C,3L,CMgam,Cameroon,gambiae
+AN0043-C,3L,CMgam,Cameroon,gambiae
+AN0044-C,3L,CMgam,Cameroon,gambiae
+AN0045-C,3L,CMgam,Cameroon,gambiae
+AN0046-C,3L,CMgam,Cameroon,gambiae
+AN0047-C,3L,CMgam,Cameroon,gambiae
+AN0048-C,3L,CMgam,Cameroon,gambiae
+AN0049-C,3L,CMgam,Cameroon,gambiae
+AN0050-C,3L,CMgam,Cameroon,gambiae
+AN0051-C,3L,CMgam,Cameroon,gambiae
+AN0053-C,3L,CMgam,Cameroon,gambiae
+AN0054-C,3L,CMgam,Cameroon,gambiae
+AN0055-C,3L,CMgam,Cameroon,gambiae
+AN0056-C,3L,CMgam,Cameroon,gambiae
+AN0057-C,3L,CMgam,Cameroon,gambiae
+AN0058-C,3L,CMgam,Cameroon,gambiae
+AN0059-C,3L,CMgam,Cameroon,gambiae
+AN0060-C,3L,CMgam,Cameroon,gambiae
+AN0061-C,3L,CMgam,Cameroon,gambiae
+AN0062-C,3L,CMgam,Cameroon,gambiae
+AN0063-C,3L,CMgam,Cameroon,gambiae
+AN0064-C,3L,CMgam,Cameroon,gambiae
+AN0065-C,3L,CMgam,Cameroon,gambiae
+AN0066-C,3L,CMgam,Cameroon,gambiae
+AN0067-C,3L,CMgam,Cameroon,gambiae
+AN0068-C,3L,CMgam,Cameroon,gambiae
+AN0069-C,3L,CMgam,Cameroon,gambiae
+AN0070-C,3L,CMgam,Cameroon,gambiae
+AN0071-C,3L,CMgam,Cameroon,gambiae
+AN0072-C,3L,CMgam,Cameroon,gambiae
+AN0073-C,3L,CMgam,Cameroon,gambiae
+AN0074-C,3L,CMgam,Cameroon,gambiae
+AN0075-C,3L,CMgam,Cameroon,gambiae
+AN0076-C,3L,CMgam,Cameroon,gambiae
+AN0077-C,3L,CMgam,Cameroon,gambiae
+AN0079-C,3L,CMgam,Cameroon,gambiae
+AN0080-C,3L,CMgam,Cameroon,gambiae
+AN0081-C,3L,CMgam,Cameroon,gambiae
+AN0082-C,3L,CMgam,Cameroon,gambiae
+AN0083-C,3L,CMgam,Cameroon,gambiae
+AN0084-C,3L,CMgam,Cameroon,gambiae
+AN0085-C,3L,CMgam,Cameroon,gambiae
+AN0086-C,3L,CMgam,Cameroon,gambiae
+AN0087-C,3L,CMgam,Cameroon,gambiae
+AN0088-C,3L,CMgam,Cameroon,gambiae
+AN0089-C,3L,CMgam,Cameroon,gambiae
+AN0090-C,3L,CMgam,Cameroon,gambiae
+AN0091-C,3L,CMgam,Cameroon,gambiae
+AN0092-C,3L,CMgam,Cameroon,gambiae
+AN0093-C,3L,CMgam,Cameroon,gambiae
+AN0094-C,3L,CMgam,Cameroon,gambiae
+AN0095-C,3L,CMgam,Cameroon,gambiae
+AN0096-C,3L,CMgam,Cameroon,gambiae
+AN0097-C,3L,CMgam,Cameroon,gambiae
+AN0098-C,3L,CMgam,Cameroon,gambiae
+AN0099-C,3L,CMgam,Cameroon,gambiae
+AN0100-C,3L,CMgam,Cameroon,gambiae
+AN0101-C,3L,CMgam,Cameroon,gambiae
+AN0102-C,3L,CMgam,Cameroon,gambiae
+AN0103-C,3L,CMgam,Cameroon,gambiae
+AN0104-C,3L,CMgam,Cameroon,gambiae
+AN0105-C,3L,CMgam,Cameroon,gambiae
+AN0106-C,3L,CMgam,Cameroon,gambiae
+AN0107-C,3L,CMgam,Cameroon,gambiae
+AN0108-C,3L,CMgam,Cameroon,gambiae
+AN0109-C,3L,CMgam,Cameroon,gambiae
+AN0111-C,3L,CMgam,Cameroon,gambiae
+AN0112-C,3L,CMgam,Cameroon,gambiae
+AN0113-C,3L,CMgam,Cameroon,gambiae
+AN0114-C,3L,CMgam,Cameroon,gambiae
+AN0115-C,3L,CMgam,Cameroon,gambiae
+AN0117-C,3L,CMgam,Cameroon,gambiae
+AN0118-C,3L,CMgam,Cameroon,gambiae
+AN0119-C,3L,CMgam,Cameroon,gambiae
+AN0120-C,3L,CMgam,Cameroon,gambiae
+AN0121-C,3L,CMgam,Cameroon,gambiae
+AN0122-C,3L,CMgam,Cameroon,gambiae
+AN0123-C,3L,CMgam,Cameroon,gambiae
+AN0124-C,3L,CMgam,Cameroon,gambiae
+AN0125-C,3L,CMgam,Cameroon,gambiae
+AN0126-C,3L,CMgam,Cameroon,gambiae
+AN0127-C,3L,CMgam,Cameroon,gambiae
+AN0128-C,3L,CMgam,Cameroon,gambiae
+AN0129-C,3L,CMgam,Cameroon,gambiae
+AN0130-C,3L,CMgam,Cameroon,gambiae
+AN0131-C,3L,CMgam,Cameroon,gambiae
+AN0132-C,3L,CMgam,Cameroon,gambiae
+AN0134-C,3L,CMgam,Cameroon,gambiae
+AN0135-C,3L,CMgam,Cameroon,gambiae
+AN0136-C,3L,CMgam,Cameroon,gambiae
+AN0137-C,3L,CMgam,Cameroon,gambiae
+AN0138-C,3L,CMgam,Cameroon,gambiae
+AN0139-C,3L,CMgam,Cameroon,gambiae
+AN0140-C,3L,CMgam,Cameroon,gambiae
+AN0141-C,3L,CMgam,Cameroon,gambiae
+AN0142-C,3L,CMgam,Cameroon,gambiae
+AN0143-C,3L,CMgam,Cameroon,gambiae
+AN0144-C,3L,CMgam,Cameroon,gambiae
+AN0147-C,3L,CMgam,Cameroon,gambiae
+AN0149-C,3L,CMgam,Cameroon,gambiae
+AN0151-C,3L,CMgam,Cameroon,gambiae
+AN0152-C,3L,CMgam,Cameroon,gambiae
+AN0153-C,3L,CMgam,Cameroon,gambiae
+AN0154-C,3L,CMgam,Cameroon,gambiae
+AN0155-C,3L,CMgam,Cameroon,gambiae
+AN0156-C,3L,CMgam,Cameroon,gambiae
+AN0157-C,3L,CMgam,Cameroon,gambiae
+AN0158-C,3L,CMgam,Cameroon,gambiae
+AN0159-C,3L,CMgam,Cameroon,gambiae
+AN0160-C,3L,CMgam,Cameroon,gambiae
+AN0162-C,3L,CMgam,Cameroon,gambiae
+AN0163-C,3L,CMgam,Cameroon,gambiae
+AN0164-C,3L,CMgam,Cameroon,gambiae
+AN0165-C,3L,CMgam,Cameroon,gambiae
+AN0166-C,3L,CMgam,Cameroon,gambiae
+AN0167-C,3L,CMgam,Cameroon,gambiae
+AN0168-C,3L,CMgam,Cameroon,gambiae
+AN0169-C,3L,CMgam,Cameroon,gambiae
+AN0170-C,3L,CMgam,Cameroon,gambiae
+AN0171-C,3L,CMgam,Cameroon,gambiae
+AN0172-C,3L,CMgam,Cameroon,gambiae
+AN0173-C,3L,CMgam,Cameroon,gambiae
+AN0174-C,3L,CMgam,Cameroon,gambiae
+AN0175-C,3L,CMgam,Cameroon,gambiae
+AN0176-C,3L,CMgam,Cameroon,gambiae
+AN0177-C,3L,CMgam,Cameroon,gambiae
+AN0178-C,3L,CMgam,Cameroon,gambiae
+AN0179-C,3L,CMgam,Cameroon,gambiae
+AN0180-C,3L,CMgam,Cameroon,gambiae
+AN0181-C,3L,CMgam,Cameroon,gambiae
+AN0182-C,3L,CMgam,Cameroon,gambiae
+AN0183-C,3L,CMgam,Cameroon,gambiae
+AN0184-C,3L,CMgam,Cameroon,gambiae
+AN0185-C,3L,CMgam,Cameroon,gambiae
+AN0186-C,3L,CMgam,Cameroon,gambiae
+AN0187-C,3L,CMgam,Cameroon,gambiae
+AN0188-C,3L,CMgam,Cameroon,gambiae
+AN0189-C,3L,CMgam,Cameroon,gambiae
+AN0190-C,3L,CMgam,Cameroon,gambiae
+AN0191-C,3L,CMgam,Cameroon,gambiae
+AN0192-C,3L,CMgam,Cameroon,gambiae
+AN0193-C,3L,CMgam,Cameroon,gambiae
+AN0194-C,3L,CMgam,Cameroon,gambiae
+AN0196-C,3L,CMgam,Cameroon,gambiae
+AN0197-C,3L,CMgam,Cameroon,gambiae
+AN0198-C,3L,CMgam,Cameroon,gambiae
+AN0199-C,3L,CMgam,Cameroon,gambiae
+AN0200-C,3L,CMgam,Cameroon,gambiae
+AN0201-C,3L,CMgam,Cameroon,gambiae
+AN0202-C,3L,CMgam,Cameroon,gambiae
+AN0203-C,3L,CMgam,Cameroon,gambiae
+AN0204-C,3L,CMgam,Cameroon,gambiae
+AN0205-C,3L,CMgam,Cameroon,gambiae
+AN0206-C,3L,CMgam,Cameroon,gambiae
+AN0207-C,3L,CMgam,Cameroon,gambiae
+AN0208-C,3L,CMgam,Cameroon,gambiae
+AN0209-C,3L,CMgam,Cameroon,gambiae
+AN0210-C,3L,CMgam,Cameroon,gambiae
+AN0212-C,3L,CMgam,Cameroon,gambiae
+AN0213-C,3L,CMgam,Cameroon,gambiae
+AN0214-C,3L,CMgam,Cameroon,gambiae
+AN0215-C,3L,CMgam,Cameroon,gambiae
+AN0217-C,3L,CMgam,Cameroon,gambiae
+AN0218-C,3L,CMgam,Cameroon,gambiae
+AN0219-C,3L,CMgam,Cameroon,gambiae
+AN0220-C,3L,CMgam,Cameroon,gambiae
+AN0221-C,3L,CMgam,Cameroon,gambiae
+AN0222-C,3L,CMgam,Cameroon,gambiae
+AN0223-C,3L,CMgam,Cameroon,gambiae
+AN0224-C,3L,CMgam,Cameroon,gambiae
+AN0225-C,3L,CMgam,Cameroon,gambiae
+AN0226-C,3L,CMgam,Cameroon,gambiae
+AN0227-C,3L,CMgam,Cameroon,gambiae
+AN0228-C,3L,CMgam,Cameroon,gambiae
+AN0229-C,3L,CMgam,Cameroon,gambiae
+AN0230-C,3L,CMgam,Cameroon,gambiae
+AN0231-C,3L,CMgam,Cameroon,gambiae
+AN0232-C,3L,CMgam,Cameroon,gambiae
+AN0233-C,3L,CMgam,Cameroon,gambiae
+AN0234-C,3L,CMgam,Cameroon,gambiae
+AN0235-C,3L,CMgam,Cameroon,gambiae
+AN0236-C,3L,CMgam,Cameroon,gambiae
+AN0237-C,3L,CMgam,Cameroon,gambiae
+AN0238-C,3L,CMgam,Cameroon,gambiae
+AN0239-C,3L,CMgam,Cameroon,gambiae
+AN0240-C,3L,CMgam,Cameroon,gambiae
+AN0241-C,3L,CMgam,Cameroon,gambiae
+AN0242-C,3L,CMgam,Cameroon,gambiae
+AN0243-C,3L,CMgam,Cameroon,gambiae
+AN0244-C,3L,CMgam,Cameroon,gambiae
+AN0245-C,3L,CMgam,Cameroon,gambiae
+AN0246-C,3L,CMgam,Cameroon,gambiae
+AN0247-C,3L,CMgam,Cameroon,gambiae
+AN0248-C,3L,CMgam,Cameroon,gambiae
+AN0250-C,3L,CMgam,Cameroon,gambiae
+AN0251-C,3L,CMgam,Cameroon,gambiae
+AN0252-C,3L,CMgam,Cameroon,gambiae
+AN0253-C,3L,CMgam,Cameroon,gambiae
+AN0254-C,3L,CMgam,Cameroon,gambiae
+AN0255-C,3L,CMgam,Cameroon,gambiae
+AN0256-C,3L,CMgam,Cameroon,gambiae
+AN0258-C,3L,CMgam,Cameroon,gambiae
+AN0259-C,3L,CMgam,Cameroon,gambiae
+AN0260-C,3L,CMgam,Cameroon,gambiae
+AN0261-C,3L,CMgam,Cameroon,gambiae
+AN0262-C,3L,CMgam,Cameroon,gambiae
+AN0263-C,3L,CMgam,Cameroon,gambiae
+AN0264-C,3L,CMgam,Cameroon,gambiae
+AN0265-C,3L,CMgam,Cameroon,gambiae
+AN0266-C,3L,CMgam,Cameroon,gambiae
+AN0267-C,3L,CMgam,Cameroon,gambiae
+AN0268-C,3L,CMgam,Cameroon,gambiae
+AN0269-C,3L,CMgam,Cameroon,gambiae
+AN0270-C,3L,CMgam,Cameroon,gambiae
+AN0271-C,3L,CMgam,Cameroon,gambiae
+AN0272-C,3L,CMgam,Cameroon,gambiae
+AN0275-C,3L,CMgam,Cameroon,gambiae
+AN0276-C,3L,CMgam,Cameroon,gambiae
+AN0277-C,3L,CMgam,Cameroon,gambiae
+AN0278-C,3L,CMgam,Cameroon,gambiae
+AN0279-C,3L,CMgam,Cameroon,gambiae
+AN0280-C,3L,CMgam,Cameroon,gambiae
+AN0281-C,3L,CMgam,Cameroon,gambiae
+AN0282-C,3L,CMgam,Cameroon,gambiae
+AN0283-C,3L,CMgam,Cameroon,gambiae
+AN0284-C,3L,CMgam,Cameroon,gambiae
+AN0285-C,3L,CMgam,Cameroon,gambiae
+AN0286-C,3L,CMgam,Cameroon,gambiae
+AN0287-C,3L,CMgam,Cameroon,gambiae
+AN0288-C,3L,CMgam,Cameroon,gambiae
+AN0289-C,3L,CMgam,Cameroon,gambiae
+AN0290-C,3L,CMgam,Cameroon,gambiae
+AN0291-C,3L,CMgam,Cameroon,gambiae
+AN0292-C,3L,CMgam,Cameroon,gambiae
+AN0293-C,3L,CMgam,Cameroon,gambiae
+AN0294-C,3L,CMgam,Cameroon,gambiae
+AN0295-C,3L,CMgam,Cameroon,gambiae
+AN0296-C,3L,CMgam,Cameroon,gambiae
+AN0297-C,3L,CMgam,Cameroon,gambiae
+AN0298-C,3L,CMgam,Cameroon,gambiae
+AN0299-C,3L,CMgam,Cameroon,gambiae
+AN0300-C,3L,CMgam,Cameroon,gambiae
+AN0301-C,3L,CMgam,Cameroon,gambiae
+AN0302-C,3L,CMgam,Cameroon,gambiae
+AN0303-C,3L,CMgam,Cameroon,gambiae
+AN0304-C,3L,CMgam,Cameroon,gambiae
+AN0305-C,3L,CMgam,Cameroon,gambiae
+AN0306-C,3L,CMgam,Cameroon,gambiae
+AN0307-C,3L,CMgam,Cameroon,gambiae
+AN0308-C,3L,CMgam,Cameroon,gambiae
+AN0309-C,3L,CMgam,Cameroon,gambiae
+AN0310-C,3L,CMgam,Cameroon,gambiae
+AN0311-C,3L,CMgam,Cameroon,gambiae
+AN0312-C,3L,CMgam,Cameroon,gambiae
+AN0313-C,3L,CMgam,Cameroon,gambiae
+AN0314-C,3L,CMgam,Cameroon,gambiae
+AN0315-C,3L,CMgam,Cameroon,gambiae
+AN0316-C,3L,CMgam,Cameroon,gambiae
+AN0317-C,3L,CMgam,Cameroon,gambiae
+AN0318-C,3L,CMgam,Cameroon,gambiae
+AN0319-C,3L,CMgam,Cameroon,gambiae
+AN0320-C,3L,CMgam,Cameroon,gambiae
+AN0321-C,3L,CMgam,Cameroon,gambiae
+AP0002-C,3L,FRgam,France,gambiae
+AP0005-C,3L,FRgam,France,gambiae
+AP0006-C,3L,FRgam,France,gambiae
+AP0007-C,3L,FRgam,France,gambiae
+AP0008-C,3L,FRgam,France,gambiae
+AP0009-C,3L,FRgam,France,gambiae
+AP0010-C,3L,FRgam,France,gambiae
+AP0011-C,3L,FRgam,France,gambiae
+AP0014-C,3L,FRgam,France,gambiae
+AP0017-C,3L,FRgam,France,gambiae
+AP0018-C,3L,FRgam,France,gambiae
+AP0019-C,3L,FRgam,France,gambiae
+AP0020-C,3L,FRgam,France,gambiae
+AP0021-C,3L,FRgam,France,gambiae
+AP0022-C,3L,FRgam,France,gambiae
+AP0023-C,3L,FRgam,France,gambiae
+AP0024-C,3L,FRgam,France,gambiae
+AP0025-C,3L,FRgam,France,gambiae
+AP0030-C,3L,FRgam,France,gambiae
+AP0031-C,3L,FRgam,France,gambiae
+AP0032-C,3L,FRgam,France,gambiae
+AP0033-C,3L,FRgam,France,gambiae
+AP0034-C,3L,FRgam,France,gambiae
+AP0035-C,3L,FRgam,France,gambiae
+AQ0001-C,3L,GQgam,Equatorial Guinea,gambiae
+AQ0002-C,3L,GQgam,Equatorial Guinea,gambiae
+AQ0004-C,3L,GQgam,Equatorial Guinea,gambiae
+AQ0005-C,3L,GQgam,Equatorial Guinea,gambiae
+AQ0011-C,3L,GQgam,Equatorial Guinea,gambiae
+AQ0012-C,3L,GQgam,Equatorial Guinea,gambiae
+AQ0013-C,3L,GQgam,Equatorial Guinea,gambiae
+AQ0014-C,3L,GQgam,Equatorial Guinea,gambiae
+AQ0015-C,3L,GQgam,Equatorial Guinea,gambiae
+AR0001-C,3L,AOcol,Angola,coluzzii
+AR0007-C,3L,AOcol,Angola,coluzzii
+AR0008-C,3L,AOcol,Angola,coluzzii
+AR0009-C,3L,AOcol,Angola,coluzzii
+AR0010-C,3L,AOcol,Angola,coluzzii
+AR0011-C,3L,AOcol,Angola,coluzzii
+AR0012-C,3L,AOcol,Angola,coluzzii
+AR0013-C,3L,AOcol,Angola,coluzzii
+AR0014-C,3L,AOcol,Angola,coluzzii
+AR0015-C,3L,AOcol,Angola,coluzzii
+AR0016-C,3L,AOcol,Angola,coluzzii
+AR0017-C,3L,AOcol,Angola,coluzzii
+AR0018-C,3L,AOcol,Angola,coluzzii
+AR0019-C,3L,AOcol,Angola,coluzzii
+AR0020-C,3L,AOcol,Angola,coluzzii
+AR0021-C,3L,AOcol,Angola,coluzzii
+AR0022-C,3L,AOcol,Angola,coluzzii
+AR0023-C,3L,AOcol,Angola,coluzzii
+AR0024-C,3L,AOcol,Angola,coluzzii
+AR0026-C,3L,AOcol,Angola,coluzzii
+AR0027-C,3L,AOcol,Angola,coluzzii
+AR0034-C,3L,AOcol,Angola,coluzzii
+AR0035-C,3L,AOcol,Angola,coluzzii
+AR0036-C,3L,AOcol,Angola,coluzzii
+AR0038-C,3L,AOcol,Angola,coluzzii
+AR0040-C,3L,AOcol,Angola,coluzzii
+AR0042-C,3L,AOcol,Angola,coluzzii
+AR0043-C,3L,AOcol,Angola,coluzzii
+AR0044-C,3L,AOcol,Angola,coluzzii
+AR0045-C,3L,AOcol,Angola,coluzzii
+AR0046-C,3L,AOcol,Angola,coluzzii
+AR0047-C,3L,AOcol,Angola,coluzzii
+AR0048-C,3L,AOcol,Angola,coluzzii
+AR0049-C,3L,AOcol,Angola,coluzzii
+AR0050-C,3L,AOcol,Angola,coluzzii
+AR0051-C,3L,AOcol,Angola,coluzzii
+AR0052-C,3L,AOcol,Angola,coluzzii
+AR0053-C,3L,AOcol,Angola,coluzzii
+AR0054-C,3L,AOcol,Angola,coluzzii
+AR0057-C,3L,AOcol,Angola,coluzzii
+AR0059-C,3L,AOcol,Angola,coluzzii
+AR0060-C,3L,AOcol,Angola,coluzzii
+AR0061-C,3L,AOcol,Angola,coluzzii
+AR0062-C,3L,AOcol,Angola,coluzzii
+AR0063-C,3L,AOcol,Angola,coluzzii
+AR0064-C,3L,AOcol,Angola,coluzzii
+AR0065-C,3L,AOcol,Angola,coluzzii
+AR0066-C,3L,AOcol,Angola,coluzzii
+AR0069-C,3L,AOcol,Angola,coluzzii
+AR0070-C,3L,AOcol,Angola,coluzzii
+AR0071-C,3L,AOcol,Angola,coluzzii
+AR0072-C,3L,AOcol,Angola,coluzzii
+AR0073-C,3L,AOcol,Angola,coluzzii
+AR0074-C,3L,AOcol,Angola,coluzzii
+AR0075-C,3L,AOcol,Angola,coluzzii
+AR0076-C,3L,AOcol,Angola,coluzzii
+AR0077-C,3L,AOcol,Angola,coluzzii
+AR0078-C,3L,AOcol,Angola,coluzzii
+AR0079-C,3L,AOcol,Angola,coluzzii
+AR0080-C,3L,AOcol,Angola,coluzzii
+AR0081-C,3L,AOcol,Angola,coluzzii
+AR0082-C,3L,AOcol,Angola,coluzzii
+AR0083-C,3L,AOcol,Angola,coluzzii
+AR0084-C,3L,AOcol,Angola,coluzzii
+AR0085-C,3L,AOcol,Angola,coluzzii
+AR0086-C,3L,AOcol,Angola,coluzzii
+AR0087-C,3L,AOcol,Angola,coluzzii
+AR0088-C,3L,AOcol,Angola,coluzzii
+AR0089-C,3L,AOcol,Angola,coluzzii
+AR0090-C,3L,AOcol,Angola,coluzzii
+AR0092-C,3L,AOcol,Angola,coluzzii
+AR0093-C,3L,AOcol,Angola,coluzzii
+AR0095-C,3L,AOcol,Angola,coluzzii
+AR0096-C,3L,AOcol,Angola,coluzzii
+AR0097-C,3L,AOcol,Angola,coluzzii
+AR0098-C,3L,AOcol,Angola,coluzzii
+AR0099-C,3L,AOcol,Angola,coluzzii
+AR0100-C,3L,AOcol,Angola,coluzzii
+AS0001-C,3L,GAgam,Gabon,gambiae
+AS0002-C,3L,GAgam,Gabon,gambiae
+AS0003-C,3L,GAgam,Gabon,gambiae
+AS0004-C,3L,GAgam,Gabon,gambiae
+AS0005-C,3L,GAgam,Gabon,gambiae
+AS0006-C,3L,GAgam,Gabon,gambiae
+AS0007-C,3L,GAgam,Gabon,gambiae
+AS0008-C,3L,GAgam,Gabon,gambiae
+AS0009-C,3L,GAgam,Gabon,gambiae
+AS0010-C,3L,GAgam,Gabon,gambiae
+AS0011-C,3L,GAgam,Gabon,gambiae
+AS0012-C,3L,GAgam,Gabon,gambiae
+AS0013-C,3L,GAgam,Gabon,gambiae
+AS0014-C,3L,GAgam,Gabon,gambiae
+AS0015-C,3L,GAgam,Gabon,gambiae
+AS0016-C,3L,GAgam,Gabon,gambiae
+AS0017-C,3L,GAgam,Gabon,gambiae
+AS0018-C,3L,GAgam,Gabon,gambiae
+AS0019-C,3L,GAgam,Gabon,gambiae
+AS0020-C,3L,GAgam,Gabon,gambiae
+AS0021-C,3L,GAgam,Gabon,gambiae
+AS0022-C,3L,GAgam,Gabon,gambiae
+AS0024-C,3L,GAgam,Gabon,gambiae
+AS0025-C,3L,GAgam,Gabon,gambiae
+AS0026-C,3L,GAgam,Gabon,gambiae
+AS0027-C,3L,GAgam,Gabon,gambiae
+AS0028-C,3L,GAgam,Gabon,gambiae
+AS0029-C,3L,GAgam,Gabon,gambiae
+AS0030-C,3L,GAgam,Gabon,gambiae
+AS0032-C,3L,GAgam,Gabon,gambiae
+AS0033-C,3L,GAgam,Gabon,gambiae
+AS0034-C,3L,GAgam,Gabon,gambiae
+AS0035-C,3L,GAgam,Gabon,gambiae
+AS0036-C,3L,GAgam,Gabon,gambiae
+AS0037-C,3L,GAgam,Gabon,gambiae
+AS0039-C,3L,GAgam,Gabon,gambiae
+AS0040-C,3L,GAgam,Gabon,gambiae
+AS0041-C,3L,GAgam,Gabon,gambiae
+AS0042-C,3L,GAgam,Gabon,gambiae
+AS0044-C,3L,GAgam,Gabon,gambiae
+AS0045-C,3L,GAgam,Gabon,gambiae
+AS0046-C,3L,GAgam,Gabon,gambiae
+AS0047-C,3L,GAgam,Gabon,gambiae
+AS0048-C,3L,GAgam,Gabon,gambiae
+AS0049-C,3L,GAgam,Gabon,gambiae
+AS0051-C,3L,GAgam,Gabon,gambiae
+AS0052-C,3L,GAgam,Gabon,gambiae
+AS0053-C,3L,GAgam,Gabon,gambiae
+AS0054-C,3L,GAgam,Gabon,gambiae
+AS0055-C,3L,GAgam,Gabon,gambiae
+AS0056-C,3L,GAgam,Gabon,gambiae
+AS0057-C,3L,GAgam,Gabon,gambiae
+AS0058-C,3L,GAgam,Gabon,gambiae
+AS0059-C,3L,GAgam,Gabon,gambiae
+AS0060-C,3L,GAgam,Gabon,gambiae
+AS0062-C,3L,GAgam,Gabon,gambiae
+AS0064-C,3L,GAgam,Gabon,gambiae
+AS0065-C,3L,GAgam,Gabon,gambiae
+AS0066-C,3L,GAgam,Gabon,gambiae
+AS0068-C,3L,GAgam,Gabon,gambiae
+AS0069-C,3L,GAgam,Gabon,gambiae
+AS0070-C,3L,GAgam,Gabon,gambiae
+AS0071-C,3L,GAgam,Gabon,gambiae
+AS0072-C,3L,GAgam,Gabon,gambiae
+AS0073-C,3L,GAgam,Gabon,gambiae
+AS0074-C,3L,GAgam,Gabon,gambiae
+AS0076-C,3L,GAgam,Gabon,gambiae
+AS0077-C,3L,GAgam,Gabon,gambiae
+AS0078-C,3L,GAgam,Gabon,gambiae
+AV0001-C,3L,GNgam,Guinea,gambiae
+AV0002-C,3L,GNgam,Guinea,gambiae
+AV0003-C,3L,GNgam,Guinea,gambiae
+AV0004-C,3L,GNgam,Guinea,gambiae
+AV0005-C,3L,GNgam,Guinea,gambiae
+AV0006-C,3L,GNgam,Guinea,gambiae
+AV0007-C,3L,GNgam,Guinea,gambiae
+AV0008-C,3L,GNgam,Guinea,gambiae
+AV0009-C,3L,GNgam,Guinea,gambiae
+AV0010-C,3L,GNgam,Guinea,gambiae
+AV0011-C,3L,GNgam,Guinea,gambiae
+AV0012-C,3L,GNgam,Guinea,gambiae
+AV0013-C,3L,GNgam,Guinea,gambiae
+AV0014-C,3L,GNgam,Guinea,gambiae
+AV0015-C,3L,GNgam,Guinea,gambiae
+AV0017-C,3L,GNgam,Guinea,gambiae
+AV0018-C,3L,GNgam,Guinea,gambiae
+AV0020-C,3L,GNgam,Guinea,gambiae
+AV0021-C,3L,GNgam,Guinea,gambiae
+AV0022-C,3L,GNgam,Guinea,gambiae
+AV0024-C,3L,GNgam,Guinea,gambiae
+AV0025-C,3L,GNgam,Guinea,gambiae
+AV0026-C,3L,GNgam,Guinea,gambiae
+AV0027-C,3L,GNgam,Guinea,gambiae
+AV0028-C,3L,GNgam,Guinea,gambiae
+AV0029-C,3L,GNgam,Guinea,gambiae
+AV0030-C,3L,GNgam,Guinea,gambiae
+AV0031-C,3L,GNgam,Guinea,gambiae
+AV0032-C,3L,GNgam,Guinea,gambiae
+AV0033-C,3L,GNgam,Guinea,gambiae
+AV0034-C,3L,GNgam,Guinea,gambiae
+AV0035-C,3L,GNgam,Guinea,gambiae
+AV0036-C,3L,GNgam,Guinea,gambiae
+AV0037-C,3L,GNgam,Guinea,gambiae
+AV0038-C,3L,GNcol,Guinea,coluzzii
+AV0039-C,3L,GNgam,Guinea,gambiae
+AV0040-C,3L,GNcol,Guinea,coluzzii
+AV0041-C,3L,GNgam,Guinea,gambiae
+AV0042-C,3L,GNcol,Guinea,coluzzii
+AV0043-C,3L,GNgam,Guinea,gambiae
+AV0044-C,3L,GNgam,Guinea,gambiae
+AV0045-C,3L,GNgam,Guinea,gambiae
+AV0046-C,3L,GNcol,Guinea,coluzzii
+AV0047-C,3L,GNgam,Guinea,gambiae
+AY0006-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0007-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0010-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0011-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0012-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0013-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0015-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0016-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0017-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0018-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0019-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0020-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0021-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0023-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0024-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0025-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0026-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0027-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0029-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0031-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0032-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0033-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0034-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0035-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0036-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0038-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0039-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0040-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0041-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0042-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0043-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0045-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0046-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0047-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0048-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0049-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0050-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0052-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0053-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0054-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0055-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0056-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0057-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0058-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0059-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0060-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0061-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0062-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0063-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0064-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0065-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0066-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0067-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0068-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0069-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0070-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0072-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0074-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0076-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0077-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0078-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0079-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0080-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0082-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0083-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0085-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0087-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0088-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0089-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0090-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AY0091-C,3L,CIcol,Cote d'Ivoire,coluzzii
+AA0040-C,X,GHcol,Ghana,coluzzii
+AA0041-C,X,GHcol,Ghana,coluzzii
+AA0042-C,X,GHcol,Ghana,coluzzii
+AA0043-C,X,GHcol,Ghana,coluzzii
+AA0044-C,X,GHcol,Ghana,coluzzii
+AA0048-C,X,GHgam,Ghana,gambiae
+AA0049-C,X,GHcol,Ghana,coluzzii
+AA0050-C,X,GHgam,Ghana,gambiae
+AA0051-C,X,GHcol,Ghana,coluzzii
+AA0052-C,X,GHcol,Ghana,coluzzii
+AA0053-C,X,GHcol,Ghana,coluzzii
+AA0054-C,X,GHcol,Ghana,coluzzii
+AA0055-C,X,GHcol,Ghana,coluzzii
+AA0056-C,X,GHcol,Ghana,coluzzii
+AA0060-C,X,GHgam,Ghana,gambiae
+AA0061-C,X,GHgam,Ghana,gambiae
+AA0063-C,X,GHcol,Ghana,coluzzii
+AA0064-C,X,GHcol,Ghana,coluzzii
+AA0066-C,X,GHcol,Ghana,coluzzii
+AA0067-C,X,GHcol,Ghana,coluzzii
+AA0068-C,X,GHcol,Ghana,coluzzii
+AA0072-C,X,GHgam,Ghana,gambiae
+AA0073-C,X,GHcol,Ghana,coluzzii
+AA0074-C,X,GHcol,Ghana,coluzzii
+AA0075-C,X,GHcol,Ghana,coluzzii
+AA0076-C,X,GHcol,Ghana,coluzzii
+AA0077-C,X,GHcol,Ghana,coluzzii
+AA0080-C,X,GHcol,Ghana,coluzzii
+AA0084-C,X,GHgam,Ghana,gambiae
+AA0085-C,X,GHgam,Ghana,gambiae
+AA0086-C,X,GHgam,Ghana,gambiae
+AA0087-C,X,GHcol,Ghana,coluzzii
+AA0088-C,X,GHcol,Ghana,coluzzii
+AA0089-C,X,GHcol,Ghana,coluzzii
+AA0090-C,X,GHcol,Ghana,coluzzii
+AA0091-C,X,GHcol,Ghana,coluzzii
+AA0096-C,X,GHgam,Ghana,gambiae
+AA0097-C,X,GHcol,Ghana,coluzzii
+AA0098-C,X,GHcol,Ghana,coluzzii
+AA0099-C,X,GHcol,Ghana,coluzzii
+AA0100-C,X,GHcol,Ghana,coluzzii
+AA0101-C,X,GHcol,Ghana,coluzzii
+AA0102-C,X,GHcol,Ghana,coluzzii
+AA0103-C,X,GHcol,Ghana,coluzzii
+AA0104-C,X,GHcol,Ghana,coluzzii
+AA0107-C,X,GHcol,Ghana,coluzzii
+AA0108-C,X,GHgam,Ghana,gambiae
+AA0109-C,X,GHcol,Ghana,coluzzii
+AA0110-C,X,GHcol,Ghana,coluzzii
+AA0111-C,X,GHcol,Ghana,coluzzii
+AA0113-C,X,GHcol,Ghana,coluzzii
+AA0114-C,X,GHcol,Ghana,coluzzii
+AA0115-C,X,GHcol,Ghana,coluzzii
+AA0116-C,X,GHcol,Ghana,coluzzii
+AA0122-C,X,GHgam,Ghana,gambiae
+AA0123-C,X,GHcol,Ghana,coluzzii
+AA0124-C,X,GHcol,Ghana,coluzzii
+AA0125-C,X,GHcol,Ghana,coluzzii
+AA0127-C,X,GHcol,Ghana,coluzzii
+AA0132-C,X,GHcol,Ghana,coluzzii
+AA0133-C,X,GHgam,Ghana,gambiae
+AA0134-C,X,GHcol,Ghana,coluzzii
+AA0135-C,X,GHcol,Ghana,coluzzii
+AA0136-C,X,GHcol,Ghana,coluzzii
+AA0139-C,X,GHcol,Ghana,coluzzii
+AA0140-C,X,GHcol,Ghana,coluzzii
+AA0141-C,X,GHcol,Ghana,coluzzii
+AB0085-C,X,BFgam,Burkina Faso,gambiae
+AB0087-C,X,BFcol,Burkina Faso,coluzzii
+AB0088-C,X,BFcol,Burkina Faso,coluzzii
+AB0089-C,X,BFcol,Burkina Faso,coluzzii
+AB0090-C,X,BFcol,Burkina Faso,coluzzii
+AB0091-C,X,BFcol,Burkina Faso,coluzzii
+AB0092-C,X,BFcol,Burkina Faso,coluzzii
+AB0094-C,X,BFcol,Burkina Faso,coluzzii
+AB0095-C,X,BFcol,Burkina Faso,coluzzii
+AB0097-C,X,BFcol,Burkina Faso,coluzzii
+AB0098-C,X,BFcol,Burkina Faso,coluzzii
+AB0099-C,X,BFcol,Burkina Faso,coluzzii
+AB0100-C,X,BFcol,Burkina Faso,coluzzii
+AB0101-C,X,BFcol,Burkina Faso,coluzzii
+AB0103-C,X,BFgam,Burkina Faso,gambiae
+AB0104-C,X,BFgam,Burkina Faso,gambiae
+AB0108-C,X,BFgam,Burkina Faso,gambiae
+AB0109-C,X,BFcol,Burkina Faso,coluzzii
+AB0110-C,X,BFcol,Burkina Faso,coluzzii
+AB0111-C,X,BFcol,Burkina Faso,coluzzii
+AB0112-C,X,BFcol,Burkina Faso,coluzzii
+AB0113-C,X,BFcol,Burkina Faso,coluzzii
+AB0114-C,X,BFcol,Burkina Faso,coluzzii
+AB0115-C,X,BFcol,Burkina Faso,coluzzii
+AB0133-C,X,BFgam,Burkina Faso,gambiae
+AB0134-C,X,BFgam,Burkina Faso,gambiae
+AB0135-C,X,BFgam,Burkina Faso,gambiae
+AB0136-C,X,BFgam,Burkina Faso,gambiae
+AB0137-C,X,BFcol,Burkina Faso,coluzzii
+AB0138-C,X,BFcol,Burkina Faso,coluzzii
+AB0139-C,X,BFcol,Burkina Faso,coluzzii
+AB0140-C,X,BFcol,Burkina Faso,coluzzii
+AB0142-C,X,BFcol,Burkina Faso,coluzzii
+AB0143-C,X,BFgam,Burkina Faso,gambiae
+AB0145-C,X,BFgam,Burkina Faso,gambiae
+AB0146-C,X,BFgam,Burkina Faso,gambiae
+AB0147-C,X,BFgam,Burkina Faso,gambiae
+AB0148-C,X,BFgam,Burkina Faso,gambiae
+AB0172-C,X,BFgam,Burkina Faso,gambiae
+AB0173-C,X,BFgam,Burkina Faso,gambiae
+AB0174-C,X,BFgam,Burkina Faso,gambiae
+AB0175-C,X,BFgam,Burkina Faso,gambiae
+AB0176-C,X,BFgam,Burkina Faso,gambiae
+AB0177-C,X,BFgam,Burkina Faso,gambiae
+AB0178-C,X,BFgam,Burkina Faso,gambiae
+AB0179-C,X,BFgam,Burkina Faso,gambiae
+AB0181-C,X,BFcol,Burkina Faso,coluzzii
+AB0182-C,X,BFcol,Burkina Faso,coluzzii
+AB0183-C,X,BFcol,Burkina Faso,coluzzii
+AB0184-C,X,BFcol,Burkina Faso,coluzzii
+AB0185-C,X,BFcol,Burkina Faso,coluzzii
+AB0186-C,X,BFcol,Burkina Faso,coluzzii
+AB0187-C,X,BFcol,Burkina Faso,coluzzii
+AB0188-C,X,BFcol,Burkina Faso,coluzzii
+AB0189-C,X,BFcol,Burkina Faso,coluzzii
+AB0190-C,X,BFcol,Burkina Faso,coluzzii
+AB0191-C,X,BFcol,Burkina Faso,coluzzii
+AB0192-C,X,BFcol,Burkina Faso,coluzzii
+AB0195-C,X,BFcol,Burkina Faso,coluzzii
+AB0196-C,X,BFcol,Burkina Faso,coluzzii
+AB0197-C,X,BFgam,Burkina Faso,gambiae
+AB0198-C,X,BFgam,Burkina Faso,gambiae
+AB0199-C,X,BFgam,Burkina Faso,gambiae
+AB0200-C,X,BFgam,Burkina Faso,gambiae
+AB0201-C,X,BFgam,Burkina Faso,gambiae
+AB0202-C,X,BFgam,Burkina Faso,gambiae
+AB0203-C,X,BFgam,Burkina Faso,gambiae
+AB0204-C,X,BFcol,Burkina Faso,coluzzii
+AB0205-C,X,BFgam,Burkina Faso,gambiae
+AB0206-C,X,BFgam,Burkina Faso,gambiae
+AB0207-C,X,BFgam,Burkina Faso,gambiae
+AB0208-C,X,BFgam,Burkina Faso,gambiae
+AB0209-C,X,BFcol,Burkina Faso,coluzzii
+AB0210-C,X,BFcol,Burkina Faso,coluzzii
+AB0211-C,X,BFgam,Burkina Faso,gambiae
+AB0212-C,X,BFcol,Burkina Faso,coluzzii
+AB0213-C,X,BFcol,Burkina Faso,coluzzii
+AB0215-C,X,BFcol,Burkina Faso,coluzzii
+AB0217-C,X,BFgam,Burkina Faso,gambiae
+AB0218-C,X,BFgam,Burkina Faso,gambiae
+AB0219-C,X,BFcol,Burkina Faso,coluzzii
+AB0221-C,X,BFcol,Burkina Faso,coluzzii
+AB0222-C,X,BFcol,Burkina Faso,coluzzii
+AB0223-C,X,BFcol,Burkina Faso,coluzzii
+AB0224-C,X,BFcol,Burkina Faso,coluzzii
+AB0226-C,X,BFcol,Burkina Faso,coluzzii
+AB0227-C,X,BFcol,Burkina Faso,coluzzii
+AB0228-C,X,BFgam,Burkina Faso,gambiae
+AB0229-C,X,BFcol,Burkina Faso,coluzzii
+AB0231-C,X,BFgam,Burkina Faso,gambiae
+AB0232-C,X,BFgam,Burkina Faso,gambiae
+AB0233-C,X,BFgam,Burkina Faso,gambiae
+AB0234-C,X,BFcol,Burkina Faso,coluzzii
+AB0235-C,X,BFgam,Burkina Faso,gambiae
+AB0236-C,X,BFgam,Burkina Faso,gambiae
+AB0237-C,X,BFcol,Burkina Faso,coluzzii
+AB0238-C,X,BFgam,Burkina Faso,gambiae
+AB0239-C,X,BFgam,Burkina Faso,gambiae
+AB0240-C,X,BFcol,Burkina Faso,coluzzii
+AB0241-C,X,BFgam,Burkina Faso,gambiae
+AB0242-C,X,BFcol,Burkina Faso,coluzzii
+AB0243-C,X,BFcol,Burkina Faso,coluzzii
+AB0244-C,X,BFgam,Burkina Faso,gambiae
+AB0246-C,X,BFcol,Burkina Faso,coluzzii
+AB0247-C,X,BFcol,Burkina Faso,coluzzii
+AB0248-C,X,BFcol,Burkina Faso,coluzzii
+AB0249-C,X,BFcol,Burkina Faso,coluzzii
+AB0250-C,X,BFcol,Burkina Faso,coluzzii
+AB0251-C,X,BFgam,Burkina Faso,gambiae
+AB0252-C,X,BFgam,Burkina Faso,gambiae
+AB0253-C,X,BFgam,Burkina Faso,gambiae
+AB0255-C,X,BFgam,Burkina Faso,gambiae
+AB0256-C,X,BFgam,Burkina Faso,gambiae
+AB0257-C,X,BFcol,Burkina Faso,coluzzii
+AB0258-C,X,BFcol,Burkina Faso,coluzzii
+AB0260-C,X,BFgam,Burkina Faso,gambiae
+AB0261-C,X,BFgam,Burkina Faso,gambiae
+AB0262-C,X,BFcol,Burkina Faso,coluzzii
+AB0263-C,X,BFcol,Burkina Faso,coluzzii
+AB0264-C,X,BFgam,Burkina Faso,gambiae
+AB0265-C,X,BFgam,Burkina Faso,gambiae
+AB0266-C,X,BFcol,Burkina Faso,coluzzii
+AB0267-C,X,BFcol,Burkina Faso,coluzzii
+AB0268-C,X,BFgam,Burkina Faso,gambiae
+AB0270-C,X,BFgam,Burkina Faso,gambiae
+AB0271-C,X,BFgam,Burkina Faso,gambiae
+AB0272-C,X,BFgam,Burkina Faso,gambiae
+AB0273-C,X,BFgam,Burkina Faso,gambiae
+AB0274-C,X,BFgam,Burkina Faso,gambiae
+AB0275-C,X,BFgam,Burkina Faso,gambiae
+AB0276-C,X,BFcol,Burkina Faso,coluzzii
+AB0277-C,X,BFgam,Burkina Faso,gambiae
+AB0278-C,X,BFgam,Burkina Faso,gambiae
+AB0279-C,X,BFcol,Burkina Faso,coluzzii
+AB0280-C,X,BFgam,Burkina Faso,gambiae
+AB0281-C,X,BFgam,Burkina Faso,gambiae
+AB0282-C,X,BFcol,Burkina Faso,coluzzii
+AB0283-C,X,BFgam,Burkina Faso,gambiae
+AB0284-C,X,BFgam,Burkina Faso,gambiae
+AC0089-C,X,UGgam,Uganda,gambiae
+AC0090-C,X,UGgam,Uganda,gambiae
+AC0091-C,X,UGgam,Uganda,gambiae
+AC0092-C,X,UGgam,Uganda,gambiae
+AC0093-C,X,UGgam,Uganda,gambiae
+AC0094-C,X,UGgam,Uganda,gambiae
+AC0095-C,X,UGgam,Uganda,gambiae
+AC0096-C,X,UGgam,Uganda,gambiae
+AC0097-C,X,UGgam,Uganda,gambiae
+AC0098-C,X,UGgam,Uganda,gambiae
+AC0099-C,X,UGgam,Uganda,gambiae
+AC0100-C,X,UGgam,Uganda,gambiae
+AC0101-C,X,UGgam,Uganda,gambiae
+AC0102-C,X,UGgam,Uganda,gambiae
+AC0103-C,X,UGgam,Uganda,gambiae
+AC0104-C,X,UGgam,Uganda,gambiae
+AC0105-C,X,UGgam,Uganda,gambiae
+AC0106-C,X,UGgam,Uganda,gambiae
+AC0107-C,X,UGgam,Uganda,gambiae
+AC0108-C,X,UGgam,Uganda,gambiae
+AC0109-C,X,UGgam,Uganda,gambiae
+AC0110-C,X,UGgam,Uganda,gambiae
+AC0111-C,X,UGgam,Uganda,gambiae
+AC0112-C,X,UGgam,Uganda,gambiae
+AC0113-C,X,UGgam,Uganda,gambiae
+AC0114-C,X,UGgam,Uganda,gambiae
+AC0115-C,X,UGgam,Uganda,gambiae
+AC0116-C,X,UGgam,Uganda,gambiae
+AC0117-C,X,UGgam,Uganda,gambiae
+AC0118-C,X,UGgam,Uganda,gambiae
+AC0119-C,X,UGgam,Uganda,gambiae
+AC0120-C,X,UGgam,Uganda,gambiae
+AC0121-C,X,UGgam,Uganda,gambiae
+AC0122-C,X,UGgam,Uganda,gambiae
+AC0123-C,X,UGgam,Uganda,gambiae
+AC0124-C,X,UGgam,Uganda,gambiae
+AC0125-C,X,UGgam,Uganda,gambiae
+AC0126-C,X,UGgam,Uganda,gambiae
+AC0127-C,X,UGgam,Uganda,gambiae
+AC0128-C,X,UGgam,Uganda,gambiae
+AC0129-C,X,UGgam,Uganda,gambiae
+AC0130-C,X,UGgam,Uganda,gambiae
+AC0131-C,X,UGgam,Uganda,gambiae
+AC0132-C,X,UGgam,Uganda,gambiae
+AC0133-C,X,UGgam,Uganda,gambiae
+AC0134-C,X,UGgam,Uganda,gambiae
+AC0135-C,X,UGgam,Uganda,gambiae
+AC0136-C,X,UGgam,Uganda,gambiae
+AC0137-C,X,UGgam,Uganda,gambiae
+AC0138-C,X,UGgam,Uganda,gambiae
+AC0139-C,X,UGgam,Uganda,gambiae
+AC0140-C,X,UGgam,Uganda,gambiae
+AC0141-C,X,UGgam,Uganda,gambiae
+AC0142-C,X,UGgam,Uganda,gambiae
+AC0143-C,X,UGgam,Uganda,gambiae
+AC0144-C,X,UGgam,Uganda,gambiae
+AC0145-C,X,UGgam,Uganda,gambiae
+AC0146-C,X,UGgam,Uganda,gambiae
+AC0147-C,X,UGgam,Uganda,gambiae
+AC0148-C,X,UGgam,Uganda,gambiae
+AC0149-C,X,UGgam,Uganda,gambiae
+AC0150-C,X,UGgam,Uganda,gambiae
+AC0151-C,X,UGgam,Uganda,gambiae
+AC0152-C,X,UGgam,Uganda,gambiae
+AC0153-C,X,UGgam,Uganda,gambiae
+AC0154-C,X,UGgam,Uganda,gambiae
+AC0155-C,X,UGgam,Uganda,gambiae
+AC0156-C,X,UGgam,Uganda,gambiae
+AC0157-C,X,UGgam,Uganda,gambiae
+AC0158-C,X,UGgam,Uganda,gambiae
+AC0159-C,X,UGgam,Uganda,gambiae
+AC0160-C,X,UGgam,Uganda,gambiae
+AC0161-C,X,UGgam,Uganda,gambiae
+AC0162-C,X,UGgam,Uganda,gambiae
+AC0163-C,X,UGgam,Uganda,gambiae
+AC0164-C,X,UGgam,Uganda,gambiae
+AC0166-C,X,UGgam,Uganda,gambiae
+AC0167-C,X,UGgam,Uganda,gambiae
+AC0168-C,X,UGgam,Uganda,gambiae
+AC0169-C,X,UGgam,Uganda,gambiae
+AC0170-C,X,UGgam,Uganda,gambiae
+AC0171-C,X,UGgam,Uganda,gambiae
+AC0172-C,X,UGgam,Uganda,gambiae
+AC0173-C,X,UGgam,Uganda,gambiae
+AC0174-C,X,UGgam,Uganda,gambiae
+AC0176-C,X,UGgam,Uganda,gambiae
+AC0177-C,X,UGgam,Uganda,gambiae
+AC0178-C,X,UGgam,Uganda,gambiae
+AC0179-C,X,UGgam,Uganda,gambiae
+AC0180-C,X,UGgam,Uganda,gambiae
+AC0181-C,X,UGgam,Uganda,gambiae
+AC0182-C,X,UGgam,Uganda,gambiae
+AC0183-C,X,UGgam,Uganda,gambiae
+AC0184-C,X,UGgam,Uganda,gambiae
+AC0185-C,X,UGgam,Uganda,gambiae
+AC0186-C,X,UGgam,Uganda,gambiae
+AC0187-C,X,UGgam,Uganda,gambiae
+AC0188-C,X,UGgam,Uganda,gambiae
+AC0189-C,X,UGgam,Uganda,gambiae
+AC0190-C,X,UGgam,Uganda,gambiae
+AC0191-C,X,UGgam,Uganda,gambiae
+AC0192-C,X,UGgam,Uganda,gambiae
+AC0193-C,X,UGgam,Uganda,gambiae
+AC0194-C,X,UGgam,Uganda,gambiae
+AC0195-C,X,UGgam,Uganda,gambiae
+AC0196-C,X,UGgam,Uganda,gambiae
+AC0197-C,X,UGgam,Uganda,gambiae
+AC0199-C,X,UGgam,Uganda,gambiae
+AC0200-C,X,UGgam,Uganda,gambiae
+AC0201-C,X,UGgam,Uganda,gambiae
+AC0202-C,X,UGgam,Uganda,gambiae
+AC0203-C,X,UGgam,Uganda,gambiae
+AN0007-C,X,CMgam,Cameroon,gambiae
+AN0008-C,X,CMgam,Cameroon,gambiae
+AN0009-C,X,CMgam,Cameroon,gambiae
+AN0010-C,X,CMgam,Cameroon,gambiae
+AN0011-C,X,CMgam,Cameroon,gambiae
+AN0012-C,X,CMgam,Cameroon,gambiae
+AN0013-C,X,CMgam,Cameroon,gambiae
+AN0014-C,X,CMgam,Cameroon,gambiae
+AN0015-C,X,CMgam,Cameroon,gambiae
+AN0016-C,X,CMgam,Cameroon,gambiae
+AN0017-C,X,CMgam,Cameroon,gambiae
+AN0018-C,X,CMgam,Cameroon,gambiae
+AN0019-C,X,CMgam,Cameroon,gambiae
+AN0020-C,X,CMgam,Cameroon,gambiae
+AN0037-C,X,CMgam,Cameroon,gambiae
+AN0038-C,X,CMgam,Cameroon,gambiae
+AN0039-C,X,CMgam,Cameroon,gambiae
+AN0040-C,X,CMgam,Cameroon,gambiae
+AN0041-C,X,CMgam,Cameroon,gambiae
+AN0042-C,X,CMgam,Cameroon,gambiae
+AN0043-C,X,CMgam,Cameroon,gambiae
+AN0044-C,X,CMgam,Cameroon,gambiae
+AN0045-C,X,CMgam,Cameroon,gambiae
+AN0046-C,X,CMgam,Cameroon,gambiae
+AN0047-C,X,CMgam,Cameroon,gambiae
+AN0048-C,X,CMgam,Cameroon,gambiae
+AN0049-C,X,CMgam,Cameroon,gambiae
+AN0050-C,X,CMgam,Cameroon,gambiae
+AN0051-C,X,CMgam,Cameroon,gambiae
+AN0053-C,X,CMgam,Cameroon,gambiae
+AN0054-C,X,CMgam,Cameroon,gambiae
+AN0055-C,X,CMgam,Cameroon,gambiae
+AN0056-C,X,CMgam,Cameroon,gambiae
+AN0057-C,X,CMgam,Cameroon,gambiae
+AN0058-C,X,CMgam,Cameroon,gambiae
+AN0059-C,X,CMgam,Cameroon,gambiae
+AN0060-C,X,CMgam,Cameroon,gambiae
+AN0061-C,X,CMgam,Cameroon,gambiae
+AN0062-C,X,CMgam,Cameroon,gambiae
+AN0063-C,X,CMgam,Cameroon,gambiae
+AN0064-C,X,CMgam,Cameroon,gambiae
+AN0065-C,X,CMgam,Cameroon,gambiae
+AN0066-C,X,CMgam,Cameroon,gambiae
+AN0067-C,X,CMgam,Cameroon,gambiae
+AN0068-C,X,CMgam,Cameroon,gambiae
+AN0069-C,X,CMgam,Cameroon,gambiae
+AN0070-C,X,CMgam,Cameroon,gambiae
+AN0071-C,X,CMgam,Cameroon,gambiae
+AN0072-C,X,CMgam,Cameroon,gambiae
+AN0073-C,X,CMgam,Cameroon,gambiae
+AN0074-C,X,CMgam,Cameroon,gambiae
+AN0075-C,X,CMgam,Cameroon,gambiae
+AN0076-C,X,CMgam,Cameroon,gambiae
+AN0077-C,X,CMgam,Cameroon,gambiae
+AN0079-C,X,CMgam,Cameroon,gambiae
+AN0080-C,X,CMgam,Cameroon,gambiae
+AN0081-C,X,CMgam,Cameroon,gambiae
+AN0082-C,X,CMgam,Cameroon,gambiae
+AN0083-C,X,CMgam,Cameroon,gambiae
+AN0084-C,X,CMgam,Cameroon,gambiae
+AN0085-C,X,CMgam,Cameroon,gambiae
+AN0086-C,X,CMgam,Cameroon,gambiae
+AN0087-C,X,CMgam,Cameroon,gambiae
+AN0088-C,X,CMgam,Cameroon,gambiae
+AN0089-C,X,CMgam,Cameroon,gambiae
+AN0090-C,X,CMgam,Cameroon,gambiae
+AN0091-C,X,CMgam,Cameroon,gambiae
+AN0092-C,X,CMgam,Cameroon,gambiae
+AN0093-C,X,CMgam,Cameroon,gambiae
+AN0094-C,X,CMgam,Cameroon,gambiae
+AN0095-C,X,CMgam,Cameroon,gambiae
+AN0096-C,X,CMgam,Cameroon,gambiae
+AN0097-C,X,CMgam,Cameroon,gambiae
+AN0098-C,X,CMgam,Cameroon,gambiae
+AN0099-C,X,CMgam,Cameroon,gambiae
+AN0100-C,X,CMgam,Cameroon,gambiae
+AN0101-C,X,CMgam,Cameroon,gambiae
+AN0102-C,X,CMgam,Cameroon,gambiae
+AN0103-C,X,CMgam,Cameroon,gambiae
+AN0104-C,X,CMgam,Cameroon,gambiae
+AN0105-C,X,CMgam,Cameroon,gambiae
+AN0106-C,X,CMgam,Cameroon,gambiae
+AN0107-C,X,CMgam,Cameroon,gambiae
+AN0108-C,X,CMgam,Cameroon,gambiae
+AN0109-C,X,CMgam,Cameroon,gambiae
+AN0111-C,X,CMgam,Cameroon,gambiae
+AN0112-C,X,CMgam,Cameroon,gambiae
+AN0113-C,X,CMgam,Cameroon,gambiae
+AN0114-C,X,CMgam,Cameroon,gambiae
+AN0115-C,X,CMgam,Cameroon,gambiae
+AN0117-C,X,CMgam,Cameroon,gambiae
+AN0118-C,X,CMgam,Cameroon,gambiae
+AN0119-C,X,CMgam,Cameroon,gambiae
+AN0120-C,X,CMgam,Cameroon,gambiae
+AN0121-C,X,CMgam,Cameroon,gambiae
+AN0137-C,X,CMgam,Cameroon,gambiae
+AN0138-C,X,CMgam,Cameroon,gambiae
+AN0139-C,X,CMgam,Cameroon,gambiae
+AN0140-C,X,CMgam,Cameroon,gambiae
+AN0141-C,X,CMgam,Cameroon,gambiae
+AN0142-C,X,CMgam,Cameroon,gambiae
+AN0143-C,X,CMgam,Cameroon,gambiae
+AN0144-C,X,CMgam,Cameroon,gambiae
+AN0147-C,X,CMgam,Cameroon,gambiae
+AN0149-C,X,CMgam,Cameroon,gambiae
+AN0151-C,X,CMgam,Cameroon,gambiae
+AN0152-C,X,CMgam,Cameroon,gambiae
+AN0153-C,X,CMgam,Cameroon,gambiae
+AN0154-C,X,CMgam,Cameroon,gambiae
+AN0155-C,X,CMgam,Cameroon,gambiae
+AN0156-C,X,CMgam,Cameroon,gambiae
+AN0157-C,X,CMgam,Cameroon,gambiae
+AN0158-C,X,CMgam,Cameroon,gambiae
+AN0159-C,X,CMgam,Cameroon,gambiae
+AN0160-C,X,CMgam,Cameroon,gambiae
+AN0162-C,X,CMgam,Cameroon,gambiae
+AN0163-C,X,CMgam,Cameroon,gambiae
+AN0164-C,X,CMgam,Cameroon,gambiae
+AN0165-C,X,CMgam,Cameroon,gambiae
+AN0166-C,X,CMgam,Cameroon,gambiae
+AN0167-C,X,CMgam,Cameroon,gambiae
+AN0168-C,X,CMgam,Cameroon,gambiae
+AN0169-C,X,CMgam,Cameroon,gambiae
+AN0170-C,X,CMgam,Cameroon,gambiae
+AN0171-C,X,CMgam,Cameroon,gambiae
+AN0172-C,X,CMgam,Cameroon,gambiae
+AN0173-C,X,CMgam,Cameroon,gambiae
+AN0174-C,X,CMgam,Cameroon,gambiae
+AN0175-C,X,CMgam,Cameroon,gambiae
+AN0176-C,X,CMgam,Cameroon,gambiae
+AN0177-C,X,CMgam,Cameroon,gambiae
+AN0178-C,X,CMgam,Cameroon,gambiae
+AN0179-C,X,CMgam,Cameroon,gambiae
+AN0180-C,X,CMgam,Cameroon,gambiae
+AN0181-C,X,CMgam,Cameroon,gambiae
+AN0182-C,X,CMgam,Cameroon,gambiae
+AN0183-C,X,CMgam,Cameroon,gambiae
+AN0184-C,X,CMgam,Cameroon,gambiae
+AN0185-C,X,CMgam,Cameroon,gambiae
+AN0186-C,X,CMgam,Cameroon,gambiae
+AN0187-C,X,CMgam,Cameroon,gambiae
+AN0188-C,X,CMgam,Cameroon,gambiae
+AN0189-C,X,CMgam,Cameroon,gambiae
+AN0190-C,X,CMgam,Cameroon,gambiae
+AN0191-C,X,CMgam,Cameroon,gambiae
+AN0192-C,X,CMgam,Cameroon,gambiae
+AN0193-C,X,CMgam,Cameroon,gambiae
+AN0194-C,X,CMgam,Cameroon,gambiae
+AN0196-C,X,CMgam,Cameroon,gambiae
+AN0197-C,X,CMgam,Cameroon,gambiae
+AN0198-C,X,CMgam,Cameroon,gambiae
+AN0199-C,X,CMgam,Cameroon,gambiae
+AN0200-C,X,CMgam,Cameroon,gambiae
+AN0201-C,X,CMgam,Cameroon,gambiae
+AN0202-C,X,CMgam,Cameroon,gambiae
+AN0203-C,X,CMgam,Cameroon,gambiae
+AN0204-C,X,CMgam,Cameroon,gambiae
+AN0205-C,X,CMgam,Cameroon,gambiae
+AN0206-C,X,CMgam,Cameroon,gambiae
+AN0207-C,X,CMgam,Cameroon,gambiae
+AN0208-C,X,CMgam,Cameroon,gambiae
+AN0209-C,X,CMgam,Cameroon,gambiae
+AN0210-C,X,CMgam,Cameroon,gambiae
+AN0212-C,X,CMgam,Cameroon,gambiae
+AN0213-C,X,CMgam,Cameroon,gambiae
+AN0214-C,X,CMgam,Cameroon,gambiae
+AN0215-C,X,CMgam,Cameroon,gambiae
+AN0217-C,X,CMgam,Cameroon,gambiae
+AN0218-C,X,CMgam,Cameroon,gambiae
+AN0219-C,X,CMgam,Cameroon,gambiae
+AN0220-C,X,CMgam,Cameroon,gambiae
+AN0221-C,X,CMgam,Cameroon,gambiae
+AN0237-C,X,CMgam,Cameroon,gambiae
+AN0238-C,X,CMgam,Cameroon,gambiae
+AN0239-C,X,CMgam,Cameroon,gambiae
+AN0240-C,X,CMgam,Cameroon,gambiae
+AN0241-C,X,CMgam,Cameroon,gambiae
+AN0242-C,X,CMgam,Cameroon,gambiae
+AN0243-C,X,CMgam,Cameroon,gambiae
+AN0244-C,X,CMgam,Cameroon,gambiae
+AN0245-C,X,CMgam,Cameroon,gambiae
+AN0246-C,X,CMgam,Cameroon,gambiae
+AN0247-C,X,CMgam,Cameroon,gambiae
+AN0248-C,X,CMgam,Cameroon,gambiae
+AN0250-C,X,CMgam,Cameroon,gambiae
+AN0251-C,X,CMgam,Cameroon,gambiae
+AN0252-C,X,CMgam,Cameroon,gambiae
+AN0253-C,X,CMgam,Cameroon,gambiae
+AN0254-C,X,CMgam,Cameroon,gambiae
+AN0255-C,X,CMgam,Cameroon,gambiae
+AN0256-C,X,CMgam,Cameroon,gambiae
+AN0258-C,X,CMgam,Cameroon,gambiae
+AN0259-C,X,CMgam,Cameroon,gambiae
+AN0260-C,X,CMgam,Cameroon,gambiae
+AN0261-C,X,CMgam,Cameroon,gambiae
+AN0262-C,X,CMgam,Cameroon,gambiae
+AN0263-C,X,CMgam,Cameroon,gambiae
+AN0264-C,X,CMgam,Cameroon,gambiae
+AN0265-C,X,CMgam,Cameroon,gambiae
+AN0266-C,X,CMgam,Cameroon,gambiae
+AN0267-C,X,CMgam,Cameroon,gambiae
+AN0268-C,X,CMgam,Cameroon,gambiae
+AN0269-C,X,CMgam,Cameroon,gambiae
+AN0270-C,X,CMgam,Cameroon,gambiae
+AN0271-C,X,CMgam,Cameroon,gambiae
+AN0272-C,X,CMgam,Cameroon,gambiae
+AN0275-C,X,CMgam,Cameroon,gambiae
+AN0276-C,X,CMgam,Cameroon,gambiae
+AN0277-C,X,CMgam,Cameroon,gambiae
+AN0278-C,X,CMgam,Cameroon,gambiae
+AN0279-C,X,CMgam,Cameroon,gambiae
+AN0280-C,X,CMgam,Cameroon,gambiae
+AN0281-C,X,CMgam,Cameroon,gambiae
+AN0282-C,X,CMgam,Cameroon,gambiae
+AN0283-C,X,CMgam,Cameroon,gambiae
+AN0284-C,X,CMgam,Cameroon,gambiae
+AN0285-C,X,CMgam,Cameroon,gambiae
+AN0286-C,X,CMgam,Cameroon,gambiae
+AN0287-C,X,CMgam,Cameroon,gambiae
+AN0288-C,X,CMgam,Cameroon,gambiae
+AN0289-C,X,CMgam,Cameroon,gambiae
+AN0290-C,X,CMgam,Cameroon,gambiae
+AN0291-C,X,CMgam,Cameroon,gambiae
+AN0292-C,X,CMgam,Cameroon,gambiae
+AN0293-C,X,CMgam,Cameroon,gambiae
+AN0294-C,X,CMgam,Cameroon,gambiae
+AN0295-C,X,CMgam,Cameroon,gambiae
+AN0296-C,X,CMgam,Cameroon,gambiae
+AN0297-C,X,CMgam,Cameroon,gambiae
+AN0298-C,X,CMgam,Cameroon,gambiae
+AN0299-C,X,CMgam,Cameroon,gambiae
+AN0300-C,X,CMgam,Cameroon,gambiae
+AN0301-C,X,CMgam,Cameroon,gambiae
+AN0302-C,X,CMgam,Cameroon,gambiae
+AN0303-C,X,CMgam,Cameroon,gambiae
+AN0304-C,X,CMgam,Cameroon,gambiae
+AN0305-C,X,CMgam,Cameroon,gambiae
+AN0306-C,X,CMgam,Cameroon,gambiae
+AN0307-C,X,CMgam,Cameroon,gambiae
+AN0308-C,X,CMgam,Cameroon,gambiae
+AN0309-C,X,CMgam,Cameroon,gambiae
+AN0310-C,X,CMgam,Cameroon,gambiae
+AN0311-C,X,CMgam,Cameroon,gambiae
+AN0312-C,X,CMgam,Cameroon,gambiae
+AN0313-C,X,CMgam,Cameroon,gambiae
+AN0314-C,X,CMgam,Cameroon,gambiae
+AN0315-C,X,CMgam,Cameroon,gambiae
+AN0316-C,X,CMgam,Cameroon,gambiae
+AN0317-C,X,CMgam,Cameroon,gambiae
+AN0318-C,X,CMgam,Cameroon,gambiae
+AN0319-C,X,CMgam,Cameroon,gambiae
+AN0320-C,X,CMgam,Cameroon,gambiae
+AN0321-C,X,CMgam,Cameroon,gambiae
+AP0002-C,X,FRgam,France,gambiae
+AP0005-C,X,FRgam,France,gambiae
+AP0006-C,X,FRgam,France,gambiae
+AP0007-C,X,FRgam,France,gambiae
+AP0008-C,X,FRgam,France,gambiae
+AP0017-C,X,FRgam,France,gambiae
+AP0021-C,X,FRgam,France,gambiae
+AP0022-C,X,FRgam,France,gambiae
+AP0023-C,X,FRgam,France,gambiae
+AP0024-C,X,FRgam,France,gambiae
+AP0030-C,X,FRgam,France,gambiae
+AP0033-C,X,FRgam,France,gambiae
+AQ0001-C,X,GQgam,Equatorial Guinea,gambiae
+AQ0002-C,X,GQgam,Equatorial Guinea,gambiae
+AQ0004-C,X,GQgam,Equatorial Guinea,gambiae
+AQ0005-C,X,GQgam,Equatorial Guinea,gambiae
+AQ0011-C,X,GQgam,Equatorial Guinea,gambiae
+AQ0012-C,X,GQgam,Equatorial Guinea,gambiae
+AQ0013-C,X,GQgam,Equatorial Guinea,gambiae
+AQ0014-C,X,GQgam,Equatorial Guinea,gambiae
+AQ0015-C,X,GQgam,Equatorial Guinea,gambiae
+AR0001-C,X,AOcol,Angola,coluzzii
+AR0007-C,X,AOcol,Angola,coluzzii
+AR0008-C,X,AOcol,Angola,coluzzii
+AR0009-C,X,AOcol,Angola,coluzzii
+AR0010-C,X,AOcol,Angola,coluzzii
+AR0011-C,X,AOcol,Angola,coluzzii
+AR0012-C,X,AOcol,Angola,coluzzii
+AR0013-C,X,AOcol,Angola,coluzzii
+AR0014-C,X,AOcol,Angola,coluzzii
+AR0015-C,X,AOcol,Angola,coluzzii
+AR0016-C,X,AOcol,Angola,coluzzii
+AR0017-C,X,AOcol,Angola,coluzzii
+AR0018-C,X,AOcol,Angola,coluzzii
+AR0019-C,X,AOcol,Angola,coluzzii
+AR0020-C,X,AOcol,Angola,coluzzii
+AR0021-C,X,AOcol,Angola,coluzzii
+AR0022-C,X,AOcol,Angola,coluzzii
+AR0023-C,X,AOcol,Angola,coluzzii
+AR0024-C,X,AOcol,Angola,coluzzii
+AR0026-C,X,AOcol,Angola,coluzzii
+AR0027-C,X,AOcol,Angola,coluzzii
+AR0034-C,X,AOcol,Angola,coluzzii
+AR0035-C,X,AOcol,Angola,coluzzii
+AR0036-C,X,AOcol,Angola,coluzzii
+AR0038-C,X,AOcol,Angola,coluzzii
+AR0040-C,X,AOcol,Angola,coluzzii
+AR0042-C,X,AOcol,Angola,coluzzii
+AR0043-C,X,AOcol,Angola,coluzzii
+AR0044-C,X,AOcol,Angola,coluzzii
+AR0045-C,X,AOcol,Angola,coluzzii
+AR0046-C,X,AOcol,Angola,coluzzii
+AR0047-C,X,AOcol,Angola,coluzzii
+AR0048-C,X,AOcol,Angola,coluzzii
+AR0049-C,X,AOcol,Angola,coluzzii
+AR0050-C,X,AOcol,Angola,coluzzii
+AR0051-C,X,AOcol,Angola,coluzzii
+AR0052-C,X,AOcol,Angola,coluzzii
+AR0053-C,X,AOcol,Angola,coluzzii
+AR0054-C,X,AOcol,Angola,coluzzii
+AR0057-C,X,AOcol,Angola,coluzzii
+AR0059-C,X,AOcol,Angola,coluzzii
+AR0060-C,X,AOcol,Angola,coluzzii
+AR0061-C,X,AOcol,Angola,coluzzii
+AR0062-C,X,AOcol,Angola,coluzzii
+AR0063-C,X,AOcol,Angola,coluzzii
+AR0064-C,X,AOcol,Angola,coluzzii
+AR0065-C,X,AOcol,Angola,coluzzii
+AR0066-C,X,AOcol,Angola,coluzzii
+AR0069-C,X,AOcol,Angola,coluzzii
+AR0070-C,X,AOcol,Angola,coluzzii
+AR0071-C,X,AOcol,Angola,coluzzii
+AR0072-C,X,AOcol,Angola,coluzzii
+AR0073-C,X,AOcol,Angola,coluzzii
+AR0074-C,X,AOcol,Angola,coluzzii
+AR0075-C,X,AOcol,Angola,coluzzii
+AR0076-C,X,AOcol,Angola,coluzzii
+AR0077-C,X,AOcol,Angola,coluzzii
+AR0078-C,X,AOcol,Angola,coluzzii
+AR0079-C,X,AOcol,Angola,coluzzii
+AR0080-C,X,AOcol,Angola,coluzzii
+AR0081-C,X,AOcol,Angola,coluzzii
+AR0082-C,X,AOcol,Angola,coluzzii
+AR0083-C,X,AOcol,Angola,coluzzii
+AR0084-C,X,AOcol,Angola,coluzzii
+AR0085-C,X,AOcol,Angola,coluzzii
+AR0086-C,X,AOcol,Angola,coluzzii
+AR0087-C,X,AOcol,Angola,coluzzii
+AR0088-C,X,AOcol,Angola,coluzzii
+AR0089-C,X,AOcol,Angola,coluzzii
+AR0090-C,X,AOcol,Angola,coluzzii
+AR0092-C,X,AOcol,Angola,coluzzii
+AR0093-C,X,AOcol,Angola,coluzzii
+AR0095-C,X,AOcol,Angola,coluzzii
+AR0096-C,X,AOcol,Angola,coluzzii
+AR0097-C,X,AOcol,Angola,coluzzii
+AR0098-C,X,AOcol,Angola,coluzzii
+AR0099-C,X,AOcol,Angola,coluzzii
+AR0100-C,X,AOcol,Angola,coluzzii
+AS0001-C,X,GAgam,Gabon,gambiae
+AS0002-C,X,GAgam,Gabon,gambiae
+AS0003-C,X,GAgam,Gabon,gambiae
+AS0004-C,X,GAgam,Gabon,gambiae
+AS0005-C,X,GAgam,Gabon,gambiae
+AS0006-C,X,GAgam,Gabon,gambiae
+AS0007-C,X,GAgam,Gabon,gambiae
+AS0008-C,X,GAgam,Gabon,gambiae
+AS0009-C,X,GAgam,Gabon,gambiae
+AS0010-C,X,GAgam,Gabon,gambiae
+AS0011-C,X,GAgam,Gabon,gambiae
+AS0012-C,X,GAgam,Gabon,gambiae
+AS0013-C,X,GAgam,Gabon,gambiae
+AS0014-C,X,GAgam,Gabon,gambiae
+AS0015-C,X,GAgam,Gabon,gambiae
+AS0016-C,X,GAgam,Gabon,gambiae
+AS0017-C,X,GAgam,Gabon,gambiae
+AS0018-C,X,GAgam,Gabon,gambiae
+AS0019-C,X,GAgam,Gabon,gambiae
+AS0020-C,X,GAgam,Gabon,gambiae
+AS0021-C,X,GAgam,Gabon,gambiae
+AS0022-C,X,GAgam,Gabon,gambiae
+AS0024-C,X,GAgam,Gabon,gambiae
+AS0025-C,X,GAgam,Gabon,gambiae
+AS0026-C,X,GAgam,Gabon,gambiae
+AS0027-C,X,GAgam,Gabon,gambiae
+AS0028-C,X,GAgam,Gabon,gambiae
+AS0029-C,X,GAgam,Gabon,gambiae
+AS0030-C,X,GAgam,Gabon,gambiae
+AS0032-C,X,GAgam,Gabon,gambiae
+AS0033-C,X,GAgam,Gabon,gambiae
+AS0034-C,X,GAgam,Gabon,gambiae
+AS0035-C,X,GAgam,Gabon,gambiae
+AS0036-C,X,GAgam,Gabon,gambiae
+AS0037-C,X,GAgam,Gabon,gambiae
+AS0039-C,X,GAgam,Gabon,gambiae
+AS0040-C,X,GAgam,Gabon,gambiae
+AS0041-C,X,GAgam,Gabon,gambiae
+AS0042-C,X,GAgam,Gabon,gambiae
+AS0044-C,X,GAgam,Gabon,gambiae
+AS0045-C,X,GAgam,Gabon,gambiae
+AS0046-C,X,GAgam,Gabon,gambiae
+AS0047-C,X,GAgam,Gabon,gambiae
+AS0048-C,X,GAgam,Gabon,gambiae
+AS0049-C,X,GAgam,Gabon,gambiae
+AS0051-C,X,GAgam,Gabon,gambiae
+AS0052-C,X,GAgam,Gabon,gambiae
+AS0053-C,X,GAgam,Gabon,gambiae
+AS0054-C,X,GAgam,Gabon,gambiae
+AS0055-C,X,GAgam,Gabon,gambiae
+AS0056-C,X,GAgam,Gabon,gambiae
+AS0057-C,X,GAgam,Gabon,gambiae
+AS0058-C,X,GAgam,Gabon,gambiae
+AS0059-C,X,GAgam,Gabon,gambiae
+AS0060-C,X,GAgam,Gabon,gambiae
+AS0062-C,X,GAgam,Gabon,gambiae
+AS0064-C,X,GAgam,Gabon,gambiae
+AS0065-C,X,GAgam,Gabon,gambiae
+AS0066-C,X,GAgam,Gabon,gambiae
+AS0068-C,X,GAgam,Gabon,gambiae
+AS0069-C,X,GAgam,Gabon,gambiae
+AS0070-C,X,GAgam,Gabon,gambiae
+AS0071-C,X,GAgam,Gabon,gambiae
+AS0072-C,X,GAgam,Gabon,gambiae
+AS0073-C,X,GAgam,Gabon,gambiae
+AS0074-C,X,GAgam,Gabon,gambiae
+AS0076-C,X,GAgam,Gabon,gambiae
+AS0077-C,X,GAgam,Gabon,gambiae
+AS0078-C,X,GAgam,Gabon,gambiae
+AV0001-C,X,GNgam,Guinea,gambiae
+AV0002-C,X,GNgam,Guinea,gambiae
+AV0003-C,X,GNgam,Guinea,gambiae
+AV0004-C,X,GNgam,Guinea,gambiae
+AV0005-C,X,GNgam,Guinea,gambiae
+AV0006-C,X,GNgam,Guinea,gambiae
+AV0007-C,X,GNgam,Guinea,gambiae
+AV0008-C,X,GNgam,Guinea,gambiae
+AV0009-C,X,GNgam,Guinea,gambiae
+AV0010-C,X,GNgam,Guinea,gambiae
+AV0011-C,X,GNgam,Guinea,gambiae
+AV0012-C,X,GNgam,Guinea,gambiae
+AV0013-C,X,GNgam,Guinea,gambiae
+AV0014-C,X,GNgam,Guinea,gambiae
+AV0015-C,X,GNgam,Guinea,gambiae
+AV0017-C,X,GNgam,Guinea,gambiae
+AV0018-C,X,GNgam,Guinea,gambiae
+AV0020-C,X,GNgam,Guinea,gambiae
+AV0021-C,X,GNgam,Guinea,gambiae
+AV0022-C,X,GNgam,Guinea,gambiae
+AV0024-C,X,GNgam,Guinea,gambiae
+AV0025-C,X,GNgam,Guinea,gambiae
+AV0026-C,X,GNgam,Guinea,gambiae
+AV0027-C,X,GNgam,Guinea,gambiae
+AV0028-C,X,GNgam,Guinea,gambiae
+AV0029-C,X,GNgam,Guinea,gambiae
+AV0030-C,X,GNgam,Guinea,gambiae
+AV0031-C,X,GNgam,Guinea,gambiae
+AV0032-C,X,GNgam,Guinea,gambiae
+AV0033-C,X,GNgam,Guinea,gambiae
+AV0034-C,X,GNgam,Guinea,gambiae
+AV0035-C,X,GNgam,Guinea,gambiae
+AV0036-C,X,GNgam,Guinea,gambiae
+AV0037-C,X,GNgam,Guinea,gambiae
+AV0038-C,X,GNcol,Guinea,coluzzii
+AV0039-C,X,GNgam,Guinea,gambiae
+AV0040-C,X,GNcol,Guinea,coluzzii
+AV0041-C,X,GNgam,Guinea,gambiae
+AV0042-C,X,GNcol,Guinea,coluzzii
+AV0043-C,X,GNgam,Guinea,gambiae
+AV0044-C,X,GNgam,Guinea,gambiae
+AV0045-C,X,GNgam,Guinea,gambiae
+AV0046-C,X,GNcol,Guinea,coluzzii
+AV0047-C,X,GNgam,Guinea,gambiae
+AY0006-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0007-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0010-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0011-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0012-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0013-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0015-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0016-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0017-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0018-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0019-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0020-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0021-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0023-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0024-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0025-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0026-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0027-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0029-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0031-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0032-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0033-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0034-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0035-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0036-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0038-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0039-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0040-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0041-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0042-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0043-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0045-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0046-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0047-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0048-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0049-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0050-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0052-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0053-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0054-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0055-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0056-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0057-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0058-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0059-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0060-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0061-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0062-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0063-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0064-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0065-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0066-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0067-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0068-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0069-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0070-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0072-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0074-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0076-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0077-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0078-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0079-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0080-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0082-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0083-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0085-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0087-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0088-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0089-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0090-C,X,CIcol,Cote d'Ivoire,coluzzii
+AY0091-C,X,CIcol,Cote d'Ivoire,coluzzii

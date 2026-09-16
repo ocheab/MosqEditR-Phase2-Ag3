@@ -1,0 +1,38 @@
+HYBRID STATIC VALIDATION: PASS
+Generated: 2026-09-13
+
+[PASS] Config Phase2 mode public Sanger — public_sanger_phase2_shapeit_tabix
+[PASS] Phase2 shapeit URL configured — https://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/haplotypes/main/shapeit/
+[PASS] Phase2 accessibility URL configured — https://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/accessibility/
+[PASS] Ag3 public Sanger mode — public_sanger_per_sample_all_sites_vcf_tabix
+[PASS] Ag3 pilot balanced — 25
+[PASS] Ag3 final cap — 250
+[PASS] Frozen site rows — 530
+[PASS] Frozen genes — 106
+[PASS] Canonical sites — 515
+[PASS] All targets 23 bp — min=23 max=23
+[PASS] Python compile scripts/acquire_phase2_discovery.py — compiled
+[PASS] No malariagen_data import scripts/acquire_phase2_discovery.py
+[PASS] Python compile scripts/acquire_ag3_external_validation.py — compiled
+[PASS] No malariagen_data import scripts/acquire_ag3_external_validation.py
+[PASS] Phase2 no GCS active path
+[PASS] Phase2 HTSlib remote VCF
+[PASS] Ag3 HTSlib remote VCF
+[PASS] Ag3 final requires pilot
+[PASS] Ag3 target lock check
+[PASS] Exists R/00_preflight_and_freeze.R
+[PASS] Exists R/01_prepare_phase2_metadata.R
+[PASS] Exists R/02_extract_phase2_target_variation.R
+[PASS] Exists R/03_compute_population_site_metrics.R
+[PASS] Exists R/04_optimize_multiplex_portfolios.R
+[PASS] Exists R/05_gene_robustness_and_reranking.R
+[PASS] Exists R/05b_freeze_external_validation_targets.R
+[PASS] Exists R/06_sensitivity_and_validation.R
+[PASS] Exists R/06a_ag3_external_validation.R
+[PASS] Exists R/07_publication_figures_and_tables.R
+[PASS] Exists R/07b_generate_manuscript_results_snapshot.R
+[PASS] Exists R/08_freeze_reproducible_release.R
+[PASS] Discovery runner order — [3046, 3080, 3122, 3164, 3204, 3244, 3290]
+[PASS] External finalize runner exists
+[PASS] Hybrid requirements include pysam
+[PASS] Hybrid requirements no malariagen_data

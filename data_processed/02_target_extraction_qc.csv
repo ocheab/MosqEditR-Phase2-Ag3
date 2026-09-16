@@ -1,0 +1,10 @@
+metric,value
+Canonical sites queried,515
+Unplaced sites unresolved,15
+Genes with unresolved unplaced sites,3
+Primary samples in phased panel,938
+Country-taxon populations n>=20 after phased-panel intersection,10
+Sites with complete 23-bp accessibility,515
+Sites with incomplete accessibility,0
+R network requests in Step 02,0
+Chromosome-scale VCFs downloaded by Step 02,0

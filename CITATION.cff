@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or workflow, please cite it using the metadata below."
+title: "MosqEditR: Phase-2 CRISPR Target Discovery and Ag3 External Validation"
+type: software
+authors:
+
+* family-names: "George"
+  given-names: "Oche Ambrose"
+  version: "0.1.0"
+  date-released: "2026-09-16"
+  repository-code: "https://github.com/ocheab/MosqEditR-Phase2-Ag3"
+  abstract: >
+  Reproducible workflow for population-genomic discovery, ranking,
+  freezing, and independent Ag3 validation of CRISPR target sites in
+  Anopheles gambiae and Anopheles coluzzii.
+  keywords:
+* CRISPR
+* Anopheles gambiae
+* Anopheles coluzzii
+* Ag1000G
+* population genomics
+* external validation

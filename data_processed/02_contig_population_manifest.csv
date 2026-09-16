@@ -1,0 +1,66 @@
+population_id,contig,n_samples,country,taxon,primary_population_n20,sensitivity_population_n10,sensitivity_population_n30
+AOcol,2L,78,Angola,coluzzii,TRUE,TRUE,TRUE
+BFcol,2L,75,Burkina Faso,coluzzii,TRUE,TRUE,TRUE
+BFgam,2L,92,Burkina Faso,gambiae,TRUE,TRUE,TRUE
+CMgam,2L,297,Cameroon,gambiae,TRUE,TRUE,TRUE
+CIcol,2L,71,Cote d'Ivoire,coluzzii,TRUE,TRUE,TRUE
+GQgam,2L,9,Equatorial Guinea,gambiae,FALSE,FALSE,FALSE
+FRgam,2L,24,France,gambiae,TRUE,TRUE,FALSE
+GAgam,2L,69,Gabon,gambiae,TRUE,TRUE,TRUE
+GHcol,2L,55,Ghana,coluzzii,TRUE,TRUE,TRUE
+GHgam,2L,12,Ghana,gambiae,FALSE,TRUE,FALSE
+GNcol,2L,4,Guinea,coluzzii,FALSE,FALSE,FALSE
+GNgam,2L,40,Guinea,gambiae,TRUE,TRUE,TRUE
+UGgam,2L,112,Uganda,gambiae,TRUE,TRUE,TRUE
+AOcol,2R,78,Angola,coluzzii,TRUE,TRUE,TRUE
+BFcol,2R,75,Burkina Faso,coluzzii,TRUE,TRUE,TRUE
+BFgam,2R,92,Burkina Faso,gambiae,TRUE,TRUE,TRUE
+CMgam,2R,297,Cameroon,gambiae,TRUE,TRUE,TRUE
+CIcol,2R,71,Cote d'Ivoire,coluzzii,TRUE,TRUE,TRUE
+GQgam,2R,9,Equatorial Guinea,gambiae,FALSE,FALSE,FALSE
+FRgam,2R,24,France,gambiae,TRUE,TRUE,FALSE
+GAgam,2R,69,Gabon,gambiae,TRUE,TRUE,TRUE
+GHcol,2R,55,Ghana,coluzzii,TRUE,TRUE,TRUE
+GHgam,2R,12,Ghana,gambiae,FALSE,TRUE,FALSE
+GNcol,2R,4,Guinea,coluzzii,FALSE,FALSE,FALSE
+GNgam,2R,40,Guinea,gambiae,TRUE,TRUE,TRUE
+UGgam,2R,112,Uganda,gambiae,TRUE,TRUE,TRUE
+AOcol,3L,78,Angola,coluzzii,TRUE,TRUE,TRUE
+BFcol,3L,75,Burkina Faso,coluzzii,TRUE,TRUE,TRUE
+BFgam,3L,92,Burkina Faso,gambiae,TRUE,TRUE,TRUE
+CMgam,3L,297,Cameroon,gambiae,TRUE,TRUE,TRUE
+CIcol,3L,71,Cote d'Ivoire,coluzzii,TRUE,TRUE,TRUE
+GQgam,3L,9,Equatorial Guinea,gambiae,FALSE,FALSE,FALSE
+FRgam,3L,24,France,gambiae,TRUE,TRUE,FALSE
+GAgam,3L,69,Gabon,gambiae,TRUE,TRUE,TRUE
+GHcol,3L,55,Ghana,coluzzii,TRUE,TRUE,TRUE
+GHgam,3L,12,Ghana,gambiae,FALSE,TRUE,FALSE
+GNcol,3L,4,Guinea,coluzzii,FALSE,FALSE,FALSE
+GNgam,3L,40,Guinea,gambiae,TRUE,TRUE,TRUE
+UGgam,3L,112,Uganda,gambiae,TRUE,TRUE,TRUE
+AOcol,3R,78,Angola,coluzzii,TRUE,TRUE,TRUE
+BFcol,3R,75,Burkina Faso,coluzzii,TRUE,TRUE,TRUE
+BFgam,3R,92,Burkina Faso,gambiae,TRUE,TRUE,TRUE
+CMgam,3R,297,Cameroon,gambiae,TRUE,TRUE,TRUE
+CIcol,3R,71,Cote d'Ivoire,coluzzii,TRUE,TRUE,TRUE
+GQgam,3R,9,Equatorial Guinea,gambiae,FALSE,FALSE,FALSE
+FRgam,3R,24,France,gambiae,TRUE,TRUE,FALSE
+GAgam,3R,69,Gabon,gambiae,TRUE,TRUE,TRUE
+GHcol,3R,55,Ghana,coluzzii,TRUE,TRUE,TRUE
+GHgam,3R,12,Ghana,gambiae,FALSE,TRUE,FALSE
+GNcol,3R,4,Guinea,coluzzii,FALSE,FALSE,FALSE
+GNgam,3R,40,Guinea,gambiae,TRUE,TRUE,TRUE
+UGgam,3R,112,Uganda,gambiae,TRUE,TRUE,TRUE
+AOcol,X,78,Angola,coluzzii,TRUE,TRUE,TRUE
+BFcol,X,72,Burkina Faso,coluzzii,TRUE,TRUE,TRUE
+BFgam,X,67,Burkina Faso,gambiae,TRUE,TRUE,TRUE
+CMgam,X,253,Cameroon,gambiae,TRUE,TRUE,TRUE
+CIcol,X,71,Cote d'Ivoire,coluzzii,TRUE,TRUE,TRUE
+GQgam,X,9,Equatorial Guinea,gambiae,FALSE,FALSE,FALSE
+FRgam,X,12,France,gambiae,FALSE,TRUE,FALSE
+GAgam,X,69,Gabon,gambiae,TRUE,TRUE,TRUE
+GHcol,X,55,Ghana,coluzzii,TRUE,TRUE,TRUE
+GHgam,X,12,Ghana,gambiae,FALSE,TRUE,FALSE
+GNcol,X,4,Guinea,coluzzii,FALSE,FALSE,FALSE
+GNgam,X,40,Guinea,gambiae,TRUE,TRUE,TRUE
+UGgam,X,112,Uganda,gambiae,TRUE,TRUE,TRUE

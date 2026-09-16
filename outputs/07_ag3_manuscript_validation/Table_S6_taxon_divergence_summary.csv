@@ -1,0 +1,4 @@
+metric,mean,median,q90,q95,max
+Strict 23bp exact fraction absolute taxon difference,0.0665454643456355,0.024,0.1748,0.2616,0.992
+Functional target intact fraction absolute taxon difference,0.0647240727303464,0.024,0.1628,0.2534,0.992
+Maximum-position nonreference AF absolute taxon difference,0.043405555464375,0.012,0.1114,0.194,0.992

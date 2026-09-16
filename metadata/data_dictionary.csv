@@ -1,0 +1,10 @@
+variable,definition
+target_23bp_exact_match_fraction,Fraction of called phased haplotypes exactly matching the AgamP4 reference across the complete 20-nt protospacer + 3-nt PAM.
+pam_intact_fraction,Fraction of called phased haplotypes matching reference across the 3 PAM bases.
+protospacer_exact_match_fraction,Fraction matching reference across the 20 protospacer bases.
+max_target_variant_alt_af,"Largest alternate-allele frequency among SNPs falling in the 23-bp target, evaluated across primary country-taxon populations."
+mean_target_heterozygosity_proxy,"Mean 2p(1-p) per base across the 23-bp target, with invariant positions contributing zero; this is a heterozygosity proxy, not classical nucleotide diversity pi."
+population_q10_target_23bp_exact,10th percentile of country-taxon population exact-match fractions.
+population_breadth_ge_0_95,Fraction of assessed country-taxon populations with at least 95% exact target match.
+multiplex_robustness_score,Prespecified score for a 2- or 3-site portfolio based on global and population lower-tail probability that at least one target remains intact.
+gene_population_robustness_score,"Weighted combination of the best single-site, pair and triple robustness scores (55%, 30%, 15%, renormalized if a component is unavailable)."

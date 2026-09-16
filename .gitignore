@@ -1,0 +1,52 @@
+# Raw genomic data
+data_raw/
+*.vcf
+*.vcf.gz
+*.bcf
+*.tbi
+*.csi
+*.zarr
+*.zarr.zip
+*.h5
+*.hdf5
+
+# Large intermediates
+tmp/
+temp/
+cache/
+*.rds
+*.RData
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# R / IDE
+.Rhistory
+.Rproj.user/
+.Ruserdata
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Credentials / secrets
+.env
+*.pem
+*.key
+credentials*
+token*
+
+# Logs
+*.log
+
+# Do not ignore compact manuscript outputs by default.
+# Review output file size before committing.
+
+# Machine-specific environment pointer
+metadata/ag3_python_path.txt
+
+# Superseded slow Step-07 implementation
+R/07_ag3_manuscript_grade_validation.R

@@ -1,0 +1,14 @@
+file,lines,delimiter_quote_check,details,hardcoded_windows_path,absolute_setwd_literal
+R/00_preflight_and_freeze.R,166,PASS,OK,NO,NO
+R/01_acquire_ag3_metadata.R,185,PASS,OK,NO,NO
+R/02_extract_ag3_target_variation.R,417,PASS,OK,YES,NO
+R/03_compute_population_site_metrics.R,363,PASS,OK,NO,NO
+R/04_optimize_multiplex_portfolios.R,221,PASS,OK,NO,NO
+R/05_gene_robustness_and_reranking.R,214,PASS,OK,NO,NO
+R/06_sensitivity_and_validation.R,434,PASS,OK,NO,NO
+R/07_publication_figures_and_tables.R,289,PASS,OK,NO,NO
+R/07b_generate_manuscript_results_snapshot.R,131,PASS,OK,NO,NO
+R/08_freeze_reproducible_release.R,131,PASS,OK,NO,NO
+R/helpers.R,462,PASS,OK,YES,NO
+R/install_dependencies.R,50,PASS,OK,YES,NO
+run_all.R,89,PASS,OK,NO,NO

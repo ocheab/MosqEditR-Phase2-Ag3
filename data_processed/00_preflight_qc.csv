@@ -1,0 +1,10 @@
+metric,value
+Frozen genes,106
+Frozen sites,530
+Canonical-arm sites,515
+Unplaced-contig sites,15
+Genes represented on canonical arms,103
+External benchmark genes,6
+Non-benchmark genes,100
+Sites per gene minimum,5
+Sites per gene maximum,5

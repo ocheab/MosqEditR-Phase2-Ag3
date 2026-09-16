@@ -1,0 +1,11 @@
+metric,value
+Spearman frozen vs population-filtered rank (primary n20),0.688681764365065
+Median absolute rank shift (primary n20),15
+Maximum absolute rank shift (primary n20),123
+Spearman population-filtered rank n20 vs n10,1
+Spearman population-filtered rank n20 vs n30,0.976360934075623
+Max absolute site score difference: primary vs n20 recomputation,7.7715611723761e-16
+Max absolute gene score difference: primary vs n20 recomputation,8.88178419700125e-16
+All comparable site classes reproduce at n20,1
+All comparable gene classes reproduce at n20,1
+All comparable population-filtered gene ranks reproduce at n20,1

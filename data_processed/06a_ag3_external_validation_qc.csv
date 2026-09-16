@@ -1,0 +1,12 @@
+metric,value
+External validation run mode,final
+Locked sites evaluated,354
+Sites meeting prespecified external sample threshold,354
+Sites confirmed by observed thresholds,177
+Sites confirmed by conservative Wilson-CI thresholds,104
+Sites with taxon-balanced observed confirmation,142
+Phase2 haplotype exact vs Ag3 strict-genotype exact Spearman rho (rank-only diagnostic),0.822504
+Phase2-vs-Ag3 maximum position nonreference AF Spearman rho,0.745636
+Phase2-vs-Ag3 maximum position nonreference AF mean absolute difference,0.106904
+Discovery ranks changed by Ag3,0
+Discovery thresholds changed by Ag3,0

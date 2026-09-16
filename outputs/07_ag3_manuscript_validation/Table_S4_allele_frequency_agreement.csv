@@ -1,0 +1,7 @@
+metric,value
+Spearman rho,0.747698594476429
+Pearson r,0.70641789979301
+Mean difference (Ag3 - Phase2),-0.0429366194096537
+Mean absolute difference,0.105908946243569
+RMSE,0.191394958159965
+Lin CCC,0.694797294446081
