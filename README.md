@@ -209,8 +209,8 @@ Raw public data should instead be reacquired from their authoritative public rep
 
 ## Citation
 
-A `CITATION.cff` template is included. Update the authors, repository URL, version, and DOI after the first tagged release.
+xxxx
 
 ## License
 
-No software license is imposed by this documentation pack. Choose a license deliberately before public release. Common options for research code include MIT, BSD-3-Clause, or GPL-3.0. Dataset licenses and upstream Ag1000G/Ag3 terms remain separate from the software license.
+MIT. Dataset licenses and upstream Ag1000G/Ag3 terms remain separate from the software license.
